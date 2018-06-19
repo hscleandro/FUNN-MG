@@ -1,0 +1,3686 @@
+Category,Organisms,Year,Source
+eco,Escherichia coli K-12 MG1655,1997,RefSeq
+ecj,Escherichia coli K-12 W3110,2001,GenBank
+ecd,Escherichia coli K-12 DH10B,2008,GenBank
+ebw,Escherichia coli K-12 MC4100(MuLac) BW2952,2009,RefSeq
+ecok,Escherichia coli K-12 MDS42,2013,GenBank
+ece,Escherichia coli O157:H7 EDL933 (EHEC),2001,RefSeq
+ecs,Escherichia coli O157:H7 Sakai (EHEC),2001,RefSeq
+ecf,Escherichia coli O157:H7 EC4115 (EHEC),2008,GenBank
+etw,Escherichia coli O157:H7 TW14359 (EHEC),2009,RefSeq
+elx,Escherichia coli O157:H7 Xuzhou21 (EHEC),2012,GenBank
+eoj,Escherichia coli O26:H11 11368 (EHEC),2009,RefSeq
+eoi,Escherichia coli O111:H- 11128 (EHEC),2009,RefSeq
+eoh,Escherichia coli O103:H2 12009 (EHEC),2009,RefSeq
+ecg,Escherichia coli O127:H6 E2348/69 (EPEC),2008,GenBank
+eok,Escherichia coli O55:H7 CB9615 (EPEC),2010,GenBank
+elr,Escherichia coli O55:H7 RM12579 (EPEC),2012,GenBank
+ecc,Escherichia coli O6:K2:H1 CFT073 (UPEC),2002,RefSeq
+ecp,Escherichia coli O6:K15:H31 536 (UPEC),2006,RefSeq
+eci,Escherichia coli O18:K1:H7 UTI89 (UPEC),2006,RefSeq
+ecv,Escherichia coli APEC O1 (APEC),2006,RefSeq
+ecx,Escherichia coli O9 HS (commensal),2007,GenBank
+ecw,Escherichia coli E24377A (ETEC),2007,RefSeq
+ecm,Escherichia coli SMS-3-5 (environmental),2008,RefSeq
+ecy,Escherichia coli O152:H28 SE11 (commensal),2008,GenBank
+ecr,Escherichia coli O8 IAI1 (commensal),2009,GenBank
+ecq,Escherichia coli O81 ED1a (commensal),2009,GenBank
+eck,Escherichia coli 55989 (EAEC),2009,GenBank
+ect,Escherichia coli O7:K1 IAI39 (ExPEC),2009,RefSeq
+eoc,Escherichia coli O7:K1 CE10,2012,RefSeq
+eum,Escherichia coli O17:K52:H18 UMN026 (ExPEC),2009,RefSeq
+ecz,Escherichia coli O45:K1:H7 S88 (ExPEC),2009,GenBank
+elo,Escherichia coli O44:H18 042 (EAEC),2012,GenBank
+eln,Escherichia coli O83:H1 NRG 857C,2012,RefSeq
+elh,Escherichia coli O78:H11:K80 H10407 (ETEC),2012,GenBank
+ese,Escherichia coli O150:H5 SE15 (commensal),2012,RefSeq
+eso,Escherichia coli O104:H4 2009EL-2071,2012,GenBank
+esm,Escherichia coli O104:H4 2009EL-2050,2012,GenBank
+esl,Escherichia coli O104:H4 2011C-3493,2012,RefSeq
+ecl,Escherichia coli ATCC 8739,2008,GenBank
+ebr,Escherichia coli B REL606,2009,GenBank
+ebd,Escherichia coli BL21-Gold(DE3)pLysS AG,2009,GenBank
+eko,Escherichia coli KO11FL,2012,RefSeq
+ekf,Escherichia coli KO11FL,2012,GenBank
+eab,Escherichia coli ABU 83972,2012,RefSeq
+edh,Escherichia coli DH1,2012,RefSeq
+edj,Escherichia coli DH1,2012,GenBank
+eih,Escherichia coli IHE3034,2012,RefSeq
+ena,Escherichia coli NA114 (UPEC),2012,RefSeq
+elu,Escherichia coli UM146,2012,RefSeq
+eun,Escherichia coli UMNK88,2012,RefSeq
+elw,Escherichia coli W,2012,RefSeq
+ell,Escherichia coli W,2012,RefSeq
+elc,Escherichia coli clone D i14,2012,RefSeq
+eld,Escherichia coli clone D i2,2012,RefSeq
+elp,Escherichia coli P12b,2012,GenBank
+ebl,Escherichia coli BL21(DE3),2012,RefSeq
+ebe,Escherichia coli BL21(DE3),2012,RefSeq
+elf,Escherichia coli LF82,2012,RefSeq
+ecoa,Escherichia coli APEC O78,2013,GenBank
+ecol,Escherichia coli LY180,2013,RefSeq
+ecoi,Escherichia coli PMV-1,2013,RefSeq
+ecoj,Escherichia coli JJ1886,2013,RefSeq
+ecoo,Escherichia coli O145:H28 RM13514 (EHEC),2014,GenBank
+ecoh,Escherichia coli O145:H28 RM13516 (EHEC),2014,GenBank
+efe,Escherichia fergusonii,2008,RefSeq
+eal,Escherichia albertii,2015,GenBank
+sty,Salmonella enterica subsp. enterica serovar Typhi CT18,2001,RefSeq
+stt,Salmonella enterica subsp. enterica serovar Typhi Ty2,2003,RefSeq
+sex,Salmonella enterica subsp. enterica serovar Typhi P-stx-12,2012,RefSeq
+sent,Salmonella enterica subsp. enterica serovar Typhi Ty21a,2013,RefSeq
+stm,Salmonella enterica subsp. enterica serovar Typhimurium LT2,2001,RefSeq
+seo,Salmonella enterica subsp. enterica serovar Typhimurium 14028S,2012,RefSeq
+sev,Salmonella enterica subsp. enterica serovar Typhimurium D23580,2012,RefSeq
+sey,Salmonella enterica subsp. enterica serovar Typhimurium SL1344,2012,RefSeq
+sem,Salmonella enterica subsp. enterica serovar Typhimurium T000240,2012,RefSeq
+sej,Salmonella enterica subsp. enterica serovar Typhimurium UK-1,2012,RefSeq
+seb,Salmonella enterica subsp. enterica serovar Typhimurium ST4/74,2012,RefSeq
+sef,Salmonella enterica subsp. enterica serovar Typhimurium 798,2012,RefSeq
+setu,Salmonella enterica subsp. enterica serovar Typhimurium U288,2013,RefSeq
+setc,Salmonella enterica subsp. enterica serovar Typhimurium var. 5- CFSAN001921,2013,RefSeq
+seen,Salmonella enterica subsp. enterica serovar Typhimurium 08-1736,2013,RefSeq
+senr,Salmonella enterica subsp. enterica serovar Typhimurium DT2,2013,RefSeq
+send,Salmonella enterica subsp. enterica serovar Typhimurium DT104,2013,RefSeq
+seni,Salmonella enterica subsp. enterica serovar Typhimurium 138736,2014,GenBank
+spt,Salmonella enterica subsp. enterica serovar Paratyphi A ATCC9150,2004,GenBank
+sek,Salmonella enterica subsp. enterica serovar Paratyphi A AKU12601,2008,RefSeq
+spq,Salmonella enterica subsp. enterica serovar Paratyphi B,2007,GenBank
+sei,Salmonella enterica subsp. enterica serovar Paratyphi C,2009,RefSeq
+sec,Salmonella enterica subsp. enterica serovar Choleraesuis,2005,RefSeq
+seh,Salmonella enterica subsp. enterica serovar Heidelberg SL476,2008,RefSeq
+shb,Salmonella enterica subsp. enterica serovar Heidelberg B182,2012,RefSeq
+senh,Salmonella enterica subsp. enterica Serovar Heidelberg CFSAN002069,2013,RefSeq
+seeh,Salmonella enterica subsp. enterica serovar Heidelberg 41578,2013,RefSeq
+see,Salmonella enterica subsp. enterica serovar Newport SL254,2008,RefSeq
+senn,Salmonella enterica subsp. enterica serovar Newport USMARC-S3124.1,2013,RefSeq
+sew,Salmonella enterica subsp. enterica serovar Schwarzengrund,2008,RefSeq
+sea,Salmonella enterica subsp. enterica serovar Agona SL483,2008,RefSeq
+sens,Salmonella enterica subsp. enterica serovar Agona 24249,2013,RefSeq
+sed,Salmonella enterica subsp. enterica serovar Dublin,2008,RefSeq
+seg,Salmonella enterica subsp. enterica serovar Gallinarum 287/91,2008,RefSeq
+sel,Salmonella enterica subsp. enterica serovar Gallinarum/pullorum RKS5078,2012,RefSeq
+sega,Salmonella enterica subsp. enterica serovar Gallinarum/pullorum CDC1983-67,2013,RefSeq
+set,Salmonella enterica subsp. enterica serovar Enteritidis P125109,2008,RefSeq
+sena,Salmonella enterica subsp. enterica serovar Enteritidis EC20090135,2015,GenBank
+seno,Salmonella enterica subsp. enterica serovar Enteritidis EC20090193,2015,GenBank
+senv,Salmonella enterica subsp. enterica serovar Enteritidis EC20090332,2015,GenBank
+senq,Salmonella enterica subsp. enterica serovar Enteritidis EC20090531,2015,GenBank
+senl,Salmonella enterica subsp. enterica serovar Enteritidis OLF-SE1-1019-1,2015,GenBank
+senj,Salmonella enterica subsp. enterica serovar Javiana,2013,RefSeq
+seec,Salmonella enterica subsp. enterica Serovar Cubana,2013,RefSeq
+seeb,Salmonella enterica subsp. enterica serovar Bareilly,2013,RefSeq
+seep,Salmonella enterica subsp. enterica serovar Pullorum,2013,RefSeq
+senb,Salmonella enterica subsp. enterica serovar Bovismorbificans,2013,RefSeq
+sene,Salmonella enterica subsp. enterica serovar Thompson,2013,RefSeq
+senc,Salmonella enterica subsp. enterica serovar Tennessee,2015,GenBank
+ses,Salmonella enterica subsp. arizonae,2007,GenBank
+sbg,Salmonella bongori NCTC 12419,2011,RefSeq
+sbz,Salmonella bongori N268-08,2013,RefSeq
+sbv,Salmonella bongori serovar 48:z41:--,2014,GenBank
+ype,Yersinia pestis CO92 (biovar Orientalis),2001,RefSeq
+ypk,Yersinia pestis KIM10+ (biovar Mediaevalis),2002,RefSeq
+ypa,Yersinia pestis Antiqua (biovar Antiqua),2006,GenBank
+ypn,Yersinia pestis Nepal516 (biovar Antiqua),2006,GenBank
+ypm,Yersinia pestis 91001 (biovar Microtus),2004,RefSeq
+ypp,Yersinia pestis Pestoides F,2007,RefSeq
+ypg,Yersinia pestis Angola,2007,RefSeq
+ypz,Yersinia pestis Z176003,2010,RefSeq
+ypt,Yersinia pestis A1122,2012,RefSeq
+ypd,Yersinia pestis D106004,2012,RefSeq
+ypx,Yersinia pestis D182038,2012,RefSeq
+yph,Yersinia pestis biovar Medievalis Harbin 35,2012,RefSeq
+ypw,Yersinia pestis PBM19,2015,GenBank
+ypj,Yersinia pestis Harbin35,2015,GenBank
+ypv,Yersinia pestis Shasta,2015,GenBank
+ypl,Yersinia pestis El Dorado,2015,GenBank
+yps,Yersinia pseudotuberculosis IP32953 (serotype I),2004,RefSeq
+ypo,Yersinia pseudotuberculosis IP 32953 (serotype 1),2015,GenBank
+ypi,Yersinia pseudotuberculosis IP31758 (serotype O:1b),2007,RefSeq
+ypy,Yersinia pseudotuberculosis YPIII,2008,RefSeq
+ypb,Yersinia pseudotuberculosis PB1/+,2008,RefSeq
+ypq,Yersinia pseudotuberculosis ATCC 6904,2014,GenBank
+ypu,Yersinia pseudotuberculosis MD67,2015,GenBank
+ypr,Yersinia pseudotuberculosis EP2/+,2015,GenBank
+ypc,Yersinia pseudotuberculosis 1,2015,GenBank
+ypf,Yersinia pseudotuberculosis PA3606,2015,GenBank
+yen,Yersinia enterocolitica subsp. enterocolitica 8081,2007,RefSeq
+yep,Yersinia enterocolitica subsp. palearctica 105.5R(r),2011,RefSeq
+yey,Yersinia enterocolitica subsp. palearctica Y11,2012,RefSeq
+yel,Yersinia enterocolitica LC20,2014,GenBank
+yew,Yersinia enterocolitica WA,2015,GenBank
+yet,Yersinia enterocolitica 2516-87,2015,GenBank
+yef,Yersinia enterocolitica FORC_002,2015,GenBank
+yee,Yersinia enterocolitica (type O:5) YE53/03,2015,GenBank
+ysi,Yersinia similis,2014,GenBank
+yal,Yersinia aldovae,2015,GenBank
+yfr,Yersinia frederiksenii,2015,GenBank
+yin,Yersinia intermedia,2015,GenBank
+ykr,Yersinia kristensenii,2015,GenBank
+yro,Yersinia rohdei,2015,GenBank
+yru,Yersinia ruckeri YRB,2015,GenBank
+yrb,Yersinia ruckeri Big Creek 74,2015,GenBank
+yak,Yersinia aleksiciae,2015,GenBank
+sfl,Shigella flexneri 301 (serotype 2a),2002,RefSeq
+sfx,Shigella flexneri 2457T (serotype 2a),2003,RefSeq
+sfv,Shigella flexneri 8401 (serotype 5b),2006,RefSeq
+sfe,Shigella flexneri 2002017 (serotype Fxv),2012,RefSeq
+sfn,Shigella flexneri 2003036,2014,GenBank
+sfs,Shigella flexneri Shi06HN006 (serotype Yv),2014,GenBank
+sft,Shigella flexneri NCTC1,2015,GenBank
+ssn,Shigella sonnei Ss046,2005,RefSeq
+ssj,Shigella sonnei 53G,2012,RefSeq
+sbo,Shigella boydii Sb227,2005,RefSeq
+sbc,Shigella boydii CDC 3083-94,2008,RefSeq
+sdy,Shigella dysenteriae Sd197,2005,RefSeq
+sdz,Shigella dysenteriae 1617,2013,RefSeq
+eca,Pectobacterium atrosepticum SCRI1043,2004,RefSeq
+patr,Pectobacterium atrosepticum JG10-08,2014,GenBank
+pato,Pectobacterium atrosepticum 21A,2014,GenBank
+pct,Pectobacterium carotovorum subsp. carotovorum PC1,2009,RefSeq
+pcc,Pectobacterium carotovorum subsp. carotovorum PCC21,2012,RefSeq
+pcv,Pectobacterium carotovorum subsp. odoriferum,2014,GenBank
+pwa,Pectobacterium wasabiae,2009,RefSeq
+pec,Pectobacterium sp. SCC3193,2013,RefSeq
+eta,Erwinia tasmaniensis,2008,RefSeq
+epy,Erwinia pyrifoliae Ep1/96,2009,RefSeq
+epr,Erwinia pyrifoliae DSM 12163,2012,RefSeq
+eam,Erwinia amylovora CFBP1430,2010,RefSeq
+eay,Erwinia amylovora ATCC 49946,2010,RefSeq
+ebi,Erwinia billingiae,2010,RefSeq
+erj,Erwinia sp. Ejp617,2012,RefSeq
+plu,Photorhabdus luminescens,2003,RefSeq
+pay,Photorhabdus asymbiotica,2009,RefSeq
+ptt,Photorhabdus temperata,2015,GenBank
+buc,Buchnera aphidicola APS (Acyrthosiphon pisum),2000,RefSeq
+bap,Buchnera aphidicola 5A (Acyrthosiphon pisum),2009,RefSeq
+bau,Buchnera aphidicola Tuc7 (Acyrthosiphon pisum),2009,RefSeq
+baw,Buchnera aphidicola JF98 (Acyrthosiphon pisum),2012,RefSeq
+bajc,Buchnera aphidicola JF99 (Acyrthosiphon pisum),2012,RefSeq
+bua,Buchnera aphidicola LL01 (Acyrthosiphon pisum),2012,RefSeq
+bup,Buchnera aphidicola TLW03 (Acyrthosiphon pisum),2012,RefSeq
+bak,Buchnera aphidicola Ak (Acyrthosiphon kondoi),2012,RefSeq
+buh,Buchnera aphidicola Ua (Uroleucon ambrosiae),2012,RefSeq
+bapf,Buchnera aphidicola F009 (Myzus persicae),2014,GenBank
+bapg,Buchnera aphidicola G002 (Myzus persicae),2014,GenBank
+bapu,Buchnera aphidicola USDA (Myzus persicae),2014,GenBank
+bapw,Buchnera aphidicola W106 (Myzus persicae),2014,GenBank
+bas,Buchnera aphidicola Sg (Schizaphis graminum),2002,RefSeq
+bab,Buchnera aphidicola Bp (Baizongia pistaciae),2003,RefSeq
+bcc,Buchnera aphidicola Cc (Cinara cedri),2006,RefSeq
+baj,Buchnera aphidicola (Cinara tujafilina),2011,RefSeq
+wbr,Wigglesworthia glossinidia brevipalpis (Glossina brevipalpis),2002,RefSeq
+wgl,Wigglesworthia glossinidia morsitans (Glossina morsitans),2012,RefSeq
+sgl,Sodalis glossinidius (Glossina spp.),2006,RefSeq
+sod,Sodalis sp. HS1,2014,GenBank
+pes,Candidatus Sodalis pierantonius,2014,GenBank
+ent,Enterobacter sp. 638,2007,RefSeq
+enc,Enterobacter cloacae subsp. cloacae ATCC 13047,2010,RefSeq
+eno,Enterobacter cloacae subsp. cloacae ENHKU01,2012,RefSeq
+eclo,Enterobacter cloacae subsp. cloacae NCTC 9394,2013,GenBank
+eec,Enterobacter cloacae EcWSU1,2012,RefSeq
+enl,Enterobacter cloacae subsp. dissolvens SDM,2012,RefSeq
+ecla,Enterobacter cloacae ECNIH3,2014,GenBank
+eclc,Enterobacter cloacae ECR091,2014,GenBank
+eclg,Enterobacter cloacae GGT036,2014,GenBank
+ecle,Enterobacter cloacae ECNIH2,2014,GenBank
+ecln,Enterobacter cloacae ECNIH4,2014,GenBank
+ecli,Enterobacter cloacae ECNIH5,2015,GenBank
+eclx,Enterobacter cloacae 34399,2015,GenBank
+ecly,Enterobacter cloacae 34977,2015,GenBank
+eclz,Enterobacter cloacae 34983,2015,GenBank
+esc,Enterobacter lignolyticus,2010,RefSeq
+eas,Enterobacter asburiae LF7a,2011,RefSeq
+eau,Enterobacter asburiae L1,2014,GenBank
+eae,Enterobacter aerogenes KCTC 2190,2011,RefSeq
+ear,Enterobacter aerogenes EA1509E,2013,RefSeq
+enr,Enterobacter sp. R4-368,2013,RefSeq
+esa,Cronobacter sakazakii ATCC BAA-894,2007,RefSeq
+csk,Cronobacter sakazakii ES15,2012,RefSeq
+csz,Cronobacter sakazakii Sp291,2013,RefSeq
+csi,Cronobacter sakazakii CMCC 45402,2013,RefSeq
+csj,Cronobacter sakazakii ATCC 29544,2015,GenBank
+ctu,Siccibacter turicensis,2009,RefSeq
+kpn,Klebsiella pneumoniae subsp. pneumoniae MGH 78578,2007,RefSeq
+kpu,Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,2009,RefSeq
+kpm,Klebsiella pneumoniae subsp. pneumoniae HS11286,2012,RefSeq
+kpp,Klebsiella pneumoniae subsp. pneumoniae 1084,2012,RefSeq
+kpk,Klebsiella pneumoniae subsp. pneumoniae KP5-1,2014,GenBank
+kph,Klebsiella pneumoniae subsp. pneumoniae KPNIH24,2014,GenBank
+kpz,Klebsiella pneumoniae subsp. pneumoniae KPNIH27,2014,GenBank
+kpv,Klebsiella pneumoniae subsp. pneumoniae KPNIH29,2014,GenBank
+kpw,Klebsiella pneumoniae subsp. pneumoniae KPNIH30,2014,GenBank
+kpy,Klebsiella pneumoniae subsp. pneumoniae KPNIH31,2014,GenBank
+kpg,Klebsiella pneumoniae subsp. pneumoniae KPNIH32,2014,GenBank
+kpc,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,2015,GenBank
+kpq,Klebsiella pneumoniae subsp. pneumoniae KPR0928,2014,GenBank
+kpt,Klebsiella pneumoniae subsp. pneumoniae ATCC 43816 KPPR1,2014,GenBank
+kpe,Klebsiella pneumoniae 342,2008,RefSeq
+kpo,Klebsiella pneumoniae KCTC 2242,2012,RefSeq
+kpr,Klebsiella pneumoniae,2013,RefSeq
+kpj,Klebsiella pneumoniae JM45,2013,RefSeq
+kpi,Klebsiella pneumoniae CG43,2013,RefSeq
+kpa,Klebsiella pneumoniae 30660/NJST258_1,2014,GenBank
+kps,Klebsiella pneumoniae 30684/NJST258_2,2014,GenBank
+kpx,Klebsiella pneumoniae PMK1,2014,GenBank
+kpb,Klebsiella pneumoniae blaNDM-1,2014,GenBank
+kpne,Klebsiella pneumoniae 32192,2015,GenBank
+kpnu,Klebsiella pneumoniae 34618,2015,GenBank
+kva,Klebsiella variicola At-22,2010,RefSeq
+kvd,Klebsiella variicola DX120E,2015,GenBank
+kvq,Klebsiella variicola DSM 15968,2015,GenBank
+kox,Klebsiella oxytoca KCTC 1686,2012,RefSeq
+koe,Klebsiella oxytoca E718,2012,RefSeq
+koy,Klebsiella oxytoca HKOPL1,2014,GenBank
+kok,Klebsiella oxytoca KONIH1,2014,GenBank
+kom,Klebsiella oxytoca M1,2014,GenBank
+kmi,Klebsiella michiganensis,2015,GenBank
+cko,Citrobacter koseri,2007,RefSeq
+cro,Citrobacter rodentium,2010,RefSeq
+cfd,Citrobacter freundii,2014,GenBank
+cama,Citrobacter amalonaticus,2015,GenBank
+spe,Serratia proteamaculans,2007,RefSeq
+srr,Serratia plymuthica AS9,2011,RefSeq
+srl,Serratia plymuthica 4Rx13,2013,RefSeq
+sry,Serratia plymuthica S13,2013,RefSeq
+srs,Serratia sp. AS12,2011,RefSeq
+sra,Serratia sp. AS13,2012,RefSeq
+ssz,Serratia symbiotica,2012,GenBank
+smaf,Serratia marcescens FGI94,2013,RefSeq
+smw,Serratia marcescens WW4,2013,RefSeq
+smar,Serratia marcescens SM39,2015,GenBank
+smac,Serratia marcescens subsp. marcescens Db11,2015,GenBank
+slq,Serratia liquefaciens,2013,RefSeq
+serr,Serratia sp. ATCC 39006,2013,RefSeq
+sfo,Serratia fonticola,2014,GenBank
+serf,Serratia sp. FS14,2014,GenBank
+sers,Serratia sp. SCBI,2014,GenBank
+pmr,Proteus mirabilis HI4320,2008,RefSeq
+pmib,Proteus mirabilis BB2000,2013,RefSeq
+eic,Edwardsiella ictaluri,2009,RefSeq
+etr,Edwardsiella tarda EIB202,2009,GenBank
+etd,Edwardsiella tarda FL6-60,2012,RefSeq
+ete,Edwardsiella tarda 080813,2014,GenBank
+etc,Edwardsiella piscicida C07-087,2013,RefSeq
+edw,Edwardsiella sp. EA181011,2015,GenBank
+edl,Edwardsiella sp. LADL05-105,2015,GenBank
+bfl,Candidatus Blochmannia floridanus (Camponotus floridanus),2003,RefSeq
+bpn,Candidatus Blochmannia pennsylvanicus (Camponotus pennsylvanicus),2005,RefSeq
+bva,Candidatus Blochmannia vafer (Camponotus vafer),2011,RefSeq
+bchr,Candidatus Blochmannia chromaiodes (Camponotus chromaiodes),2013,RefSeq
+ben,Blochmannia endosymbiont of Camponotus (Colobopsis) obliquus 757,2015,GenBank
+bed,Blochmannia endosymbiont of Polyrhachis (Hedomyrma) turneri 675,2015,GenBank
+hde,Candidatus Hamiltonella defensa (Acyrthosiphon pisum),2009,GenBank
+sect,Secondary endosymbiont of Ctenarytaina eucalypti,2012,RefSeq
+sehc,Secondary endosymbiont of Heteropsylla cubana,2012,RefSeq
+dda,Dickeya dadantii Ech703,2009,RefSeq
+ddc,Dickeya dadantii Ech586,2009,RefSeq
+ddd,Dickeya dadantii 3937,2010,RefSeq
+dze,Dickeya zeae Ech1591,2009,RefSeq
+dzc,Dickeya zeae EC1,2015,GenBank
+xbo,Xenorhabdus bovienii SS-2004,2010,RefSeq
+xbv,Xenorhabdus bovienii CS03,2015,GenBank
+xne,Xenorhabdus nematophila ATCC 19061,2010,RefSeq
+xnm,Xenorhabdus nematophila AN6/1,2015,GenBank
+xdo,Xenorhabdus doucetiae,2015,GenBank
+xpo,Xenorhabdus poinarii,2015,GenBank
+pam,Pantoea ananatis LMG 20103,2010,RefSeq
+plf,Pantoea ananatis LMG 5342,2012,RefSeq
+paj,Pantoea ananatis AJ13355,2012,GenBank
+paq,Pantoea ananatis PA13,2012,RefSeq
+pva,Pantoea vagans,2010,RefSeq
+pao,Pantoea sp. At-9b,2011,RefSeq
+kln,Pantoea rwandensis,2014,GenBank
+pant,Pantoea sp. PSNIH1,2014,GenBank
+panp,Pantoea sp. PSNIH2,2015,GenBank
+hhs,Candidatus Pantoea carbekii,2013,RefSeq
+pck,Candidatus Pantoea carbekii US,2015,GenBank
+rip,Candidatus Riesia pediculicola,2010,RefSeq
+rah,Rahnella sp. Y9602,2011,RefSeq
+raq,Rahnella aquatilis CIP 78.65 = ATCC 33071,2012,RefSeq
+raa,Rahnella aquatilis HX2,2012,RefSeq
+men,Candidatus Moranella endobia PCIT,2011,RefSeq
+meo,Candidatus Moranella endobia PCVAL,2013,RefSeq
+psi,Providencia stuartii MRSN 2154,2012,RefSeq
+psx,Providencia stuartii ATCC 33672,2014,GenBank
+ebt,Shimwellia blattae,2012,RefSeq
+mmk,Morganella morganii,2013,GenBank
+ror,Raoultella ornithinolytica B6,2013,RefSeq
+ron,Raoultella ornithinolytica S12,2015,GenBank
+cnt,Cedecea neteri,2014,GenBank
+cem,Cedecea sp. M006,2014,GenBank
+cen,Cedecea sp. ND14a,2014,GenBank
+ced,Cedecea sp. ND14b,2014,GenBank
+pge,Pluralibacter gergoviae,2014,GenBank
+hav,Hafnia alvei,2014,GenBank
+ksa,Kosakonia sacchari,2015,GenBank
+kin,Kluyvera intermedia,2015,GenBank
+pfq,Pragia fontium,2015,GenBank
+sbw,Symbiont bacterium UwTKB of Urostylis westwoodii,2015,GenBank
+ebf,Enterobacteriaceae bacterium FGI 57,2013,RefSeq
+psts,Plautia stali symbiont,2014,RefSeq
+hin,Haemophilus influenzae Rd KW20 (serotype d),1995,RefSeq
+hit,Haemophilus influenzae 86-028NP (nontypeable),2005,RefSeq
+hip,Haemophilus influenzae PittEE (nontypeable),2007,RefSeq
+hiq,Haemophilus influenzae PittGG (nontypeable),2007,RefSeq
+hif,Haemophilus influenzae F3031 (nontypeable),2011,GenBank
+hil,Haemophilus influenzae F3047 (nontypeable),2011,RefSeq
+hiu,Haemophilus influenzae 10810 (serotype b),2012,RefSeq
+hie,Haemophilus influenzae R2846 (nontypeable),2012,RefSeq
+hiz,Haemophilus influenzae R2866 (nontypeable),2012,RefSeq
+hik,Haemophilus influenzae KR494 (serotype f),2013,RefSeq
+hia,Haemophilus influenzae CGSHiCZ412602,2014,GenBank
+hih,Haemophilus influenzae Hi375,2014,GenBank
+hiw,Haemophilus influenzae 477,2015,GenBank
+hic,Haemophilus influenzae C486,2015,GenBank
+hix,Haemophilus influenzae 723,2015,GenBank
+hdu,Haemophilus ducreyi,2003,RefSeq
+hap,Haemophilus parasuis SH0165,2009,RefSeq
+hpaz,Haemophilus parasuis ZJ0906,2013,RefSeq
+hpas,Haemophilus parasuis SH03,2014,GenBank
+hpak,Haemophilus parasuis KL0318,2014,GenBank
+hpr,Haemophilus parainfluenzae,2011,GenBank
+hso,Haemophilus somnus 129PT,2006,RefSeq
+hsm,Haemophilus somnus 2336,2008,RefSeq
+pmu,Pasteurella multocida subsp. multocida Pm70,2001,RefSeq
+pmv,Pasteurella multocida subsp. multocida HN06,2012,RefSeq
+pul,Pasteurella multocida subsp. multocida 3480,2012,RefSeq
+pmp,Pasteurella multocida 36950,2012,RefSeq
+pmul,Pasteurella multocida ATCC 43137,2014,GenBank
+msu,Mannheimia succiniciproducens,2004,RefSeq
+mht,Mannheimia haemolytica USDA-ARS-SAM-185,2013,RefSeq
+mhq,Mannheimia haemolytica USDA-ARS-USMARC-183,2013,RefSeq
+mhat,Mannheimia haemolytica USDA-ARS-USMARC-184,2015,GenBank
+mhx,Mannheimia haemolytica M42548,2013,RefSeq
+mhae,Mannheimia haemolytica D153,2013,RefSeq
+mham,Mannheimia haemolytica D171,2013,RefSeq
+mhao,Mannheimia haemolytica D174,2013,RefSeq
+mhal,Mannheimia haemolytica USMARC_2286,2013,RefSeq
+mhaq,Mannheimia haemolytica 89010807N,2015,GenBank
+mhay,Mannheimia haemolytica 89010807N lktA-,2015,GenBank
+mvr,Mannheimia varigena USDA-ARS-USMARC-1261,2014,GenBank
+mvi,Mannheimia varigena USDA-ARS-USMARC-1296,2014,GenBank
+mvg,Mannheimia varigena USDA-ARS-USMARC-1312,2014,GenBank
+mve,Mannheimia varigena USDA-ARS-USMARC-1388,2014,GenBank
+apl,Actinobacillus pleuropneumoniae L20 (serotype 5b),2007,RefSeq
+apj,Actinobacillus pleuropneumoniae JL03 (serotype 3),2008,RefSeq
+apa,Actinobacillus pleuropneumoniae AP76 (serotype 7),2008,RefSeq
+asu,Actinobacillus succinogenes,2007,RefSeq
+asi,Actinobacillus suis H91-0380,2012,RefSeq
+ass,Actinobacillus suis ATCC 33415,2014,GenBank
+aeu,Actinobacillus equuli,2014,GenBank
+aap,Aggregatibacter aphrophilus,2009,RefSeq
+aat,Aggregatibacter actinomycetemcomitans D11S-1,2009,GenBank
+aao,Aggregatibacter actinomycetemcomitans ANH9381,2012,RefSeq
+aan,Aggregatibacter actinomycetemcomitans D7S-1,2012,RefSeq
+aah,Aggregatibacter actinomycetemcomitans HK1651,2014,GenBank
+gan,Gallibacterium anatis,2011,RefSeq
+bto,Bibersteinia trehalosi USDA-ARS-USMARC-192,2013,RefSeq
+btre,Bibersteinia trehalosi USDA-ARS-USMARC-188,2014,GenBank
+btrh,Bibersteinia trehalosi USDA-ARS-USMARC-189,2014,GenBank
+btra,Bibersteinia trehalosi USDA-ARS-USMARC-190,2014,GenBank
+xfa,Xylella fastidiosa 9a5c,2000,RefSeq
+xft,Xylella fastidiosa Temecula1,2003,RefSeq
+xfm,Xylella fastidiosa M12,2008,RefSeq
+xfn,Xylella fastidiosa M23,2008,RefSeq
+xff,Xylella fastidiosa subsp. fastidiosa GB514,2012,RefSeq
+xfl,Xylella fastidiosa MUL0034,2014,GenBank
+xfs,Xylella fastidiosa subsp. sandyi Ann-1,2014,GenBank
+xcc,Xanthomonas campestris pv. campestris ATCC 33913,2002,RefSeq
+xcb,Xanthomonas campestris pv. campestris 8004,2005,RefSeq
+xca,Xanthomonas campestris pv. campestris B100,2008,RefSeq
+xcp,Xanthomonas campestris pv. raphani,2012,RefSeq
+xcv,Xanthomonas campestris pv. vesicatoria,2005,RefSeq
+xac,Xanthomonas citri pv. citri 306,2002,RefSeq
+xci,Xanthomonas citri subsp. citri Aw12879,2013,RefSeq
+xct,Xanthomonas citri subsp. citri A306,2015,GenBank
+xcu,Xanthomonas citri subsp. citri UI7,2015,GenBank
+xcn,Xanthomonas citri subsp. citri NT17,2015,GenBank
+xcw,Xanthomonas citri subsp. citri MN10,2015,GenBank
+xcr,Xanthomonas citri subsp. citri MN11,2015,GenBank
+xcm,Xanthomonas citri subsp. citri MN12,2015,GenBank
+xcf,Xanthomonas citri subsp. citri mf20,2015,GenBank
+xcj,Xanthomonas citri subsp. citri UI6,2015,GenBank
+xfu,Xanthomonas fuscans,2014,RefSeq
+xax,Xanthomonas alfalfae,2011,RefSeq
+xao,Xanthomonas axonopodis Xac29-1,2013,RefSeq
+xoo,Xanthomonas oryzae pv. oryzae KACC 10331,2005,RefSeq
+xom,Xanthomonas oryzae pv. oryzae MAFF311018,2006,RefSeq
+xop,Xanthomonas oryzae pv. oryzae PXO99A,2008,RefSeq
+xoy,Xanthomonas oryzae pv. oryzae PXO86,2015,GenBank
+xor,Xanthomonas oryzae pv. oryzicola BLS256,2012,RefSeq
+xoz,Xanthomonas oryzae pv. oryzicola CFBP7342,2015,GenBank
+xal,Xanthomonas albilineans,2010,RefSeq
+xsa,Xanthomonas sacchari,2015,GenBank
+xtn,Xanthomonas translucens,2015,GenBank
+sml,Stenotrophomonas maltophilia K279a,2008,RefSeq
+smt,Stenotrophomonas maltophilia R551-3,2008,RefSeq
+buj,Stenotrophomonas maltophilia JV3,2011,RefSeq
+smz,Stenotrophomonas maltophilia D457,2012,RefSeq
+psu,Pseudoxanthomonas suwonensis,2011,RefSeq
+psd,Pseudoxanthomonas spadix,2011,RefSeq
+fau,Frateuria aurantia,2012,RefSeq
+rhd,Rhodanobacter denitrificans,2013,RefSeq
+dji,Dyella jiangningensis,2014,GenBank
+dja,Dyella japonica,2014,GenBank
+vch,Vibrio cholerae O1 biovar El Tor N16961,2000,RefSeq
+vcf,Vibrio cholerae O1 biovar El Tor FJ147,2015,GenBank
+vce,Vibrio cholerae O1 2010EL-1786,2011,RefSeq
+vcj,Vibrio cholerae MJ-1236,2009,RefSeq
+vco,Vibrio cholerae O395,2007,RefSeq
+vcr,Vibrio cholerae O395,2012,RefSeq
+vcm,Vibrio cholerae M66-2,2009,RefSeq
+vci,Vibrio cholerae IEC224,2012,RefSeq
+vcl,Vibrio cholerae LMA3984-4,2012,RefSeq
+vcq,Vibrio cholerae 2012EL-2176,2014,GenBank
+vcs,Vibrio cholerae MS6,2015,GenBank
+vcx,Vibrio cholerae 1154-74,2015,GenBank
+vcz,Vibrio cholerae 10432-62,2015,GenBank
+vvu,Vibrio vulnificus CMCP6,2002,RefSeq
+vvy,Vibrio vulnificus YJ016,2003,RefSeq
+vvm,Vibrio vulnificus MO6-24/O,2011,RefSeq
+vvl,Vibrio vulnificus 93U204,2014,GenBank
+vpa,Vibrio parahaemolyticus RIMD 2210633,2003,RefSeq
+vpb,Vibrio parahaemolyticus BB22OP,2013,RefSeq
+vpk,Vibrio parahaemolyticus O1:K33 CDC_K4557,2013,RefSeq
+vpf,Vibrio parahaemolyticus O1:Kuk FDA_R31,2013,RefSeq
+vph,Vibrio parahaemolyticus UCM-V493,2014,GenBank
+vha,Vibrio campbellii,2007,GenBank
+vca,Vibrio campbellii,2013,RefSeq
+vag,Vibrio alginolyticus,2013,RefSeq
+vsp,Vibrio splendidus,2008,RefSeq
+vex,Vibrio sp. Ex25,2009,RefSeq
+vej,Vibrio sp. EJY3,2012,RefSeq
+vfu,Vibrio furnissii,2012,RefSeq
+vni,Vibrio nigripulchritudo,2013,RefSeq
+van,Vibrio anguillarum 775,2011,RefSeq
+lag,Vibrio anguillarum M3,2013,RefSeq
+vau,Vibrio anguillarum NB10,2015,GenBank
+vcy,Vibrio coralliilyticus RE98,2014,GenBank
+vct,Vibrio coralliilyticus OCN014,2014,GenBank
+vtu,Vibrio tubiashii,2014,GenBank
+vfi,Aliivibrio fischeri ES114,2005,RefSeq
+vfm,Aiivibrio fischeri MJ11,2008,RefSeq
+vsa,Aliivibrio salmonicida,2008,RefSeq
+awd,Aliivibrio wodanis,2015,GenBank
+ppr,Photobacterium profundum,2004,RefSeq
+pgb,Photobacterium gaetbulicola,2015,GenBank
+pae,Pseudomonas aeruginosa PAO1,2000,RefSeq
+paev,Pseudomonas aeruginosa PAO1-VE13,2014,RefSeq
+paei,Pseudomonas aeruginosa PAO1-VE2,2014,RefSeq
+pau,Pseudomonas aeruginosa UCBPP-PA14,2006,RefSeq
+pap,Pseudomonas aeruginosa PA7,2007,RefSeq
+pag,Pseudomonas aeruginosa LESB58,2009,RefSeq
+paf,Pseudomonas aeruginosa M18,2012,RefSeq
+pnc,Pseudomonas aeruginosa NCGM2.S1,2012,RefSeq
+paeb,Pseudomonas aeruginosa NCGM 1900,2015,GenBank
+pdk,Pseudomonas aeruginosa DK2,2012,RefSeq
+psg,Pseudomonas aeruginosa B136-33,2013,RefSeq
+prp,Pseudomonas aeruginosa RP73,2013,RefSeq
+paep,Pseudomonas aeruginosa PA1,2013,RefSeq
+paer,Pseudomonas aeruginosa PA1R,2013,RefSeq
+paem,Pseudomonas aeruginosa MTB-1,2013,RefSeq
+pael,Pseudomonas aeruginosa LES431,2013,RefSeq
+paes,Pseudomonas aeruginosa SCV20265,2013,RefSeq
+paeu,Pseudomonas aeruginosa PA38182,2014,GenBank
+paeg,Pseudomonas aeruginosa YL84,2014,GenBank
+paec,Pseudomonas aeruginosa c7447m,2014,RefSeq
+paeo,Pseudomonas aeruginosa PAO581,2014,RefSeq
+ppu,Pseudomonas putida KT2440,2003,RefSeq
+ppf,Pseudomonas putida F1,2007,RefSeq
+ppg,Pseudomonas putida GB-1,2008,RefSeq
+ppw,Pseudomonas putida W619,2008,RefSeq
+ppt,Pseudomonas putida S16,2011,RefSeq
+ppb,Pseudomonas putida BIRD-1,2012,RefSeq
+ppi,Pseudomonas putida ND6,2012,GenBank
+ppx,Pseudomonas putida DOT-T1E,2012,RefSeq
+ppuh,Pseudomonas putida HB3267,2012,RefSeq
+pput,Pseudomonas putida H8234,2013,RefSeq
+ppun,Pseudomonas putida NBRC 14164,2013,RefSeq
+ppud,Pseudomonas putida DLL-E4,2014,GenBank
+pfv,Pseudomonas fulva,2011,RefSeq
+pmon,Pseudomonas monteilii SB3078,2013,RefSeq
+pmot,Pseudomonas monteilii SB3101,2013,RefSeq
+pmos,Pseudomonas mosselii,2014,GenBank
+ppj,Pseudomonas plecoglossicida,2015,GenBank
+pst,Pseudomonas syringae pv. tomato DC3000,2003,RefSeq
+psb,Pseudomonas syringae pv. syringae B728a,2005,RefSeq
+psyr,Pseudomonas syringae CC1557,2014,GenBank
+psp,Pseudomonas syringae pv. phaseolicola 1448A,2005,RefSeq
+pci,Pseudomonas cichorii,2014,GenBank
+pfl,Pseudomonas protegens Pf-5,2005,RefSeq
+pprc,Pseudomonas protegens CHA0,2013,RefSeq
+ppro,Pseudomonas protegens Cab57,2015,GenBank
+pfo,Pseudomonas fluorescens Pf0-1,2005,RefSeq
+pfs,Pseudomonas fluorescens SBW25,2009,RefSeq
+pfe,Pseudomonas fluorescens F113,2012,RefSeq
+pfc,Pseudomonas fluorescens A506,2012,RefSeq
+pfn,Pseudomonas fluorescens UK4,2014,GenBank
+pfw,Pseudomonas fluorescens PCL1751,2015,GenBank
+pfb,Pseudomonas fluorescens LBUM223,2015,GenBank
+pff,Pseudomonas fluorescens PICF7,2015,GenBank
+ppz,Pseudomonas poae,2013,RefSeq
+pman,Pseudomonas mandelii,2015,GenBank
+ptv,Pseudomonas trivialis,2015,GenBank
+pen,Pseudomonas entomophila,2006,RefSeq
+pmy,Pseudomonas mendocina ymp,2007,RefSeq
+pmk,Pseudomonas mendocina NK-01,2011,RefSeq
+psa,Pseudomonas stutzeri A1501,2007,RefSeq
+psz,Pseudomonas stutzeri ATCC 17588,2011,RefSeq
+psr,Pseudomonas stutzeri DSM 4166,2012,RefSeq
+psc,Pseudomonas stutzeri CCUG 29243,2012,RefSeq
+psj,Pseudomonas stutzeri DSM 10701,2012,RefSeq
+psh,Pseudomonas stutzeri RCH2,2012,RefSeq
+pstu,Pseudomonas stutzeri 19SMN4,2014,GenBank
+pstt,Pseudomonas stutzeri 28a24,2014,GenBank
+pbm,Pseudomonas balearica,2015,GenBank
+pba,Pseudomonas brassicacearum subsp. brassicacearum NFM421,2011,RefSeq
+pbc,Pseudomonas brassicacearum DF41,2014,GenBank
+ppuu,Pseudomonas sp. UW4,2012,RefSeq
+pdr,Pseudomonas denitrificans,2013,RefSeq
+pre,Pseudomonas resinovorans,2013,RefSeq
+ppse,Pseudomonas pseudoalcaligenes,2015,GenBank
+psv,Pseudomonas sp. VLB120,2013,RefSeq
+psk,Pseudomonas sp. TKP,2013,RefSeq
+pkc,Pseudomonas knackmussii,2014,GenBank
+pch,Pseudomonas chlororaphis PA23,2014,GenBank
+pcz,Pseudomonas chlororaphis PCL1606,2015,GenBank
+pcp,Pseudomonas chlororaphis subsp. aurantiaca,2014,GenBank
+palk,Pseudomonas alkylphenolia,2014,GenBank
+prh,Pseudomonas rhizosphaerae,2014,GenBank
+psw,Pseudomonas cremoricolorata,2014,GenBank
+ppv,Pseudomonas parafulva,2015,GenBank
+pses,Pseudomonas sp. StFLB209,2015,GenBank
+psem,Pseudomonas sp. MRSN12121,2015,GenBank
+psec,Pseudomonas sp. CCOS 191,2015,GenBank
+cja,Cellvibrio japonicus,2008,RefSeq
+avn,Azotobacter vinelandii DJ,2009,RefSeq
+avl,Azotobacter vinelandii CA,2013,RefSeq
+avd,Azotobacter vinelandii CA6,2013,RefSeq
+acx,Azotobacter chroococcum,2015,GenBank
+par,Psychrobacter arcticus,2005,RefSeq
+pcr,Psychrobacter cryohalolentis,2006,RefSeq
+prw,Psychrobacter sp. PRwf-1,2007,RefSeq
+pso,Psychrobacter sp. G,2013,RefSeq
+aci,Acinetobacter sp. ADP1,2004,GenBank
+acd,Acinetobacter oleivorans,2010,RefSeq
+acb,Acinetobacter baumannii ATCC 17978,2007,RefSeq
+abm,Acinetobacter baumannii SDF,2008,RefSeq
+aby,Acinetobacter baumannii AYE,2008,RefSeq
+abc,Acinetobacter baumannii ACICU,2008,RefSeq
+abn,Acinetobacter baumannii AB0057,2008,RefSeq
+abb,Acinetobacter baumannii AB307-0294,2008,RefSeq
+abx,Acinetobacter baumannii 1656-2,2012,RefSeq
+abz,Acinetobacter baumannii MDR-ZJ06,2012,RefSeq
+abr,Acinetobacter baumannii MDR-TJ,2012,RefSeq
+abd,Acinetobacter baumannii TCDC-AB0715,2012,RefSeq
+abh,Acinetobacter baumannii TYTH-1,2012,RefSeq
+abad,Acinetobacter baumannii D1279779,2013,RefSeq
+abj,Acinetobacter baumannii BJAB07104,2013,RefSeq
+abab,Acinetobacter baumannii BJAB0715,2013,RefSeq
+abaj,Acinetobacter baumannii BJAB0868,2013,RefSeq
+abaz,Acinetobacter baumannii ZW85-1,2013,RefSeq
+abk,Acinetobacter baumannii AbH12O-A2,2014,GenBank
+abau,Acinetobacter baumannii AB030,2014,GenBank
+abaa,Acinetobacter baumannii AB031,2014,GenBank
+abw,Acinetobacter baumannii AC29,2014,GenBank
+abal,Acinetobacter baumannii LAC-4,2015,GenBank
+acc,Acinetobacter calcoaceticus,2012,RefSeq
+mct,Moraxella catarrhalis RH4,2010,RefSeq
+mcs,Moraxella catarrhalis 25240,2014,GenBank
+mcat,Moraxella catarrhalis 25239,2014,GenBank
+son,Shewanella oneidensis,2002,RefSeq
+sdn,Shewanella denitrificans,2006,RefSeq
+sfr,Shewanella frigidimarina,2006,RefSeq
+saz,Shewanella amazonensis,2006,RefSeq
+sbl,Shewanella baltica OS155,2007,RefSeq
+sbm,Shewanella baltica OS185,2007,RefSeq
+sbn,Shewanella baltica OS195,2007,RefSeq
+sbp,Shewanella baltica OS223,2008,RefSeq
+sbt,Shewanella baltica OS678,2012,RefSeq
+sbs,Shewanella baltica OS117,2012,RefSeq
+sbb,Shewanella baltica BA175,2012,RefSeq
+slo,Shewanella loihica,2007,RefSeq
+spc,Shewanella putrefaciens CN-32,2007,RefSeq
+shp,Shewanella putrefaciens 200,2012,RefSeq
+sse,Shewanella sediminis,2007,RefSeq
+spl,Shewanella pealeana,2007,RefSeq
+she,Shewanella sp. MR-4,2006,RefSeq
+shm,Shewanella sp. MR-7,2006,RefSeq
+shn,Shewanella sp. ANA-3,2006,RefSeq
+shw,Shewanella sp. W3-18-1,2007,RefSeq
+shl,Shewanella halifaxensis,2008,RefSeq
+swd,Shewanella woodyi,2008,RefSeq
+swp,Shewanella piezotolerans,2008,RefSeq
+svo,Shewanella violacea,2010,RefSeq
+ilo,Idiomarina loihiensis L2TR,2004,RefSeq
+ili,Idiomarina loihiensis GSL 199,2013,RefSeq
+cps,Colwellia psychrerythraea,2005,RefSeq
+pha,Pseudoalteromonas haloplanktis,2005,RefSeq
+pat,Pseudoalteromonas atlantica,2006,RefSeq
+psm,Pseudoalteromonas sp. SM9913,2010,RefSeq
+pseo,Pseudoalteromonas sp. OCN003,2015,GenBank
+sde,Saccharophagus degradans,2006,RefSeq
+maq,Marinobacter hydrocarbonoclasticus VT8,2007,RefSeq
+mhc,Marinobacter hydrocarbonoclasticus ATCC 49840,2012,RefSeq
+mad,Marinobacter adhaerens,2012,RefSeq
+mbs,Marinobacter sp. BSs20148,2012,RefSeq
+msr,Marinobacter salarius,2015,GenBank
+msx,Marinobacter similis,2015,GenBank
+mpq,Marinobacter psychrophilus,2015,GenBank
+amc,Alteromonas macleodii Deep ecotype,2008,RefSeq
+amac,Alteromonas macleodii ATCC 27126,2012,RefSeq
+amb,Alteromonas macleodii Balearic Sea AD45,2012,RefSeq
+amg,Alteromonas macleodii English Channel 673,2012,RefSeq
+amh,Alteromonas macleodii English Channel 615,2013,RefSeq
+amk,Alteromonas macleodii Black Sea 11,2012,RefSeq
+amaa,Alteromonas macleodii AltDE1,2012,RefSeq
+amal,Alteromonas macleodii Ionian Sea U4,2013,RefSeq
+amae,Alteromonas macleodii Ionian Sea U7,2013,RefSeq
+amao,Alteromonas macleodii Ionian Sea U8,2013,RefSeq
+amad,Alteromonas macleodii Ionian Sea UM4b,2013,RefSeq
+amai,Alteromonas macleodii Ionian Sea UM7,2013,RefSeq
+amag,Alteromonas macleodii Aegean Sea MED64,2013,RefSeq
+alt,Alteromonas sp. SN2,2011,RefSeq
+aal,Alteromonas australica H 17,2014,GenBank
+aaus,Alteromonas australica DE170,2015,GenBank
+gag,Glaciecola sp. 4H-3-7+YE-5,2011,RefSeq
+gni,Glaciecola nitratireducens,2011,RefSeq
+gps,Paraglaciecola psychrophila,2013,RefSeq
+spoi,Spongiibacter sp. IMCC21906,2015,GenBank
+pin,Psychromonas ingrahamii,2006,RefSeq
+psy,Psychromonas sp. CNPT3,2013,RefSeq
+ttu,Teredinibacter turnerae,2009,RefSeq
+fbl,Ferrimonas balearica,2010,RefSeq
+mvs,Moritella viscosa,2015,GenBank
+cbu,Coxiella burnetii RSA 493,2003,RefSeq
+cbs,Coxiella burnetii RSA 331,2007,RefSeq
+cbd,Coxiella burnetii Dugway 5J108-111,2007,RefSeq
+cbg,Coxiella burnetii CbuG_Q212,2008,RefSeq
+cbc,Coxiella burnetii CbuK_Q154,2008,RefSeq
+cea,Coxiella endosymbiont of Amblyomma americanum,2015,GenBank
+cey,Coxiella-like endosymbiont,2015,GenBank
+lpn,Legionella pneumophila subsp. pneumophila Philadelphia 1,2004,RefSeq
+lph,Legionella pneumophila subsp. pneumophila HL06041035,2012,RefSeq
+lpo,Legionella pneumophila subsp. pneumophila Lorraine,2012,RefSeq
+lpu,Legionella pneumophila subsp. pneumophila LPE509,2013,RefSeq
+lpm,Legionella pneumophila subsp. pneumophila Thunder Bay,2013,RefSeq
+lpf,Legionella pneumophila Lens,2004,RefSeq
+lpp,Legionella pneumophila Paris,2004,RefSeq
+lpc,Legionella pneumophila Corby,2007,RefSeq
+lpa,Legionella pneumophila 2300/99 Alcoy,2010,RefSeq
+lpe,Legionella pneumophila subsp. pneumophila ATCC 43290,2012,RefSeq
+llo,Legionella longbeachae,2010,RefSeq
+lfa,Legionella fallonii,2015,GenBank
+lha,Legionella hackeliae,2015,GenBank
+lok,Legionella oakridgensis,2015,GenBank
+tmc,Tatlockia micdadei,2015,GenBank
+mca,Methylococcus capsulatus,2004,RefSeq
+mmt,Methylomonas methanica,2011,RefSeq
+mah,Methylomicrobium alcaliphilum,2011,RefSeq
+ftu,Francisella tularensis subsp. tularensis SCHU S4,2004,RefSeq
+ftq,Francisella tularensis subsp. tularensis SCHU S4 NR-28534,2015,GenBank
+ftf,Francisella tularensis subsp. tularensis FSC198,2006,RefSeq
+ftw,Francisella tularensis subsp. tularensis WY96-3418,2007,RefSeq
+ftr,Francisella tularensis subsp. tularensis NE061598,2012,RefSeq
+ftt,Francisella tularensis subsp. tularensis TI0902,2012,RefSeq
+fty,Francisella tularensis subsp. tularensis WY96,2015,GenBank
+ftg,Francisella tularensis TIGB03,2012,RefSeq
+ftl,Francisella tularensis subsp. holarctica LVS,2006,RefSeq
+fth,Francisella tularensis subsp. holarctica OSU18,2006,RefSeq
+fta,Francisella tularensis subsp. holarctica FTNF002-00,2007,RefSeq
+fts,Francisella tularensis subsp. holarctica F92,2012,RefSeq
+fti,Francisella tularensis subsp. holarctica FSC200,2012,RefSeq
+fto,Francisella tularensis subsp. holarctica PHIT-FT049,2014,GenBank
+ftc,Francisella tularensis subsp. holarctica FTT_1,2015,GenBank
+ftv,Francisella tularensis subsp. holarctica VT68,2015,GenBank
+ftz,Francisella tularensis subsp. holarctica 425,2015,GenBank
+ftm,Francisella tularensis subsp. mediasiatica FSC147,2008,RefSeq
+ftn,Francisella tularensis subsp. novicida U112,2006,RefSeq
+ftx,Francisella tularensis subsp. novicida U112,2015,GenBank
+ftd,Francisella tularensis subsp. novicida F6168,2015,GenBank
+fcf,Francisella cf. novicida Fx1,2012,RefSeq
+fcn,Francisella cf. novicida 3523,2012,RefSeq
+fph,Francisella philomiragia subsp. philomiragia ATCC 25017,2008,RefSeq
+fpt,Francisella philomiragia subsp. philomiragia ATCC 25015 O#319L,2015,GenBank
+fpi,Francisella philomiragia O#319-029,2015,GenBank
+fpm,Francisella philomiragia O#319-036,2015,GenBank
+fpx,Francisella philomiragia O#319-067,2015,GenBank
+fpz,Francisella philomiragia GA01-2794,2015,GenBank
+fpj,Francisella philomiragia GA01-2801,2015,GenBank
+frt,Francisella sp. TX077308,2011,RefSeq
+fna,Francisella noatunensis subsp. orientalis Toba 04,2012,RefSeq
+fnl,Francisella noatunensis subsp. orientalis LADL--07-285A,2013,RefSeq
+frf,Francisella sp. FSC1006,2014,GenBank
+fgu,Francisella guangzhouensis,2015,GenBank
+tcx,Thiomicrospira crunogena,2005,RefSeq
+tcy,Thioalkalimicrobium cyclicum,2011,RefSeq
+tao,Thioalkalimicrobium aerophilum,2015,GenBank
+mej,Methylophaga nitratireducenticrescens,2012,RefSeq
+mec,Methylophaga frappieri,2012,RefSeq
+cyq,Cycloclasticus sp. P1,2012,RefSeq
+cza,Cycloclasticus zancles,2013,RefSeq
+psal,Piscirickettsia salmonis,2015,GenBank
+tig,Thioploca ingrica,2015,GenBank
+noc,Nitrosococcus oceani,2005,RefSeq
+nhl,Nitrosococcus halophilus,2010,RefSeq
+nwa,Nitrosococcus watsonii,2010,RefSeq
+alv,Allochromatium vinosum,2010,RefSeq
+tvi,Thiocystis violascens,2012,RefSeq
+tmb,Thioflavicoccus mobilis,2012,RefSeq
+mpur,Marichromatium purpuratum,2015,GenBank
+aeh,Alkalilimnicola ehrlichii,2006,GenBank
+hha,Halorhodospira halophila,2007,RefSeq
+hhc,Halorhodospira halochloris,2014,GenBank
+tgr,Thioalkalivibrio sulfidiphilus,2009,RefSeq
+tkm,Thioalkalivibrio sp. K90mix,2010,RefSeq
+tni,Thioalkalivibrio nitratireducens,2013,RefSeq
+tti,Thioalkalivibrio thiocyanoxidans,2015,GenBank
+tvr,Thioalkalivibrio versutus,2015,GenBank
+ssal,Spiribacter salinus,2013,RefSeq
+spiu,Spiribacter sp. UAH-SP71,2013,RefSeq
+hna,Halothiobacillus neapolitanus,2009,RefSeq
+hch,Hahella chejuensis,2005,RefSeq
+csa,Chromohalobacter salexigens,2006,RefSeq
+hel,Halomonas elongata,2010,RefSeq
+hcs,Halomonas campaniensis,2014,GenBank
+hak,Halomonas sp. KO116,2015,GenBank
+ple,Candidatus Portiera aleyrodidarum BT-B,2012,RefSeq
+ply,Candidatus Portiera aleyrodidarum BT-B-HRs,2012,RefSeq
+plr,Candidatus Portiera aleyrodidarum BT-QVLC,2012,RefSeq
+plo,Candidatus Portiera aleyrodidarum BT-QVLC,2012,RefSeq
+pld,Candidatus Portiera aleyrodidarum TV,2013,RefSeq
+plb,Candidatus Portiera aleyrodidarum TV-BCN,2015,GenBank
+plc,Candidatus Portiera aleyrodidarum AD-CAI,2015,GenBank
+pli,Candidatus Portiera aleyrodidarum AF-CAI,2015,GenBank
+paly,Candidatus Portiera aleyrodidarum MED,2015,GenBank
+crp,Candidatus Carsonella ruddii PV (Pachypsylla venusta),2006,RefSeq
+cru,Candidatus Carsonella ruddii CE (Ctenarytaina eucalypti),2012,RefSeq
+crc,Candidatus Carsonella ruddii CS (Ctenarytaina spatulata),2012,RefSeq
+crt,Candidatus Carsonella ruddii HT (Heteropsylla texana),2012,RefSeq
+crh,Candidatus Carsonella ruddii HC (Heteropsylla cubana),2012,RefSeq
+crv,Candidatus Carsonella ruddii PC (Pachypsylla celtidis),2012,RefSeq
+cri,Candidatus Carsonella ruddii DC (Diaphorina citri),2013,RefSeq
+eme,Candidatus Evansia muelleri,2015,GenBank
+abo,Alcanivorax borkumensis,2006,RefSeq
+adi,Alcanivorax dieselolei,2012,RefSeq
+apac,Alcanivorax pacificus,2015,GenBank
+aln,Alcanivorax sp. NBRC,2015,GenBank
+kko,Kangiella koreensis,2009,RefSeq
+kge,Kangiella geojedonensis,2015,GenBank
+mmw,Marinomonas sp. MWYL1,2007,GenBank
+mme,Marinomonas mediterranea,2011,RefSeq
+mpc,Marinomonas posidonica,2011,RefSeq
+tol,Thalassolituus oleivorans MIL-1,2013,RefSeq
+tor,Thalassolituus oleivorans R6-15,2014,GenBank
+gsn,Gynuella sunshinyii,2015,GenBank
+aha,Aeromonas hydrophila subsp. hydrophila ATCC 7966,2006,RefSeq
+ahy,Aeromonas hydrophila ML09-119,2013,RefSeq
+ahd,Aeromonas hydrophila YL17,2014,GenBank
+ahr,Aeromonas hydrophila AL09-71,2014,GenBank
+ahp,Aeromonas hydrophila pc104A,2014,GenBank
+ahj,Aeromonas hydrophila J-1,2015,GenBank
+ahh,Aeromonas hydrophila AL06-06,2015,GenBank
+ahi,Aeromonas hydrophila AH10,2015,GenBank
+asa,Aeromonas salmonicida,2007,RefSeq
+avr,Aeromonas veronii,2011,RefSeq
+amed,Aeromonas media,2014,GenBank
+tau,Tolumonas auensis,2009,RefSeq
+oce,Oceanimonas sp. GK1,2012,RefSeq
+dno,Dichelobacter nodosus,2007,RefSeq
+afe,Acidithiobacillus ferrooxidans ATCC 53993,2008,RefSeq
+afr,Acidithiobacillus ferrooxidans ATCC 23270,2008,RefSeq
+acu,Acidithiobacillus caldus SM-1,2011,RefSeq
+acz,Acidithiobacillus caldus ATCC 51756,2015,GenBank
+afi,Acidithiobacillus ferrivorans,2011,RefSeq
+gap,Gilliamella apicola,2014,GenBank
+fpp,Frischella perrara,2015,GenBank
+saga,Simiduia agarivorans,2012,RefSeq
+bci,Baumannia cicadellinicola Hc (Homalodisca coagulata),2006,RefSeq
+bcib,Candidatus Baumannia cicadellinicola BGSS,2014,GenBank
+rma,Candidatus Ruthia magnifica (Calyptogena magnifica),2006,RefSeq
+vok,Candidatus Vesicomyosocius okutanii (Calyptogena okutanii),2007,RefSeq
+gpb,Gamma proteobacterium HdN1,2010,RefSeq
+tbn,Thiolapillus brandeum,2015,GenBank
+seds,Sedimenticola sp. SIP-G1,2015,GenBank
+nma,Neisseria meningitidis Z2491 (serogroup A),2000,RefSeq
+nme,Neisseria meningitidis MC58 (serogroup B),2000,RefSeq
+nmp,Neisseria meningitidis alpha710 (serogroup B),2012,RefSeq
+nmh,Neisseria meningitidis H44/76 (serogroup B),2012,RefSeq
+nmc,Neisseria meningitidis FAM18 (serogroup C),2007,RefSeq
+nmn,Neisseria meningitidis 053442 (serogroup C),2007,RefSeq
+nmt,Neisseria meningitidis 8013 (serogroup C),2012,GenBank
+nmi,Neisseria meningitidis alpha14 (cnl strain),2009,GenBank
+nmd,Neisseria meningitidis G2136 (serogroup B),2012,RefSeq
+nmm,Neisseria meningitidis M01-240149 (serogroup B),2012,RefSeq
+nms,Neisseria meningitidis M01-240355 (serogroup B),2012,RefSeq
+nmq,Neisseria meningitidis M04-240196 (serogroup B),2012,RefSeq
+nmw,Neisseria meningitidis WUE 2594 (serogroup A),2012,RefSeq
+nmz,Neisseria meningitidis NZ-05/33 (serogroup B),2012,RefSeq
+nmx,Neisseria meningitidis 510612  (serogroup A),2014,GenBank
+ngo,Neisseria gonorrhoeae FA 1090,2005,RefSeq
+ngk,Neisseria gonorrhoeae NCCP11945,2008,RefSeq
+ngt,Neisseria gonorrhoeae TCDC-NG08107,2012,RefSeq
+nla,Neisseria lactamica,2010,RefSeq
+nel,Neisseria elongata,2015,GenBank
+salv,Snodgrassella alvi,2014,GenBank
+cvi,Chromobacterium violaceum,2003,RefSeq
+lhk,Laribacter hongkongensis,2009,RefSeq
+pse,Pseudogulbenkiania sp. NH8B,2011,RefSeq
+rso,Ralstonia solanacearum GMI1000,2001,RefSeq
+rsc,Ralstonia solanacearum CFBP2957,2010,RefSeq
+rsl,Ralstonia solanacearum PSI07,2010,RefSeq
+rsn,Ralstonia solanacearum Po82,2012,RefSeq
+rsm,Ralstonia solanacearum CMR15,2013,RefSeq
+rse,Ralstonia solanacearum FQY_4,2013,RefSeq
+rpi,Ralstonia pickettii 12J,2008,RefSeq
+rpf,Ralstonia pickettii 12D,2009,RefSeq
+rpj,Ralstonia pickettii DTP0602,2014,RefSeq
+rmn,Ralstonia mannitolilytica,2015,GenBank
+reu,Ralstonia eutropha JMP134,2005,RefSeq
+reh,Ralstonia eutropha H16,2006,RefSeq
+cnc,Cupriavidus necator N-1,2011,RefSeq
+rme,Cupriavidus metallidurans,2006,RefSeq
+cti,Cupriavidus taiwanensis,2008,RefSeq
+cbw,Cupriavidus basilensis,2015,GenBank
+bma,Burkholderia mallei ATCC 23344,2004,RefSeq
+bmv,Burkholderia mallei SAVP1,2007,GenBank
+bml,Burkholderia mallei NCTC 10229,2007,RefSeq
+bmn,Burkholderia mallei NCTC 10247,2007,RefSeq
+bmal,Burkholderia mallei 23344,2014,GenBank
+bmae,Burkholderia mallei 6,2014,GenBank
+bmaq,Burkholderia mallei BMQ,2014,GenBank
+bmai,Burkholderia mallei 2000031063,2015,GenBank
+bmaf,Burkholderia mallei FMH 23344,2015,GenBank
+bmaz,Burkholderia mallei 092700E,2015,GenBank
+bmab,Burkholderia mallei 2002734299,2015,GenBank
+bps,Burkholderia pseudomallei K96243,2004,RefSeq
+bpm,Burkholderia pseudomallei 1710b,2005,RefSeq
+bpl,Burkholderia pseudomallei 1106a,2007,RefSeq
+bpd,Burkholderia pseudomallei 668,2007,RefSeq
+bpr,Burkholderia pseudomallei MSHR346,2009,RefSeq
+bpse,Burkholderia pseudomallei MSHR305,2013,RefSeq
+bpsm,Burkholderia pseudomallei MSHR511,2014,GenBank
+bpsu,Burkholderia pseudomallei MSHR146,2014,GenBank
+bpsd,Burkholderia pseudomallei MSHR520,2014,GenBank
+bpz,Burkholderia pseudomallei 1026b,2012,RefSeq
+bpq,Burkholderia pseudomallei BPC006,2012,RefSeq
+bpk,Burkholderia pseudomallei NCTC 13179,2013,RefSeq
+bpsh,Burkholderia pseudomallei HBPUB10134a,2014,GenBank
+bpsa,Burkholderia pseudomallei NAU35A-3,2014,GenBank
+bpso,Burkholderia pseudomallei A79A,2014,GenBank
+bte,Burkholderia thailandensis E264,2005,GenBank
+btq,Burkholderia thailandensis 2002721723,2014,GenBank
+btj,Burkholderia thailandensis E444,2014,GenBank
+btz,Burkholderia thailandensis H0587,2014,GenBank
+btd,Burkholderia thailandensis MSMB121,2013,RefSeq
+btv,Burkholderia thailandensis MSMB59,2014,GenBank
+bthe,Burkholderia thailandensis E254,2014,GenBank
+bthm,Burkholderia thailandensis USAMRU Malaysia #20,2014,GenBank
+btha,Burkholderia thailandensis 2003015869,2015,GenBank
+bthl,Burkholderia thailandensis 2002721643,2015,GenBank
+bok,Burkholderia oklahomensis E0147,2014,GenBank
+boc,Burkholderia oklahomensis C6786,2015,GenBank
+but,Burkholderia sp. TSV202,2014,GenBank
+bvi,Burkholderia vietnamiensis G4,2007,RefSeq
+bve,Burkholderia vietnamiensis LMG 10929,2015,GenBank
+bur,Burkholderia lata,2005,RefSeq
+bcn,Burkholderia cenocepacia AU1054,2006,RefSeq
+bch,Burkholderia cenocepacia HI2424,2006,RefSeq
+bcm,Burkholderia cenocepacia MC0-3,2008,RefSeq
+bcj,Burkholderia cenocepacia J2315,2008,RefSeq
+bcen,Burkholderia cenocepacia DDS 22E-1,2014,GenBank
+bcew,Burkholderia cenocepacia DWS 37E-2,2014,GenBank
+bceo,Burkholderia cenocepacia H111,2015,GenBank
+bam,Burkholderia ambifaria AMMD,2006,RefSeq
+bac,Burkholderia ambifaria MC40-6,2008,RefSeq
+bmu,Burkholderia multivorans ATCC 17616 (JGI),2007,RefSeq
+bmj,Burkholderia multivorans ATCC 17616 (Tohoku),2008,RefSeq
+bmk,Burkholderia multivorans DDS 15A-1,2014,GenBank
+bmul,Burkholderia multivorans ATCC BAA-247,2015,GenBank
+bct,Burkholderia cepacia GG4,2012,RefSeq
+bced,Burkholderia cepacia DDS 7H-2,2014,GenBank
+bdl,Burkholderia dolosa,2015,GenBank
+bpyr,Burkholderia pyrrocinia,2015,GenBank
+bcon,Burkholderia contaminans,2015,GenBank
+bxe,Burkholderia xenovorans LB400,2006,RefSeq
+bxb,Burkholderia xenovorans LB400,2014,GenBank
+bph,Burkholderia phymatum,2008,RefSeq
+bpy,Burkholderia phytofirmans,2008,RefSeq
+bgl,Burkholderia glumae BGR1,2009,RefSeq
+bgp,Burkholderia glumae PG1,2015,GenBank
+bgu,Burkholderia glumae LMG 2196 = ATCC 33617,2015,GenBank
+bug,Burkholderia sp. CCGE1001,2011,RefSeq
+bge,Burkholderia sp. CCGE1002,2010,RefSeq
+bgf,Burkholderia sp. CCGE1003,2010,RefSeq
+brh,Burkholderia rhizoxinica,2010,RefSeq
+bgd,Burkholderia gladioli BSR3,2011,RefSeq
+bgo,Burkholderia gladioli ATCC 10248,2015,GenBank
+byi,Burkholderia sp. YI23,2012,RefSeq
+buk,Burkholderia sp. KJ006,2012,RefSeq
+bpx,Burkholderia phenoliruptrix,2012,RefSeq
+buo,Burkholderia sp. RPE64,2013,RefSeq
+bue,Burkholderia sp. RPE67,2015,GenBank
+bul,Burkholderia sp. 2002721687,2015,GenBank
+bub,Burkholderia ubonensis,2015,GenBank
+bfn,Burkholderia fungorum,2015,GenBank
+pnu,Polynucleobacter necessarius subsp. asymbioticus,2007,GenBank
+pne,Polynucleobacter necessarius subsp. necessarius,2008,RefSeq
+ppk,Pandoraea pnomenusa 3kgm,2013,RefSeq
+ppno,Pandoraea pnomenusa RB38,2014,GenBank
+ppnm,Pandoraea pnomenusa DSM 16536,2014,GenBank
+prb,Pandoraea sp. RB-44,2013,RefSeq
+ppul,Pandoraea pulmonicola,2015,GenBank
+pspu,Pandoraea sputorum,2015,GenBank
+papi,Pandoraea apista,2015,GenBank
+pve,Pandoraea vervacti,2015,GenBank
+pox,Pandoraea oxalativorans,2015,GenBank
+ptx,Pandoraea thiooxydans,2015,GenBank
+pfg,Pandoraea faecigallinarum,2015,GenBank
+bpe,Bordetella pertussis Tohama I,2003,RefSeq
+bpc,Bordetella pertussis CS,2012,RefSeq
+bper,Bordetella pertussis 18323,2012,RefSeq
+bpet,Bordetella pertussis B1917,2015,GenBank
+bpeu,Bordetella pertussis 137,2015,GenBank
+bpa,Bordetella parapertussis 12822,2003,RefSeq
+bpar,Bordetella parapertussis Bpp5,2012,RefSeq
+bbr,Bordetella bronchiseptica RB50,2003,RefSeq
+bbm,Bordetella bronchiseptica MO149,2012,RefSeq
+bbh,Bordetella bronchiseptica 253,2012,RefSeq
+bbx,Bordetella bronchiseptica S798,2015,GenBank
+bpt,Bordetella petrii,2007,RefSeq
+bav,Bordetella avium,2008,RefSeq
+bho,Bordetella holmesii ATCC 51541,2014,GenBank
+bhm,Bordetella holmesii 44057,2014,GenBank
+bhz,Bordetella hinzii,2015,GenBank
+axy,Achromobacter xylosoxidans A8,2010,RefSeq
+axo,Achromobacter xylosoxidans NH44784-1996,2013,RefSeq
+axn,Achromobacter xylosoxidans NBRC 15126 = ATCC 27061,2013,RefSeq
+axs,Achromobacter xylosoxidans C54,2014,GenBank
+teq,Taylorella equigenitalis MCE9,2011,RefSeq
+tea,Taylorella equigenitalis ATCC 35865,2012,RefSeq
+teg,Taylorella equigenitalis 14/56,2013,RefSeq
+tas,Taylorella asinigenitalis MCE3,2011,RefSeq
+tat,Taylorella asinigenitalis 14/45,2013,RefSeq
+put,Pusillimonas sp. T7-7,2011,RefSeq
+aka,Advenella kashmirensis,2012,RefSeq
+amim,Advenella mimigardefordensis,2014,GenBank
+cdn,Castellaniella defragrans,2014,GenBank
+bpsi,Basilea psittacipulmonis,2014,GenBank
+rfr,Rhodoferax ferrireducens,2006,RefSeq
+pol,Polaromonas sp. JS666,2006,RefSeq
+pna,Polaromonas naphthalenivorans,2007,RefSeq
+aav,Acidovorax citrulli,2007,RefSeq
+ajs,Acidovorax sp. JS42,2007,RefSeq
+dia,Acidovorax ebreus,2009,RefSeq
+aaa,Acidovorax avenae,2011,RefSeq
+ack,Acidovorax sp. KKS102,2012,RefSeq
+vei,Verminephrobacter eiseniae,2007,RefSeq
+dac,Delftia acidovorans,2007,RefSeq
+del,Delftia sp. Cs1-4,2011,RefSeq
+vap,Variovorax paradoxus S110,2009,RefSeq
+vpe,Variovorax paradoxus EPS,2011,RefSeq
+vpd,Variovorax paradoxus B4,2013,RefSeq
+ctt,Comamonas testosteroni CNB-2,2009,RefSeq
+ctes,Comamonas testosteroni TK102,2014,GenBank
+adn,Alicycliphilus denitrificans BC,2011,RefSeq
+adk,Alicycliphilus denitrificans K601,2011,RefSeq
+rta,Ramlibacter tataouinensis,2011,RefSeq
+cbx,Symbiobacter mobilis,2013,RefSeq
+cbaa,Comamonadaceae bacterium A1,2015,GenBank
+cbab,Comamonadaceae bacterium B1,2015,GenBank
+mpt,Methylibium petroleiphilum,2007,RefSeq
+har,Herminiimonas arsenicoxydans,2007,RefSeq
+mms,Janthinobacterium sp. Marseille,2007,RefSeq
+jag,Janthinobacterium agaricidamnosum,2014,GenBank
+hse,Herbaspirillum seropedicae,2010,RefSeq
+zin,Candidatus Zinderia insecticola,2010,RefSeq
+cfu,Collimonas fungivorans,2011,RefSeq
+care,Collimonas arenae,2015,GenBank
+lch,Leptothrix cholodnii,2008,RefSeq
+tin,Thiomonas intermedia,2010,RefSeq
+thi,Thiomonas arsenitoxydans,2012,RefSeq
+rge,Rubrivivax gelatinosus,2012,RefSeq
+bbag,Burkholderiales bacterium GJ-E10,2015,GenBank
+neu,Nitrosomonas europaea,2003,RefSeq
+net,Nitrosomonas eutropha,2006,RefSeq
+nit,Nitrosomonas sp. AL212,2011,RefSeq
+nii,Nitrosomonas sp. Is79A3,2011,RefSeq
+nco,Nitrosomonas communis,2015,GenBank
+nmu,Nitrosospira multiformis,2005,RefSeq
+eba,Aromatoleum aromaticum,2004,RefSeq
+azo,Azoarcus sp. BH72,2006,RefSeq
+aza,Azoarcus sp. KH32C,2013,RefSeq
+dar,Dechloromonas aromatica,2005,RefSeq
+tmz,Thauera sp. MZ1T,2008,RefSeq
+dsu,Dechlorosoma suillum,2012,RefSeq
+shd,Sulfuritalea hydrogenivorans,2015,GenBank
+rbu,Rhodocyclaceae bacterium,2015,GenBank
+tbd,Thiobacillus denitrificans,2005,RefSeq
+sdr,Sulfuricella denitrificans,2013,RefSeq
+mfa,Methylobacillus flagellatus,2006,GenBank
+mmb,Methylotenera mobilis,2009,RefSeq
+meh,Methylotenera versatilis,2010,RefSeq
+mei,Methylovorus glucosetrophus,2009,RefSeq
+mep,Methylovorus sp. MP688,2010,RefSeq
+mbac,Candidatus Methylopumilus turicensis,2015,GenBank
+mbat,Candidatus Methylopumilus planktonicus,2015,GenBank
+meu,Methylophilus sp. TWE2,2015,GenBank
+app,Accumulibacter phosphatis,2009,RefSeq
+tpn,Candidatus Tremblaya princeps PCIT,2011,RefSeq
+tpq,Candidatus Tremblaya princeps PCVAL,2012,RefSeq
+tpj,Candidatus Tremblaya phenacola,2013,RefSeq
+slt,Sideroxydans lithotrophicus,2010,RefSeq
+gca,Gallionella capsiferriformans,2010,RefSeq
+kci,Candidatus Kinetoplastibacterium crithidii (ex Angomonas deanei ATCC 30255),2013,RefSeq
+kct,Candidatus Kinetoplastibacterium crithidii TCC036E,2013,RefSeq
+kbl,Candidatus Kinetoplastibacterium blastocrithidii (ex Strigomonas culicis),2013,RefSeq
+kbt,Candidatus Kinetoplastibacterium blastocrithidii TCC012E,2013,RefSeq
+kde,Candidatus Kinetoplastibacterium desouzaii,2013,RefSeq
+kga,Candidatus Kinetoplastibacterium galatii,2013,RefSeq
+kon,Candidatus Kinetoplastibacterium oncopeltii,2013,RefSeq
+ssdc,Candidatus Profftella armatura,2013,RefSeq
+ndl,Candidatus Nasuia deltocephalinicola,2013,RefSeq
+bprc,Beta proteobacterium CB,2013,RefSeq
+hpy,Helicobacter pylori 26695,1997,RefSeq
+heo,Helicobacter pylori 26695,2012,RefSeq
+hpj,Helicobacter pylori J99,1999,RefSeq
+hpa,Helicobacter pylori HPAG1,2006,RefSeq
+hps,Helicobacter pylori Shi470,2008,RefSeq
+hhp,Helicobacter pylori Shi112,2012,RefSeq
+hhq,Helicobacter pylori Shi169,2012,RefSeq
+hhr,Helicobacter pylori Shi417,2012,RefSeq
+hpg,Helicobacter pylori G27,2008,RefSeq
+hpp,Helicobacter pylori P12,2008,RefSeq
+hpb,Helicobacter pylori B38,2009,RefSeq
+hpl,Helicobacter pylori B8,2010,RefSeq
+hpc,Helicobacter pylori PeCan4,2010,RefSeq
+hca,Helicobacter pylori PeCan18,2012,RefSeq
+hpm,Helicobacter pylori SJM180,2010,RefSeq
+hpe,Helicobacter pylori ELS37,2012,RefSeq
+hpo,Helicobacter pylori 35A,2012,RefSeq
+hpi,Helicobacter pylori 908,2012,RefSeq
+hpq,Helicobacter pylori 2017,2012,RefSeq
+hpw,Helicobacter pylori 2018,2012,RefSeq
+hpu,Helicobacter pylori Cuz20,2012,RefSeq
+hef,Helicobacter pylori F16,2012,RefSeq
+hpf,Helicobacter pylori F30,2012,RefSeq
+heq,Helicobacter pylori F32,2012,RefSeq
+hex,Helicobacter pylori F57,2012,RefSeq
+hpt,Helicobacter pylori Sat464,2012,RefSeq
+hpz,Helicobacter pylori 52,2012,RefSeq
+hpv,Helicobacter pylori v225d,2012,RefSeq
+hpx,Helicobacter pylori 83,2012,RefSeq
+hen,Helicobacter pylori SNT49,2012,RefSeq
+hph,Helicobacter pylori Lithuania75,2012,RefSeq
+heg,Helicobacter pylori Gambia94/24,2012,RefSeq
+hpn,Helicobacter pylori India7,2012,RefSeq
+hep,Helicobacter pylori Puno120,2012,RefSeq
+heu,Helicobacter pylori Puno135,2012,RefSeq
+hes,Helicobacter pylori SouthAfrica7,2012,RefSeq
+hpys,Helicobacter pylori SouthAfrica20,2013,RefSeq
+hcn,Helicobacter pylori HUP-B14,2012,RefSeq
+hpd,Helicobacter pylori 51,2012,RefSeq
+hey,Helicobacter pylori XZ274,2012,RefSeq
+her,Helicobacter pylori Rif1,2012,RefSeq
+hei,Helicobacter pylori Rif2,2012,RefSeq
+hpya,Helicobacter pylori Aklavik117,2012,RefSeq
+hpyk,Helicobacter pylori Aklavik86,2012,RefSeq
+hpyo,Helicobacter pylori OK113,2013,RefSeq
+hpyl,Helicobacter pylori OK310,2013,RefSeq
+hpyb,Helicobacter pylori oki102,2014,GenBank
+hpyc,Helicobacter pylori oki112,2015,GenBank
+hpyd,Helicobacter pylori oki128,2015,GenBank
+hpye,Helicobacter pylori oki154,2015,GenBank
+hpyf,Helicobacter pylori oki422,2015,GenBank
+hpyg,Helicobacter pylori oki673,2015,GenBank
+hpyh,Helicobacter pylori oki828,2015,GenBank
+hpyj,Helicobacter pylori oki898,2015,GenBank
+hpyr,Helicobacter pylori UM032,2013,RefSeq
+hpyi,Helicobacter pylori UM037,2013,RefSeq
+hpyu,Helicobacter pylori UM066,2013,RefSeq
+hpym,Helicobacter pylori UM299,2013,RefSeq
+hem,Helicobacter pylori UM298,2013,RefSeq
+heb,Helicobacter pylori BM012A,2013,RefSeq
+hez,Helicobacter pylori BM012S,2013,RefSeq
+hhe,Helicobacter hepaticus,2003,RefSeq
+hac,Helicobacter acinonychis,2006,RefSeq
+hms,Helicobacter mustelae,2010,RefSeq
+hfe,Helicobacter felis,2010,RefSeq
+hbi,Helicobacter bizzozeronii,2011,RefSeq
+hce,Helicobacter cetorum MIT 00-7128,2012,RefSeq
+hcm,Helicobacter cetorum MIT 99-5656,2012,RefSeq
+hcp,Helicobacter cinaedi PAGU611,2012,RefSeq
+hcb,Helicobacter cinaedi ATCC BAA-847,2013,RefSeq
+hhm,Helicobacter heilmannii,2013,RefSeq
+wsu,Wolinella succinogenes,2003,RefSeq
+tdn,Sulfurimonas denitrificans,2005,RefSeq
+sua,Sulfurimonas autotrophica,2010,RefSeq
+sku,Sulfuricurvum kujiense,2010,RefSeq
+sulr,Uncultured Sulfuricurvum sp. RIFRC-1,2013,RefSeq
+cje,Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819,2000,RefSeq
+cjb,Campylobacter jejuni subsp. jejuni NCTC 11168-BN148,2012,RefSeq
+cjj,Campylobacter jejuni subsp. jejuni 81-176,2007,RefSeq
+cju,Campylobacter jejuni subsp. jejuni 81116,2007,RefSeq
+cjn,Campylobacter jejuni subsp. jejuni ICDCCJ07001,2010,RefSeq
+cji,Campylobacter jejuni subsp. jejuni IA3902,2012,RefSeq
+cjm,Campylobacter jejuni subsp. jejuni M1,2012,RefSeq
+cjs,Campylobacter jejuni subsp. jejuni S3,2012,RefSeq
+cjp,Campylobacter jejuni subsp. jejuni PT14,2012,RefSeq
+cjej,Campylobacter jejuni subsp. jejuni 00-2426,2013,RefSeq
+cjeu,Campylobacter jejuni subsp. jejuni 00-2538,2013,RefSeq
+cjen,Campylobacter jejuni subsp. jejuni 00-2544,2013,RefSeq
+cjei,Campylobacter jejuni subsp. jejuni 00-2425,2013,RefSeq
+cjer,Campylobacter jejuni subsp. jejuni R14,2014,GenBank
+cjv,Campylobacter jejuni subsp. jejuni MTVDSCj20,2014,GenBank
+cjy,Campylobacter jejuni subsp. jejuni YH001,2015,GenBank
+cjq,Campylobacter jejuni subsp. jejuni 35925B2,2015,GenBank
+cjl,Campylobacter jejuni subsp. jejuni 00-1597,2015,GenBank
+cjw,Campylobacter jejuni subsp. jejuni 00-6200,2015,GenBank
+cjr,Campylobacter jejuni RM1221,2005,RefSeq
+cjd,Campylobacter jejuni subsp. doylei 269.97,2007,RefSeq
+cjz,Campylobacter jejuni 32488,2013,RefSeq
+cjx,Campylobacter jejuni 4031,2013,RefSeq
+cff,Campylobacter fetus subsp. fetus 82-40,2006,RefSeq
+cft,Campylobacter fetus subsp. fetus 04/554,2014,GenBank
+cfv,Campylobacter fetus subsp. venerealis cfvi03/293,2014,GenBank
+cfx,Campylobacter fetus subsp. venerealis 97/608,2014,GenBank
+cfz,Campylobacter fetus subsp. venerealis 84-112,2015,GenBank
+camp,Campylobacter fetus subsp. testudinum 03-427,2013,RefSeq
+cfp,Campylobacter fetus subsp. testudinum pet-3,2015,GenBank
+ccv,Campylobacter curvus,2007,RefSeq
+cha,Campylobacter hominis,2007,RefSeq
+cco,Campylobacter concisus,2007,GenBank
+cla,Campylobacter lari RM2100,2009,RefSeq
+clr,Campylobacter lari RM16701,2015,GenBank
+clm,Campylobacter lari RM16712,2015,GenBank
+clq,Campylobacter lari CCUG 22395,2015,GenBank
+cln,Campylobacter lari NCTC 11845,2015,GenBank
+cll,Campylobacter lari subsp. concheus LMG 11760,2015,GenBank
+ccol,Campylobacter coli 76339,2013,RefSeq
+ccc,Campylobacter coli CVM N29710,2013,RefSeq
+ccq,Campylobacter coli 15-537360,2013,RefSeq
+ccf,Campylobacter coli RM1875,2014,GenBank
+ccy,Campylobacter coli RM4661,2014,GenBank
+ccoi,Campylobacter coli RM5611,2014,GenBank
+ccof,Campylobacter coli FB1,2015,GenBank
+caj,Campylobacter sp. 1485E,2014,GenBank
+cis,Campylobacter insulaenigrae,2015,GenBank
+cvo,Campylobacter volucris,2015,GenBank
+cpel,Campylobacter peloridis,2015,GenBank
+camr,Campylobacter sp. RM16704,2015,GenBank
+csm,Campylobacter subantarcticus LMG 24374,2015,GenBank
+csf,Campylobacter subantarcticus LMG 24377,2015,GenBank
+abu,Arcobacter butzleri RM4018,2007,RefSeq
+abt,Arcobacter butzleri ED-1,2012,RefSeq
+abl,Arcobacter butzleri 7h1h,2013,RefSeq
+ant,Arcobacter nitrofigilis,2010,RefSeq
+arc,Arcobacter sp. L,2012,RefSeq
+sdl,Sulfurospirillum deleyianum,2009,RefSeq
+sba,Sulfurospirillum barnesii,2012,RefSeq
+smul,Sulfurospirillum multivorans,2014,GenBank
+nsa,Nitratifractor salsuginis,2011,RefSeq
+nis,Nitratiruptor sp. SB155-2,2007,RefSeq
+sun,Sulfurovum sp. NBC37-1,2007,RefSeq
+slh,Sulfurovum lithotrophicum,2015,GenBank
+nam,Nautilia profundicola,2009,RefSeq
+gsu,Geobacter sulfurreducens PCA,2003,RefSeq
+gsk,Geobacter sulfurreducens KN400,2012,RefSeq
+gme,Geobacter metallireducens,2005,RefSeq
+gur,Geobacter uraniireducens,2007,RefSeq
+glo,Geobacter lovleyi,2008,RefSeq
+gbm,Geobacter bemidjiensis,2008,RefSeq
+geo,Geobacter daltonii FRC-32,2009,RefSeq
+gem,Geobacter sp. M21,2009,RefSeq
+geb,Geobacter sp. M18,2011,RefSeq
+gpi,Geobacter pickeringii,2015,GenBank
+gsb,Geoalkalibacter subterraneus,2015,GenBank
+pca,Pelobacter carbinolicus,2005,RefSeq
+ppd,Pelobacter propionicus,2006,RefSeq
+dvu,Desulfovibrio vulgaris Hildenborough,2004,RefSeq
+dvl,Desulfovibrio vulgaris DP4,2007,RefSeq
+dvm,Desulfovibrio vulgaris Miyazaki F,2009,RefSeq
+dvg,Desulfovibrio vulgaris RCH1,2012,RefSeq
+dde,Desulfovibrio alaskensis,2005,RefSeq
+dds,Desulfovibrio desulfuricans ATCC 27774,2009,RefSeq
+ddn,Desulfovibrio desulfuricans ND132,2012,RefSeq
+dma,Desulfovibrio magneticus,2009,RefSeq
+dsa,Desulfovibrio salexigens,2009,RefSeq
+das,Desulfovibrio aespoeensis,2011,RefSeq
+daf,Desulfovibrio africanus,2012,RefSeq
+dhy,Desulfovibrio hydrothermalis,2013,RefSeq
+dpi,Desulfovibrio piezophilus,2013,RefSeq
+dgg,Desulfovibrio gigas,2013,RefSeq
+lip,Lawsonia intracellularis PHE/MN1-00,2006,RefSeq
+lir,Lawsonia intracellularis N343,2013,RefSeq
+dba,Desulfomicrobium baculatum,2009,RefSeq
+drt,Desulfohalobium retbaense,2009,RefSeq
+bba,Bdellovibrio bacteriovorus HD100,2004,RefSeq
+bbat,Bdellovibrio bacteriovorus Tiberius,2012,RefSeq
+bbw,Bdellovibrio bacteriovorus W,2014,GenBank
+bbac,Bdellovibrio bacteriovorus 109J,2014,GenBank
+bex,Bdellovibrio exovorus,2013,RefSeq
+bmx,Halobacteriovorax marinus,2012,RefSeq
+dps,Desulfotalea psychrophila,2004,RefSeq
+dak,Desulfurivibrio alkaliphilus,2010,RefSeq
+dpr,Desulfobulbus propionicus,2011,RefSeq
+dsf,Desulfocapsa sulfexigens,2013,RefSeq
+dol,Candidatus Desulfococcus oleovorans,2007,RefSeq
+dal,Desulfatibacillum alkenivorans,2009,RefSeq
+dat,Desulfobacterium autotrophicum,2009,RefSeq
+dto,Desulfobacula toluolica,2012,RefSeq
+ade,Anaeromyxobacter dehalogenans 2CP-C,2006,RefSeq
+acp,Anaeromyxobacter dehalogenans 2CP-1,2009,RefSeq
+afw,Anaeromyxobacter sp. Fw109-5,2007,RefSeq
+ank,Anaeromyxobacter sp. K,2008,RefSeq
+mxa,Myxococcus xanthus,2006,RefSeq
+mfu,Myxococcus fulvus,2011,RefSeq
+msd,Myxococcus stipitatus,2013,RefSeq
+ccx,Corallococcus coralloides,2012,RefSeq
+sur,Stigmatella aurantiaca,2011,RefSeq
+age,Archangium gephyra,2015,GenBank
+scl,Sorangium cellulosum So ce 56,2007,RefSeq
+scu,Sorangium cellulosum So0157-2,2013,RefSeq
+samy,Sandaracinus amylolyticus,2015,GenBank
+hoh,Haliangium ochraceum,2009,RefSeq
+sat,Syntrophus aciditrophicus,2006,RefSeq
+dao,Desulfobacca acetoxidans,2011,RefSeq
+dti,Desulfomonile tiedjei,2012,RefSeq
+sfu,Syntrophobacter fumaroxidans,2006,RefSeq
+dbr,Desulfarculus baarsii,2010,RefSeq
+hmr,Hippea maritima,2011,RefSeq
+dav,Desulfurella acetivorans,2014,GenBank
+dpb,Candidatus Babela massiliensis,2013,RefSeq
+rpr,Rickettsia prowazekii Madrid E,1998,RefSeq
+rpo,Rickettsia prowazekii BuV67-CWPP,2012,RefSeq
+rpw,Rickettsia prowazekii Chernikova,2012,RefSeq
+rpz,Rickettsia prowazekii Dachau,2012,RefSeq
+rpg,Rickettsia prowazekii GvV257,2012,RefSeq
+rps,Rickettsia prowazekii Katsinyian,2012,RefSeq
+rpv,Rickettsia prowazekii RpGvF24,2012,RefSeq
+rpq,Rickettsia prowazekii Rp22,2012,RefSeq
+rpl,Rickettsia prowazekii Breinl,2013,RefSeq
+rpn,Rickettsia prowazekii NMRC Madrid E,2013,RefSeq
+rty,Rickettsia typhi Wilmington,2004,RefSeq
+rtt,Rickettsia typhi TH1527,2012,RefSeq
+rtb,Rickettsia typhi B9991CWPP,2012,RefSeq
+rcm,Rickettsia canadensis McKiel,2007,RefSeq
+rcc,Rickettsia canadensis CA410,2012,RefSeq
+rbe,Rickettsia bellii RML369-C,2006,RefSeq
+rbo,Rickettsia bellii OSU 85-389,2007,RefSeq
+rco,Rickettsia conorii,2001,RefSeq
+rfe,Rickettsia felis,2005,RefSeq
+rak,Rickettsia akari,2007,RefSeq
+rri,Rickettsia rickettsii Sheila Smith,2007,RefSeq
+rrj,Rickettsia rickettsii Iowa,2008,RefSeq
+rra,Rickettsia rickettsii Arizona,2012,RefSeq
+rrc,Rickettsia rickettsii Colombia,2012,RefSeq
+rrh,Rickettsia rickettsii Hauke,2012,RefSeq
+rrb,Rickettsia rickettsii Brazil,2012,RefSeq
+rrn,Rickettsia rickettsii Hino,2012,RefSeq
+rrp,Rickettsia rickettsii Hlp#2,2012,RefSeq
+rrm,Rickettsia rickettsii Morgan,2015,GenBank
+rrr,Rickettsia rickettsii R,2015,GenBank
+rms,Rickettsia massiliae MTU5,2007,RefSeq
+rmi,Rickettsia massiliae AZT80,2012,RefSeq
+rpk,Rickettsia peacockii,2009,RefSeq
+raf,Rickettsia africae,2009,RefSeq
+rhe,Rickettsia heilongjiangensis,2011,RefSeq
+rja,Rickettsia japonica,2011,RefSeq
+rsv,Rickettsia slovaca 13-B,2012,RefSeq
+rsw,Rickettsia slovaca D-CWPP,2012,RefSeq
+rph,Rickettsia philipii,2012,RefSeq
+rau,Rickettsia australis,2012,RefSeq
+rmo,Rickettsia montanensis,2012,RefSeq
+rpp,Rickettsia parkeri,2012,RefSeq
+rre,Rickettsia rhipicephali,2012,RefSeq
+ram,Candidatus Rickettsia amblyommii,2012,RefSeq
+rmc,Rickettsia monacensis,2015,GenBank
+ots,Orientia tsutsugamushi Boryong,2007,RefSeq
+ott,Orientia tsutsugamushi Ikeda,2008,RefSeq
+wol,Wolbachia wMel (Drosophila melanogaster),2004,RefSeq
+wri,Wolbachia wRi (Drosophila simulans),2009,RefSeq
+wen,Wolbachia wHa (Drosophila simulans),2013,RefSeq
+wed,Wolbachia wNo (Drosophila simulans),2013,RefSeq
+wpi,Wolbachia wPip (Culex quinquefasciatus),2008,RefSeq
+wbm,Wolbachia wBm (Brugia malayi),2005,RefSeq
+woo,Wolbachia wOo (Onchocerca ochengi),2012,RefSeq
+wcl,Wolbachia wCle (Cimex lectularius),2015,GenBank
+ama,Anaplasma marginale St. Maries,2004,RefSeq
+amf,Anaplasma marginale Florida,2009,RefSeq
+amw,Anaplasma marginale Dawn,2013,RefSeq
+amp,Anaplasma marginale Gypsy Plains,2013,RefSeq
+acn,Anaplasma centrale,2009,RefSeq
+aph,Anaplasma phagocytophilum HZ,2006,RefSeq
+apy,Anaplasma phagocytophilum HZ2,2013,RefSeq
+apd,Anaplasma phagocytophilum Dog2,2013,RefSeq
+apha,Anaplasma phagocytophilum JM,2013,RefSeq
+eru,Ehrlichia ruminantium Welgevonden (South Africa),2005,RefSeq
+erw,Ehrlichia ruminantium Welgevonden (France),2005,RefSeq
+erg,Ehrlichia ruminantium Gardel,2005,RefSeq
+ecn,Ehrlichia canis,2005,RefSeq
+ech,Ehrlichia chaffeensis Arkansas,2006,RefSeq
+echa,Ehrlichia chaffeensis Heartland,2014,GenBank
+echj,Ehrlichia chaffeensis Jax,2014,GenBank
+echl,Ehrlichia chaffeensis Liberty,2014,GenBank
+echs,Ehrlichia chaffeensis Osceola,2014,GenBank
+echv,Ehrlichia chaffeensis Saint Vincent,2014,GenBank
+echw,Ehrlichia chaffeensis Wakulla,2014,GenBank
+echp,Ehrlichia chaffeensis West Paces,2014,GenBank
+emr,Ehrlichia muris,2013,RefSeq
+ehh,Ehrlichia sp. HF,2014,GenBank
+nse,Neorickettsia sennetsu,2006,RefSeq
+nri,Neorickettsia risticii,2009,RefSeq
+nhm,Neorickettsia helminthoeca,2014,GenBank
+mmn,Candidatus Midichloria mitochondrii,2011,RefSeq
+paca,Candidatus Paracaedibacter acanthamoebae,2014,GenBank
+caq,Candidatus Caedibacter acanthamoebae,2014,GenBank
+eaa,Endosymbiont of Acanthamoeba sp. UWC8,2014,GenBank
+rbt,Rickettsiales bacterium Ac37b,2014,GenBank
+mlo,Mesorhizobium loti,2000,RefSeq
+mci,Mesorhizobium ciceri,2011,RefSeq
+mop,Mesorhizobium opportunistum,2011,RefSeq
+mam,Mesorhizobium australicum,2013,RefSeq
+mes,Chelativorans sp. BNC1,2006,RefSeq
+hoe,Hoeflea sp. IMCC20628,2015,GenBank
+pla,Parvibaculum lavamentivorans,2007,RefSeq
+sme,Sinorhizobium meliloti 1021,2001,RefSeq
+smk,Sinorhizobium meliloti AK83,2011,RefSeq
+smq,Sinorhizobium meliloti BL225C,2012,RefSeq
+smx,Sinorhizobium meliloti SM11,2012,RefSeq
+smi,Sinorhizobium meliloti Rm41,2012,RefSeq
+smeg,Sinorhizobium meliloti GR4,2013,RefSeq
+smel,Sinorhizobium meliloti 2011,2013,RefSeq
+smer,Sinorhizobium meliloti RMO17,2014,GenBank
+smd,Sinorhizobium medicae,2007,RefSeq
+rhi,Sinorhizobium fredii NGR234,2009,RefSeq
+sfh,Sinorhizobium fredii HH103,2012,RefSeq
+sfd,Sinorhizobium fredii USDA 257,2012,RefSeq
+ead,Ensifer adhaerens,2014,GenBank
+atu,Agrobacterium fabrum,2001,RefSeq
+ara,Agrobacterium radiobacter,2009,RefSeq
+atf,Agrobacterium tumefaciens,2015,GenBank
+avi,Agrobacterium vitis,2009,RefSeq
+agr,Agrobacterium sp. H13-3,2011,RefSeq
+ret,Rhizobium etli CFN 42,2006,RefSeq
+rec,Rhizobium etli CIAT 652,2008,RefSeq
+rel,Rhizobium etli bv. mimosae Mim1,2013,RefSeq
+rei,Rhizobium etli bv. mimosae IE4771,2014,GenBank
+rep,Rhizobium etli bv. phaseoli IE4803,2015,GenBank
+rle,Rhizobium leguminosarum bv. viciae 3841,2006,RefSeq
+rlt,Rhizobium leguminosarum bv. trifolii WSM2304,2008,RefSeq
+rlg,Rhizobium leguminosarum bv. trifolii WSM1325,2009,RefSeq
+rlb,Rhizobium leguminosarum bv. trifolii WSM1689,2014,GenBank
+rlu,Rhizobium leguminosarum bv. trifolii CB782,2014,GenBank
+rtr,Rhizobium tropici,2013,RefSeq
+rir,Rhizobium sp. IRBG74,2013,RefSeq
+rhl,Rhizobium sp. LPU83,2014,GenBank
+rga,Rhizobium gallicum,2015,GenBank
+ngl,Neorhizobium galegae bv. officinalis bv. officinalis HAMBI 1141,2014,GenBank
+ngg,Neorhizobium galegae bv. orientalis HAMBI 540,2014,GenBank
+las,Candidatus Liberibacter asiaticus psy62,2009,RefSeq
+laa,Candidatus Liberibacter asiaticus gxpsy,2013,RefSeq
+lat,Candidatus Liberibacter asiaticus Ishi-1,2015,GenBank
+lso,Candidatus Liberibacter solanacearum,2010,RefSeq
+lcc,Liberibacter crescens,2012,RefSeq
+lar,Candidatus Liberibacter americanus,2013,RefSeq
+lau,Candidatus Liberibacter africanus,2015,GenBank
+bme,Brucella melitensis bv. 1 16M,2002,RefSeq
+bmel,Brucella melitensis bv. 1 16M,2015,GenBank
+bmi,Brucella melitensis ATCC 23457,2009,RefSeq
+bmz,Brucella melitensis M28,2012,RefSeq
+bmg,Brucella melitensis M5-90,2012,RefSeq
+bmw,Brucella melitensis NI,2012,RefSeq
+bmee,Brucella melitensis bv. 3 Ether,2014,GenBank
+bmf,Brucella abortus 2308,2005,RefSeq
+bmb,Brucella abortus 9-941,2005,RefSeq
+bmc,Brucella abortus S19,2008,RefSeq
+baa,Brucella abortus A13334,2012,RefSeq
+babo,Brucella abortus bv. 2 86/8/59,2014,GenBank
+babr,Brucella abortus bv. 6 870,2014,GenBank
+babt,Brucella abortus 63 75,2014,GenBank
+babb,Brucella abortus BDW,2014,GenBank
+babu,Brucella abortus bv. 9 C68,2014,GenBank
+babs,Brucella abortus BER,2015,GenBank
+babc,Brucella abortus NCTC 10505,2015,GenBank
+bms,Brucella suis 1330,2002,RefSeq
+bsi,Brucella suis 1330,2012,RefSeq
+bsf,Brucella suis bv. 1,2014,GenBank
+bsui,Brucella suis bv. 2 Bs143CITA,2014,GenBank
+bsup,Brucella suis bv. 2 PT09143,2014,GenBank
+bsuv,Brucella suis bv. 2 PT09172,2014,GenBank
+bsuc,Brucella suis bv. 2 Bs364CITA,2015,GenBank
+bmt,Brucella suis ATCC 23445,2007,RefSeq
+bsz,Brucella suis bv. 3,2014,GenBank
+bsv,Brucella suis VBI22,2012,RefSeq
+bsw,Brucella suis ZW043,2014,GenBank
+bsg,Brucella suis ZW046,2014,GenBank
+bov,Brucella ovis,2007,RefSeq
+bcs,Brucella canis ATCC 23365,2007,RefSeq
+bsk,Brucella canis HSK A52141,2012,RefSeq
+bol,Brucella canis Oliveri,2014,GenBank
+bcar,Brucella canis RM6/66,2014,GenBank
+bcas,Brucella canis SVA13,2014,GenBank
+bmr,Brucella microti,2009,RefSeq
+bpp,Brucella pinnipedialis B2/94,2011,RefSeq
+bpv,Brucella pinnipedialis 6/566,2014,GenBank
+bcet,Brucella ceti TE10759-12,2013,RefSeq
+bcee,Brucella ceti TE28753-12,2013,RefSeq
+oan,Ochrobactrum anthropi ATCC 49188,2007,RefSeq
+oah,Ochrobactrum anthropi OAB,2014,GenBank
+bja,Bradyrhizobium diazoefficiens USDA 110,2002,RefSeq
+bju,Bradyrhizobium japonicum USDA 6,2012,RefSeq
+bjp,Bradyrhizobium japonicum E109,2015,GenBank
+bra,Bradyrhizobium sp. ORS 278,2007,RefSeq
+bbt,Bradyrhizobium sp. BTAi1,2007,RefSeq
+brs,Bradyrhizobium sp. S23321,2012,RefSeq
+aol,Bradyrhizobium oligotrophicum,2013,RefSeq
+rpa,Rhodopseudomonas palustris CGA009,2003,RefSeq
+rpb,Rhodopseudomonas palustris HaA2,2006,RefSeq
+rpc,Rhodopseudomonas palustris BisB18,2006,RefSeq
+rpd,Rhodopseudomonas palustris BisB5,2006,RefSeq
+rpe,Rhodopseudomonas palustris BisA53,2006,RefSeq
+rpt,Rhodopseudomonas palustris TIE-1,2008,RefSeq
+rpx,Rhodopseudomonas palustris DX-1,2011,RefSeq
+nwi,Nitrobacter winogradskyi,2005,RefSeq
+nha,Nitrobacter hamburgensis,2006,RefSeq
+oca,Oligotropha carboxidovorans OM5 (Mississippi),2008,RefSeq
+ocg,Oligotropha carboxidovorans OM5 (Goettingen),2011,RefSeq
+oco,Oligotropha carboxidovorans OM4,2012,RefSeq
+bhe,Bartonella henselae Houston-1,2004,RefSeq
+bhn,Bartonella henselae BM1374163,2014,GenBank
+bhs,Bartonella henselae BM1374165,2014,GenBank
+bqu,Bartonella quintana Toulouse,2004,RefSeq
+bqr,Bartonella quintana RM-11,2012,RefSeq
+bbk,Bartonella bacilliformis,2007,RefSeq
+btr,Bartonella tribocorum CIP 105476,2007,RefSeq
+btx,Bartonella tribocorum BM1374166,2014,GenBank
+bgr,Bartonella grahamii,2009,RefSeq
+bcd,Bartonella clarridgeiae,2011,RefSeq
+baus,Bartonella australis,2013,RefSeq
+bvn,Bartonella vinsonii,2013,RefSeq
+xau,Xanthobacter autotrophicus,2007,RefSeq
+azc,Azorhizobium caulinodans,2007,RefSeq
+sno,Starkeya novella,2010,RefSeq
+mex,Methylobacterium extorquens PA1,2007,RefSeq
+mea,Methylobacterium extorquens AM1,2009,GenBank
+mdi,Methylobacterium extorquens DM4,2009,RefSeq
+mch,Methylobacterium extorquens CM4,2008,RefSeq
+mrd,Methylobacterium radiotolerans,2008,RefSeq
+met,Methylobacterium sp. 4-46,2008,RefSeq
+mpo,Methylobacterium populi,2008,RefSeq
+mno,Methylobacterium nodulans,2009,RefSeq
+mor,Methylobacterium oryzae,2014,GenBank
+bid,Beijerinckia indica,2008,RefSeq
+msl,Methylocella silvestris,2008,RefSeq
+hdn,Hyphomicrobium denitrificans ATCC 51888,2010,RefSeq
+hdt,Hyphomicrobium denitrificans 1NES1,2013,RefSeq
+hmc,Hyphomicrobium sp. MC1,2011,RefSeq
+hni,Hyphomicrobium nitrativorans,2013,RefSeq
+rva,Rhodomicrobium vannielii,2010,RefSeq
+phl,Pelagibacterium halotolerans,2011,RefSeq
+fil,Filomicrobium sp. W,2015,GenBank
+fiy,Filomicrobium sp. Y,2015,GenBank
+deq,Devosia sp. H5989,2015,GenBank
+msc,Methylocystis sp. SC2,2012,RefSeq
+mey,Martelella endophytica,2015,GenBank
+hci,Candidatus Hodgkinia cicadicola Dsem,2009,GenBank
+hct,Candidatus Hodgkinia cicadicola TETULN,2014,GenBank
+hcc,Candidatus Hodgkinia cicadicola TETUND1,2015,GenBank
+hcd,Candidatus Hodgkinia cicadicola TETUND2,2015,GenBank
+mcg,Methyloceanibacter caenitepidi,2015,GenBank
+ccr,Caulobacter crescentus CB15,2001,RefSeq
+ccs,Caulobacter crescentus NA1000,2009,RefSeq
+cak,Caulobacter sp. K31,2008,RefSeq
+cse,Caulobacter segnis,2010,RefSeq
+pzu,Phenylobacterium zucineum,2008,RefSeq
+bsb,Brevundimonas subvibrioides,2010,RefSeq
+aex,Asticcacaulis excentricus,2011,RefSeq
+sil,Ruegeria pomeroyi,2004,RefSeq
+sit,Ruegeria sp. TM1040,2006,RefSeq
+rsp,Rhodobacter sphaeroides 2.4.1,2005,RefSeq
+rsh,Rhodobacter sphaeroides ATCC 17029,2007,RefSeq
+rsq,Rhodobacter sphaeroides ATCC 17025,2007,RefSeq
+rsk,Rhodobacter sphaeroides KD131,2009,RefSeq
+rcp,Rhodobacter capsulatus,2010,RefSeq
+jan,Jannaschia sp. CCS1,2006,RefSeq
+rde,Roseobacter denitrificans,2006,RefSeq
+rli,Roseobacter litoralis,2011,RefSeq
+pde,Paracoccus denitrificans,2006,RefSeq
+pami,Paracoccus aminophilus,2013,RefSeq
+dsh,Dinoroseobacter shibae,2007,RefSeq
+kvu,Ketogulonicigenium vulgare Y25,2010,RefSeq
+kvl,Ketogulonicigenium vulgare WSH-001,2012,RefSeq
+psf,Pseudovibrio sp. FO-BEG1,2012,RefSeq
+pga,Phaeobacter inhibens,2012,RefSeq
+pgl,Phaeobacter gallaeciensis 2.10,2012,RefSeq
+pgd,Phaeobacter gallaeciensis DSM 26640,2013,RefSeq
+oat,Octadecabacter antarcticus,2013,RefSeq
+oar,Octadecabacter arcticus,2013,RefSeq
+otm,Octadecabacter temperatus,2015,GenBank
+lmd,Leisingera methylohalidivorans,2013,RefSeq
+red,Roseibacterium elongatum,2014,GenBank
+ptp,Planktomarina temperata,2014,GenBank
+cid,Celeribacter indicus,2015,GenBank
+malg,Marinovum algicola,2015,GenBank
+mmr,Maricaulis maris,2006,RefSeq
+hne,Hyphomonas neptunium,2006,RefSeq
+hba,Hirschia baltica,2009,RefSeq
+zmo,Zymomonas mobilis subsp. mobilis ZM4,2004,RefSeq
+zmn,Zymomonas mobilis subsp. mobilis NCIMB 11163,2009,RefSeq
+zmm,Zymomonas mobilis subsp. mobilis ATCC 10988,2012,RefSeq
+zmb,Zymomonas mobilis subsp. mobilis ATCC 29191,2012,RefSeq
+zmi,Zymomonas mobilis subsp. mobilis CP4 = NRRL B-14023,2013,RefSeq
+zmc,Zymomonas mobilis subsp. mobilis CP4 = NRRL B-14023,2014,GenBank
+zmr,Zymomonas mobilis subsp. mobilis NRRL B-12526,2014,GenBank
+zmp,Zymomonas mobilis subsp. pomaceae ATCC 29192,2011,RefSeq
+nar,Novosphingobium aromaticivorans,2006,RefSeq
+npp,Novosphingobium sp. PP1Y,2011,RefSeq
+npn,Novosphingobium pentaromativorans,2014,GenBank
+sal,Sphingopyxis alaskensis,2006,RefSeq
+sphk,Sphingopyxis sp. Kp5.2,2015,GenBank
+swi,Sphingomonas wittichii,2007,RefSeq
+sphm,Sphingomonas sp. MM-1,2013,RefSeq
+stax,Sphingomonas taxi,2014,GenBank
+sphi,Sphingomonas sp. WHSC-8,2015,GenBank
+ssan,Sphingomonas sanxanigenens,2015,GenBank
+sjp,Sphingobium japonicum,2010,RefSeq
+sch,Sphingobium chlorophenolicum,2011,RefSeq
+ssy,Sphingobium sp. SYK-6,2011,RefSeq
+syb,Sphingobium sp. YBL2,2015,GenBank
+eli,Erythrobacter litoralis,2006,RefSeq
+ery,Erythrobacter sp. s21-N3,2015,GenBank
+aay,Altererythrobacter atlanticus,2015,GenBank
+amx,Altererythrobacter marensis,2015,GenBank
+cna,Croceicoccus naphthovorans,2015,GenBank
+gox,Gluconobacter oxydans 621H,2005,RefSeq
+goh,Gluconobacter oxydans H24,2012,RefSeq
+goy,Gluconobacter oxydans DSM 3504,2015,GenBank
+gbe,Granulibacter bethesdensis CGDNIH1,2006,RefSeq
+gbh,Granulibacter bethesdensis CGDNIH2,2014,GenBank
+gbc,Granulibacter bethesdensis CGDNIH3,2014,GenBank
+gbs,Granulibacter bethesdensis CGDNIH4,2014,GenBank
+acr,Acidiphilium cryptum,2007,RefSeq
+amv,Acidiphilium multivorum,2011,RefSeq
+gdi,Gluconacetobacter diazotrophicus PAl 5 (Brazil),2007,RefSeq
+gdj,Gluconacetobacter diazotrophicus PA1 5 (JGI),2008,RefSeq
+gxy,Gluconacetobacter medellinensis NBRC 3288,2011,RefSeq
+gxl,Gluconacetobacter xylinus E25,2014,GenBank
+apt,Acetobacter pasteurianus IFO 3283-01,2009,RefSeq
+apw,Acetobacter pasteurianus IFO 3283-01-42C,2012,RefSeq
+apf,Acetobacter pasteurianus IFO 3283-03,2012,RefSeq
+apu,Acetobacter pasteurianus IFO 3283-07,2012,RefSeq
+apg,Acetobacter pasteurianus IFO 3283-12,2012,RefSeq
+apq,Acetobacter pasteurianus IFO 3283-22,2012,RefSeq
+apx,Acetobacter pasteurianus IFO 3283-26,2012,RefSeq
+apz,Acetobacter pasteurianus IFO 3283-32,2012,RefSeq
+apk,Acetobacter pasteurianus 386B,2013,GenBank
+rru,Rhodospirillum rubrum ATCC 11170,2005,RefSeq
+rrf,Rhodospirillum rubrum F11,2012,RefSeq
+rce,Rhodospirillum centenum,2008,RefSeq
+rpm,Rhodospirillum photometricum,2012,RefSeq
+mag,Magnetospirillum magneticum,2005,RefSeq
+mgy,Magnetospirillum gryphiswaldense,2013,RefSeq
+azl,Azospirillum sp. B510,2010,RefSeq
+ali,Azospirillum lipoferum,2012,RefSeq
+abs,Azospirillum brasilense Sp245,2012,RefSeq
+abq,Azospirillum brasilense Az39,2014,GenBank
+tmo,Tistrella mobilis,2012,RefSeq
+thal,Candidatus Endolissoclinum faulkneri,2012,RefSeq
+txi,Thalassospira xiamenensis,2015,GenBank
+magq,Magnetospira sp. QH-2,2015,GenBank
+pbr,Parvularcula bermudensis,2010,RefSeq
+mgm,Magnetococcus marinus,2006,RefSeq
+mai,Micavibrio aeruginosavorus ARL-13,2011,RefSeq
+man,Micavibrio aeruginosavorus EPB,2013,RefSeq
+pgv,Polymorphum gilvum,2011,RefSeq
+pub,Candidatus Pelagibacter ubique,2005,RefSeq
+pel,Candidatus Pelagibacter sp. IMCC9063,2011,RefSeq
+apc,Alpha proteobacterium HIMB59,2012,RefSeq
+apm,Alpha proteobacterium HIMB5,2012,RefSeq
+apb,Candidatus Puniceispirillum marinum,2010,RefSeq
+bsu,Bacillus subtilis subsp. subtilis 168,1997,RefSeq
+bsr,Bacillus subtilis subsp. subtilis RO-NN-1,2012,RefSeq
+bsl,Bacillus subtilis subsp. subtilis BSP1,2012,RefSeq
+bsh,Bacillus subtilis subsp. subtilis 6051-HGW,2013,RefSeq
+bsy,Bacillus subtilis subsp. subtilis BAB-1,2013,RefSeq
+bsut,Bacillus subtilis subsp. subtilis AG1839,2014,GenBank
+bsul,Bacillus subtilis subsp. subtilis JH642,2014,GenBank
+bsus,Bacillus subtilis subsp. subtilis OH 131.1,2014,GenBank
+bss,Bacillus subtilis subsp. spizizenii W23,2010,RefSeq
+bst,Bacillus subtilis subsp. spizizenii TU-B-10,2011,RefSeq
+bso,Bacillus subtilis subsp. natto BEST195,2013,RefSeq
+bsn,Bacillus subtilis BSn5,2011,RefSeq
+bsq,Bacillus subtilis QB928,2012,RefSeq
+bsx,Bacillus subtilis XF-1,2013,RefSeq
+bsp,Bacillus subtilis PY79,2013,RefSeq
+bli,Bacillus licheniformis ATCC 14580,2004,RefSeq
+bld,Bacillus licheniformis DSM 13 = ATCC 14580,2004,RefSeq
+blh,Bacillus licheniformis 9945A,2013,RefSeq
+bao,Bacillus amyloliquefaciens DSM 7,2010,RefSeq
+bay,Bacillus amyloliquefaciens FZB42,2007,RefSeq
+baq,Bacillus amyloliquefaciens subsp. plantarum CAU B946,2012,RefSeq
+bya,Bacillus amyloliquefaciens subsp. plantarum YAU B9601-Y2,2012,RefSeq
+bamp,Bacillus amyloliquefaciens subsp. plantarum AS43.3,2012,RefSeq
+baml,Bacillus amyloliquefaciens subsp. plantarum UCMB5036,2013,RefSeq
+bama,Bacillus amyloliquefaciens subsp. plantarum UCMB5033,2013,RefSeq
+bamn,Bacillus amyloliquefaciens subsp. plantarum UCMB5113,2013,RefSeq
+bamb,Bacillus amyloliquefaciens subsp. plantarum NAU-B3,2013,RefSeq
+bamt,Bacillus amyloliquefaciens subsp. plantarum TrigoCor1448,2014,GenBank
+baz,Bacillus amyloliquefaciens TA208,2012,RefSeq
+bql,Bacillus amyloliquefaciens LL3,2012,RefSeq
+bxh,Bacillus amyloliquefaciens XH7,2012,RefSeq
+bqy,Bacillus amyloliquefaciens Y2,2012,RefSeq
+bami,Bacillus amyloliquefaciens IT-45,2013,RefSeq
+bamc,Bacillus amyloliquefaciens CC178,2013,RefSeq
+bamf,Bacillus amyloliquefaciens LFB112,2013,RefSeq
+bamy,Bacillus amyloliquefaciens SQR9,2014,GenBank
+bae,Bacillus atrophaeus 1942,2010,RefSeq
+batr,Bacillus atrophaeus NRS 1221A,2015,GenBank
+bha,Bacillus halodurans,2000,RefSeq
+ban,Bacillus anthracis Ames,2003,RefSeq
+bar,Bacillus anthracis Ames 0581,2004,RefSeq
+bat,Bacillus anthracis Sterne,2004,RefSeq
+bah,Bacillus anthracis CDC 684,2009,RefSeq
+bai,Bacillus anthracis A0248,2009,RefSeq
+bax,Bacillus anthracis H9401,2012,RefSeq
+bant,Bacillus anthracis A16,2014,GenBank
+banr,Bacillus anthracis A16R,2014,GenBank
+bans,Bacillus anthracis SVA11,2014,GenBank
+banh,Bacillus anthracis HYU01,2014,GenBank
+banv,Bacillus anthracis Vollum,2014,GenBank
+bal,Bacillus cereus biovar anthracis CI,2010,RefSeq
+bce,Bacillus cereus ATCC 14579,2003,RefSeq
+bca,Bacillus cereus ATCC 10987,2004,RefSeq
+bcz,Bacillus cereus ZK,2004,RefSeq
+bcr,Bacillus cereus AH187,2008,RefSeq
+bcb,Bacillus cereus B4264,2008,RefSeq
+bcu,Bacillus cereus AH820,2009,RefSeq
+bcg,Bacillus cereus G9842,2009,RefSeq
+bcq,Bacillus cereus Q1,2009,RefSeq
+bcx,Bacillus cereus 03BB102,2009,RefSeq
+bnc,Bacillus cereus NC7401,2012,RefSeq
+bcf,Bacillus cereus F837/76,2012,RefSeq
+bcer,Bacillus cereus FRI-35,2012,RefSeq
+bcef,Bacillus cereus FT9,2014,GenBank
+bcy,Bacillus cytotoxicus,2007,RefSeq
+btk,Bacillus thuringiensis 97-27,2004,RefSeq
+btl,Bacillus thuringiensis Al Hakam,2006,RefSeq
+btb,Bacillus thuringiensis BMB171,2010,RefSeq
+btt,Bacillus thuringiensis serovar kurstaki HD73,2013,RefSeq
+bthr,Bacillus thuringiensis serovar kurstaki YBT-1520,2014,GenBank
+bthi,Bacillus thuringiensis serovar kurstaki HD-1,2014,GenBank
+btc,Bacillus thuringiensis serovar chinensis CT-43,2012,RefSeq
+btf,Bacillus thuringiensis serovar finitimus YBT-020,2012,RefSeq
+btm,Bacillus thuringiensis MC28,2012,RefSeq
+btg,Bacillus thuringiensis Bt407,2012,RefSeq
+bti,Bacillus thuringiensis HD-771,2012,RefSeq
+btn,Bacillus thuringiensis HD-789,2013,RefSeq
+btht,Bacillus thuringiensis serovar thuringiensis IS5056,2013,RefSeq
+bthu,Bacillus thuringiensis YBT-1518,2013,RefSeq
+btw,Bacillus thuringiensis HD1011,2015,GenBank
+bwe,Bacillus weihenstephanensis KBAB4,2008,RefSeq
+bww,Bacillus weihenstephanensis WSBC 10204,2014,GenBank
+bty,Bacillus toyonensis,2013,RefSeq
+bmyc,Bacillus mycoides 219298,2014,GenBank
+bmyo,Bacillus mycoides ATCC 6462,2015,GenBank
+bcl,Bacillus clausii,2005,RefSeq
+bpu,Bacillus pumilus SAFR-032,2007,RefSeq
+bpum,Bacillus pumilus MTCC B6033,2014,GenBank
+bpf,Bacillus pseudofirmus,2010,RefSeq
+bmq,Bacillus megaterium QM B1551,2010,RefSeq
+bmd,Bacillus megaterium DSM 319,2010,RefSeq
+bmh,Bacillus megaterium WSH-002,2012,RefSeq
+bmeg,Bacillus megaterium NBRC 15308 = ATCC 14581,2015,GenBank
+bco,Bacillus cellulosilyticus,2011,RefSeq
+bck,Bacillus coagulans 2-6,2011,RefSeq
+bag,Bacillus coagulans 36D1,2011,RefSeq
+bcoa,Bacillus coagulans DSM 1 = ATCC 7050,2015,GenBank
+bjs,Bacillus sp. JS,2012,RefSeq
+baci,Bacillus sp. 1NLA3E,2013,RefSeq
+bif,Bacillus infantis,2013,RefSeq
+ble,Bacillus lehensis,2014,GenBank
+bmet,Bacillus methanolicus,2014,GenBank
+bmp,Bacillus methylotrophicus,2014,GenBank
+gst,Bacillus sp. X1(2014),2014,GenBank
+bacw,Bacillus sp. WP8,2015,GenBank
+bacp,Bacillus sp. Pc3,2015,GenBank
+bacb,Bacillus sp. BH072,2015,GenBank
+bby,Bacillus bombysepticus,2015,GenBank
+baco,Bacillus sp. OxB-1,2015,GenBank
+bacy,Bacillus sp. YP1,2015,GenBank
+bacl,Bacillus sp. BS34A,2015,GenBank
+balm,Bacillus sp. LM 4-2,2015,GenBank
+beo,Bacillus endophyticus,2015,GenBank
+bsm,Bacillus smithii,2015,GenBank
+oih,Oceanobacillus iheyensis,2002,RefSeq
+gka,Geobacillus kaustophilus,2004,RefSeq
+gtn,Geobacillus thermodenitrificans,2007,RefSeq
+gth,Geobacillus thermoglucosidasius,2011,RefSeq
+gte,Geobacillus thermoleovorans,2012,RefSeq
+gwc,Geobacillus sp. WCH70,2009,RefSeq
+gyc,Geobacillus sp. Y412MC61,2009,RefSeq
+gya,Geobacillus sp. Y412MC52,2011,RefSeq
+gct,Geobacillus sp. C56-T3,2010,RefSeq
+gmc,Geobacillus sp. Y4.1MC1,2010,RefSeq
+ggh,Geobacillus sp. GHH01,2013,RefSeq
+gjf,Geobacillus sp. JF8,2013,RefSeq
+gea,Geobacillus sp. 12AMOR1,2015,GenBank
+afl,Anoxybacillus flavithermus,2008,RefSeq
+agn,Anoxybacillus gonensis,2015,GenBank
+axl,Amphibacillus xylanus,2012,RefSeq
+lsp,Lysinibacillus sphaericus,2008,RefSeq
+lgy,Lysinibacillus sp. GY32,2014,GenBank
+lfu,Lysinibacillus fusiformis,2015,GenBank
+hhd,Halobacillus halophilus,2012,RefSeq
+tap,Terribacillus aidingensis,2014,GenBank
+vir,Virgibacillus sp. SK37,2014,GenBank
+bse,Bacillus selenitireducens,2010,RefSeq
+sau,Staphylococcus aureus subsp. aureus N315 (MRSA/VSSA),2001,RefSeq
+sav,Staphylococcus aureus subsp. aureus Mu50 (MRSA/VISA),2001,RefSeq
+saw,Staphylococcus aureus subsp. aureus Mu3 (MRSA/hetero-VISA),2007,RefSeq
+sah,Staphylococcus aureus subsp. aureus JH1 (MRSA/VSSA),2007,RefSeq
+saj,Staphylococcus aureus subsp. aureus JH9 (MRSA/VRSA),2007,RefSeq
+sam,Staphylococcus aureus subsp. aureus MW2 (CA-MRSA),2002,RefSeq
+sas,Staphylococcus aureus subsp. aureus MSSA476 (MSSA),2004,RefSeq
+sar,Staphylococcus aureus subsp. aureus MRSA252 (MRSA),2004,RefSeq
+sac,Staphylococcus aureus subsp. aureus COL (MRSA),2005,RefSeq
+sax,Staphylococcus aureus subsp. aureus USA300_TCH1516 (CA-MSSA),2007,RefSeq
+saa,Staphylococcus aureus subsp. aureus USA300_FPR3757 (CA-MRSA),2006,RefSeq
+sao,Staphylococcus aureus subsp. aureus NCTC8325,2006,RefSeq
+sae,Staphylococcus aureus subsp. aureus Newman,2007,RefSeq
+sad,Staphylococcus aureus subsp. aureus ED98,2009,RefSeq
+suu,Staphylococcus aureus subsp. aureus M013 (CA-MRSA),2012,RefSeq
+suv,Staphylococcus aureus subsp. aureus VC40,2012,RefSeq
+suh,Staphylococcus aureus subsp. aureus MSHR1132,2012,RefSeq
+sue,Staphylococcus aureus subsp. aureus ED133,2012,RefSeq
+suj,Staphylococcus aureus subsp. aureus JKD6159 (CA-MRSA),2012,RefSeq
+suk,Staphylococcus aureus subsp. aureus JKD6008 (MRSA/VISA),2012,RefSeq
+suc,Staphylococcus aureus subsp. aureus ECT-R 2,2012,RefSeq
+sut,Staphylococcus aureus subsp. aureus T0131 (MRSA),2012,RefSeq
+suq,Staphylococcus aureus subsp. aureus TCH60,2012,RefSeq
+suz,Staphylococcus aureus subsp. aureus 11819-97 (CA-MRSA),2012,RefSeq
+sud,Staphylococcus aureus subsp. aureus 71193,2012,RefSeq
+sux,Staphylococcus aureus subsp. aureus HO 5096 0412,2012,RefSeq
+suw,Staphylococcus aureus subsp. aureus TW20 (MRSA),2012,RefSeq
+sug,Staphylococcus aureus subsp. aureus ST398 (MRSA),2012,RefSeq
+suf,Staphylococcus aureus subsp. aureus LGA251,2012,RefSeq
+saua,Staphylococcus aureus subsp. aureus 55/2053,2013,RefSeq
+saue,Staphylococcus aureus subsp. aureus 6850 (MSSA),2013,RefSeq
+saun,Staphylococcus aureus subsp. aureus CN1 (CA-MRSA),2013,RefSeq
+saus,Staphylococcus aureus subsp. aureus SA40 (CA-MRSA),2013,RefSeq
+sauu,Staphylococcus aureus subsp. aureus SA957 (CA-MRSA),2013,RefSeq
+saug,Staphylococcus aureus subsp. aureus SA268 (CA-MRSA),2015,GenBank
+sauz,Staphylococcus aureus subsp. aureus Z172 (MRSA/VISA),2013,RefSeq
+saut,Staphylococcus aureus subsp. aureus ST228/10388 (MRSA),2014,GenBank
+sauj,Staphylococcus aureus subsp. aureus ST228/10497 (MRSA),2014,GenBank
+sauk,Staphylococcus aureus subsp. aureus ST228/15532 (MRSA),2014,GenBank
+sauq,Staphylococcus aureus subsp. aureus ST228/16035 (MRSA),2014,GenBank
+sauv,Staphylococcus aureus subsp. aureus ST228/18412 (MRSA),2014,GenBank
+sauw,Staphylococcus aureus subsp. aureus ST228/16125 (MRSA),2014,GenBank
+saux,Staphylococcus aureus subsp. aureus ST228/18341 (MRSA),2014,GenBank
+sauy,Staphylococcus aureus subsp. aureus ST228/18583 (MRSA),2014,GenBank
+sab,Staphylococcus aureus RF122,2005,RefSeq
+suy,Staphylococcus aureus 04-02981,2012,RefSeq
+saub,Staphylococcus aureus 08BA02176,2012,RefSeq
+saum,Staphylococcus aureus M1,2013,RefSeq
+sauc,Staphylococcus aureus CA-347,2013,RefSeq
+saur,Staphylococcus aureus Bmb9393,2013,RefSeq
+saui,Staphylococcus aureus USA300-ISMMS1,2014,GenBank
+saud,Staphylococcus aureus 502A,2014,GenBank
+sauf,Staphylococcus aureus NRS 100,2014,GenBank
+sep,Staphylococcus epidermidis ATCC 12228,2003,RefSeq
+ser,Staphylococcus epidermidis RP62A,2005,RefSeq
+sepp,Staphylococcus epidermidis PM221,2014,GenBank
+seps,Staphylococcus epidermidis SEI,2014,GenBank
+sha,Staphylococcus haemolyticus JCSC1435,2005,RefSeq
+shh,Staphylococcus haemolyticus Sh29/312/L2,2015,GenBank
+ssp,Staphylococcus saprophyticus,2005,RefSeq
+sca,Staphylococcus carnosus,2009,RefSeq
+slg,Staphylococcus lugdunensis HKU09-01,2010,RefSeq
+sln,Staphylococcus lugdunensis N920143,2012,RefSeq
+ssd,Staphylococcus pseudintermedius HKU10-03,2011,RefSeq
+sdt,Staphylococcus pseudintermedius ED99,2012,RefSeq
+swa,Staphylococcus warneri,2013,RefSeq
+spas,Staphylococcus pasteuri,2013,RefSeq
+sxy,Staphylococcus xylosus HKUOPL8,2014,GenBank
+sxl,Staphylococcus xylosus SMQ-121,2014,GenBank
+sxo,Staphylococcus xylosus C2a,2015,GenBank
+shu,Staphylococcus hyicus,2015,GenBank
+scap,Staphylococcus capitis,2015,GenBank
+mcl,Macrococcus caseolyticus,2009,RefSeq
+lmo,Listeria monocytogenes EGD-e,2001,RefSeq
+lmf,Listeria monocytogenes F2365,2004,RefSeq
+lmh,Listeria monocytogenes HCC23,2008,RefSeq
+lmc,Listeria monocytogenes Clip81459,2009,RefSeq
+lmn,Listeria monocytogenes 08-5578,2010,RefSeq
+lmy,Listeria monocytogenes 08-5923,2010,RefSeq
+lmt,Listeria monocytogenes 10403S,2012,RefSeq
+lmg,Listeria monocytogenes FSL R2-561,2012,RefSeq
+lms,Listeria monocytogenes Finland 1998,2012,RefSeq
+lmj,Listeria monocytogenes J0161,2012,RefSeq
+lmq,Listeria monocytogenes M7,2012,RefSeq
+lml,Listeria monocytogenes L99,2012,RefSeq
+lmp,Listeria monocytogenes 07PF0776,2012,RefSeq
+lmw,Listeria monocytogenes SLCC2755,2012,RefSeq
+lmx,Listeria monocytogenes SLCC2372,2012,RefSeq
+lmz,Listeria monocytogenes serotype 7 SLCC2482,2012,RefSeq
+lmon,Listeria monocytogenes SLCC2376,2012,RefSeq
+lmoc,Listeria monocytogenes SLCC5850,2012,RefSeq
+lmos,Listeria monocytogenes SLCC7179,2012,RefSeq
+lmoo,Listeria monocytogenes SLCC2378,2012,RefSeq
+lmoy,Listeria monocytogenes SLCC2479,2012,RefSeq
+lmot,Listeria monocytogenes SLCC2540,2012,RefSeq
+lmoa,Listeria monocytogenes ATCC 19117,2012,RefSeq
+lmol,Listeria monocytogenes L312,2012,RefSeq
+lmog,Listeria monocytogenes serotype 4b LL195,2013,RefSeq
+lmoe,Listeria monocytogenes La111,2013,RefSeq
+lmob,Listeria monocytogenes N53-1,2013,RefSeq
+lmoj,Listeria monocytogenes J1-220,2013,RefSeq
+lmoz,Listeria monocytogenes J1816,2013,RefSeq
+lmod,Listeria monocytogenes EGD,2013,RefSeq
+lmow,Listeria monocytogenes WSLC1001,2014,GenBank
+lmox,Listeria monocytogenes WSLC1042,2014,GenBank
+lmoq,Listeria monocytogenes 6179,2014,GenBank
+lmr,Listeria monocytogenes R479a,2014,GenBank
+lmok,Listeria monocytogenes NE dc2014,2014,GenBank
+lmv,Listeria monocytogenes CFSAN006122,2014,GenBank
+lmom,Listeria monocytogenes Lm60,2014,GenBank
+lin,Listeria innocua,2001,RefSeq
+lwe,Listeria welshimeri,2006,RefSeq
+lsg,Listeria seeligeri,2010,RefSeq
+liv,Listeria ivanovii subsp. ivanovii PAM 55,2011,RefSeq
+lii,Listeria ivanovii subsp. ivanovii WSLC 3010,2014,GenBank
+liw,Listeria ivanovii WSLC3009,2014,GenBank
+lia,Listeria ivanovii subsp. londoniensis WSLC 30167,2014,GenBank
+lio,Listeria ivanovii subsp. londoniensis WSLC 30151,2014,GenBank
+esi,Exiguobacterium sibiricum,2008,RefSeq
+eat,Exiguobacterium sp. AT1b,2009,RefSeq
+ean,Exiguobacterium antarcticum,2012,RefSeq
+exm,Exiguobacterium sp. MH3,2013,RefSeq
+bbe,Brevibacillus brevis,2009,RefSeq
+blr,Brevibacillus laterosporus,2015,GenBank
+pjd,Paenibacillus sp. JDR-2,2009,RefSeq
+gym,Paenibacillus sp. Y412MC10,2009,RefSeq
+ppy,Paenibacillus polymyxa E681,2010,RefSeq
+ppm,Paenibacillus polymyxa SC2,2010,RefSeq
+ppo,Paenibacillus polymyxa M1,2012,RefSeq
+ppol,Paenibacillus polymyxa CR1,2013,RefSeq
+ppq,Paenibacillus polymyxa SQR-21,2014,GenBank
+ppoy,Paenibacillus polymyxa Sb3-1,2015,GenBank
+pms,Paenibacillus mucilaginosus KNP414,2011,RefSeq
+pmq,Paenibacillus mucilaginosus 3016,2012,RefSeq
+pmw,Paenibacillus mucilaginosus K02,2012,RefSeq
+pta,Paenibacillus terrae,2012,RefSeq
+plv,Paenibacillus larvae,2013,RefSeq
+psab,Paenibacillus sabinae,2014,GenBank
+pdu,Paenibacillus durus,2014,GenBank
+pbd,Paenibacillus borealis,2014,GenBank
+pgm,Paenibacillus graminis,2014,GenBank
+pod,Paenibacillus odorifer,2014,GenBank
+paen,Paenibacillus sp. FSL P4-0081,2014,GenBank
+paef,Paenibacillus sp. FSL R5-0345,2014,GenBank
+paeq,Paenibacillus sp. FSL R5-0912,2014,GenBank
+pste,Paenibacillus stellifer,2014,GenBank
+paea,Paenibacillus sp. FSL R7-0273,2014,GenBank
+paee,Paenibacillus sp. FSL R7-0331,2014,GenBank
+paeh,Paenibacillus sp. FSL H7-0357,2014,GenBank
+paej,Paenibacillus sp. FSL H7-0737,2014,GenBank
+pbj,Paenibacillus beijingensis,2015,GenBank
+pih,Paenibacillus sp. IHBB 10380,2015,GenBank
+pri,Paenibacillus riograndensis,2015,GenBank
+tco,Thermobacillus composti,2012,RefSeq
+aac,Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446,2009,RefSeq
+aad,Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1,2012,RefSeq
+bts,Kyrpidia tusciae,2010,RefSeq
+siv,Solibacillus silvestris,2012,RefSeq
+pln,Planococcus sp. PAMC 21323,2015,GenBank
+jeo,Jeotgalibacillus sp. D5,2015,GenBank
+shv,Salinicoccus halodurans,2015,GenBank
+lla,Lactococcus lactis subsp. lactis Il1403,2001,RefSeq
+llk,Lactococcus lactis subsp. lactis KF147,2009,RefSeq
+llt,Lactococcus lactis subsp. lactis CV56,2012,RefSeq
+lls,Lactococcus lactis subsp. lactis IO-1,2013,RefSeq
+lld,Lactococcus lactis subsp. lactis KLDS 4.0325,2013,RefSeq
+llx,Lactococcus lactis subsp. lactis NCDO 2118,2014,GenBank
+llc,Lactococcus lactis subsp. cremoris SK11,2006,RefSeq
+llm,Lactococcus lactis subsp. cremoris MG1363,2007,RefSeq
+llr,Lactococcus lactis subsp. cremoris A76,2012,RefSeq
+lln,Lactococcus lactis subsp. cremoris NZ9000,2012,RefSeq
+lli,Lactococcus lactis subsp. cremoris UC509.9,2013,RefSeq
+llw,Lactococcus lactis subsp. cremoris KW2,2013,RefSeq
+llj,Lactococcus lactis AI06,2014,GenBank
+lgr,Lactococcus garvieae ATCC 49156,2011,RefSeq
+lgv,Lactococcus garvieae Lg2,2012,RefSeq
+lpk,Lactococcus piscium,2015,GenBank
+spy,Streptococcus pyogenes SF370 (serotype M1),2001,RefSeq
+spz,Streptococcus pyogenes MGAS5005 (serotype M1),2005,RefSeq
+spym,Streptococcus pyogenes M1 476 (serotype M1),2013,RefSeq
+spm,Streptococcus pyogenes MGAS8232 (serotype M18),2002,RefSeq
+spg,Streptococcus pyogenes MGAS315 (serotype M3),2002,RefSeq
+sps,Streptococcus pyogenes SSI-1 (serotype M3),2003,RefSeq
+sph,Streptococcus pyogenes MGAS10270 (serotype M2),2006,RefSeq
+spi,Streptococcus pyogenes MGAS10750 (serotype M4),2006,RefSeq
+spj,Streptococcus pyogenes MGAS2096 (serotype M12),2006,RefSeq
+spk,Streptococcus pyogenes MGAS9429 (serotype M12),2006,RefSeq
+spf,Streptococcus pyogenes Manfredo (serotype M5),2007,RefSeq
+spa,Streptococcus pyogenes MGAS10394 (serotype M6),2004,RefSeq
+spb,Streptococcus pyogenes MGAS6180 (serotype M28),2005,RefSeq
+stg,Streptococcus pyogenes MGAS15252 (serotype M59),2012,RefSeq
+soz,Streptococcus pyogenes NZ131 (serotype M49),2008,RefSeq
+stz,Streptococcus pyogenes Alab49 (serotype M53),2012,RefSeq
+stx,Streptococcus pyogenes MGAS1882,2012,RefSeq
+spya,Streptococcus pyogenes A20,2012,RefSeq
+spyh,Streptococcus pyogenes HSC5,2013,RefSeq
+spyo,Streptococcus pyogenes STAB901 (serotype M44),2014,GenBank
+spn,Streptococcus pneumoniae TIGR4 (virulent serotype 4),2001,RefSeq
+spd,Streptococcus pneumoniae D39 (virulent serotype 2),2006,GenBank
+spr,Streptococcus pneumoniae R6 (avirulent),2001,RefSeq
+spw,Streptococcus pneumoniae CGSP14 (serotype 14),2008,RefSeq
+spx,Streptococcus pneumoniae G54 (serotype 19F),2008,RefSeq
+sne,Streptococcus pneumoniae ATCC 700669 (serotype 23F ST81 lineage),2009,RefSeq
+spv,Streptococcus pneumoniae Hungary19A 6,2008,RefSeq
+snm,Streptococcus pneumoniae 70585,2009,RefSeq
+sjj,Streptococcus pneumoniae JJA,2009,RefSeq
+spp,Streptococcus pneumoniae P1031,2009,RefSeq
+snt,Streptococcus pneumoniae Taiwan19F-14,2009,RefSeq
+snc,Streptococcus pneumoniae TCH8431/19A,2010,RefSeq
+snb,Streptococcus pneumoniae 670-6B,2010,RefSeq
+snp,Streptococcus pneumoniae AP200,2010,RefSeq
+sni,Streptococcus pneumoniae INV104,2012,RefSeq
+snv,Streptococcus pneumoniae INV200,2012,RefSeq
+snx,Streptococcus pneumoniae OXC141,2012,RefSeq
+snd,Streptococcus pneumoniae ST556,2012,RefSeq
+snu,Streptococcus pneumoniae SPNA45,2012,RefSeq
+spng,Streptococcus pneumoniae gamPNI0373,2012,RefSeq
+spne,Streptococcus pneumoniae SPN034156,2013,RefSeq
+spnu,Streptococcus pneumoniae SPN034183,2013,RefSeq
+spnm,Streptococcus pneumoniae SPN994038,2013,RefSeq
+spno,Streptococcus pneumoniae SPN994039,2013,RefSeq
+spnn,Streptococcus pneumoniae A026,2013,RefSeq
+sag,Streptococcus agalactiae 2603 (serotype V),2002,RefSeq
+san,Streptococcus agalactiae NEM316 (serotype III),2002,RefSeq
+sak,Streptococcus agalactiae A909 (serotype Ia),2005,RefSeq
+sgc,Streptococcus agalactiae GD201008-001 (serotype Ia),2012,RefSeq
+sags,Streptococcus agalactiae SA20-06,2012,RefSeq
+sagl,Streptococcus agalactiae 2-22 (serotype Ib),2013,RefSeq
+sagm,Streptococcus agalactiae 09mas018883,2013,RefSeq
+sagi,Streptococcus agalactiae ILRI005,2013,RefSeq
+sagr,Streptococcus agalactiae ILRI112,2013,RefSeq
+sagp,Streptococcus agalactiae 138P,2014,GenBank
+sagc,Streptococcus agalactiae 138spar,2014,GenBank
+sagt,Streptococcus agalactiae COH1,2014,GenBank
+sage,Streptococcus agalactiae NGBS061,2015,GenBank
+sagg,Streptococcus agalactiae NGBS572,2015,GenBank
+sagn,Streptococcus agalactiae CNCTC 10/84,2015,GenBank
+smu,Streptococcus mutans UA159,2002,RefSeq
+smc,Streptococcus mutans NN2025,2010,RefSeq
+smj,Streptococcus mutans LJ23,2012,RefSeq
+smut,Streptococcus mutans GS-5,2012,RefSeq
+smua,Streptococcus mutans UA159-FR,2015,GenBank
+stc,Streptococcus thermophilus CNRZ1066,2004,RefSeq
+stl,Streptococcus thermophilus LMG18311,2004,RefSeq
+ste,Streptococcus thermophilus LMD-9,2006,RefSeq
+stn,Streptococcus thermophilus ND03,2012,RefSeq
+stu,Streptococcus thermophilus JIM 8232,2012,RefSeq
+stw,Streptococcus thermophilus MN-ZLW-002,2012,RefSeq
+sthe,Streptococcus thermophilus ASCC 1275,2014,GenBank
+ssa,Streptococcus sanguinis,2007,RefSeq
+ssu,Streptococcus suis 05ZYH33,2007,RefSeq
+ssv,Streptococcus suis 98HAH33,2007,GenBank
+ssb,Streptococcus suis BM407,2009,RefSeq
+ssi,Streptococcus suis P1/7,2009,RefSeq
+sss,Streptococcus suis SC84,2009,RefSeq
+sst,Streptococcus suis ST3,2011,RefSeq
+ssf,Streptococcus suis A7,2012,RefSeq
+ssk,Streptococcus suis D12,2012,RefSeq
+ssq,Streptococcus suis D9,2012,RefSeq
+ssw,Streptococcus suis GZ1,2012,RefSeq
+sui,Streptococcus suis JS14,2012,RefSeq
+suo,Streptococcus suis SS12,2012,RefSeq
+srp,Streptococcus suis ST1,2012,RefSeq
+sup,Streptococcus suis S735,2012,RefSeq
+ssus,Streptococcus suis SC070731,2013,RefSeq
+ssut,Streptococcus suis TL13,2013,RefSeq
+ssui,Streptococcus suis T15,2013,RefSeq
+ssuy,Streptococcus suis YB51,2014,RefSeq
+sgo,Streptococcus gordonii,2007,RefSeq
+seq,Streptococcus equi subsp. zooepidemicus H70,2009,RefSeq
+sez,Streptococcus equi subsp. zooepidemicus MGCS10565,2008,RefSeq
+sezo,Streptococcus equi subsp. zooepidemicus ATCC 35246,2012,RefSeq
+sequ,Streptococcus equi subsp. zooepidemicus CY,2014,GenBank
+seu,Streptococcus equi subsp. equi 4047,2009,RefSeq
+sub,Streptococcus uberis,2009,RefSeq
+sds,Streptococcus dysgalactiae subsp. equisimilis GGS_124,2009,RefSeq
+sdg,Streptococcus dysgalactiae subsp. equisimilis ATCC 12394,2012,RefSeq
+sda,Streptococcus dysgalactiae subsp. equisimilis RE378,2012,RefSeq
+sdc,Streptococcus dysgalactiae subsp. equisimilis AC-2713,2012,RefSeq
+sdq,Streptococcus dysgalactiae subsp. equisimilis 167,2013,RefSeq
+sga,Streptococcus gallolyticus UCN34,2010,RefSeq
+sgg,Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069,2011,RefSeq
+sgt,Streptococcus gallolyticus subsp. gallolyticus ATCC 43143,2012,RefSeq
+smb,Streptococcus mitis,2010,RefSeq
+sor,Streptococcus oralis,2011,RefSeq
+stk,Streptococcus parauberis,2011,GenBank
+stb,Streptococcus pasteurianus,2011,RefSeq
+scp,Streptococcus parasanguinis ATCC 15912,2011,RefSeq
+scf,Streptococcus parasanguinis FW213,2012,RefSeq
+ssr,Streptococcus salivarius CCHSS3,2011,RefSeq
+stf,Streptococcus salivarius 57.I,2012,GenBank
+stj,Streptococcus salivarius JIM8777,2012,RefSeq
+strs,Streptococcus salivarius NCTC 8618,2015,GenBank
+std,Streptococcus pseudopneumoniae,2011,RefSeq
+smn,Streptococcus macedonicus,2012,RefSeq
+sif,Streptococcus infantarius,2012,RefSeq
+sie,Streptococcus intermedius JTH08,2012,RefSeq
+sib,Streptococcus intermedius B196,2013,RefSeq
+siu,Streptococcus intermedius C270,2013,RefSeq
+sang,Streptococcus anginosus C1051,2013,RefSeq
+sanc,Streptococcus anginosus C238,2013,RefSeq
+sans,Streptococcus anginosus SA1,2015,GenBank
+scg,Streptococcus constellatus subsp. pharyngis C1050,2013,RefSeq
+scon,Streptococcus constellatus subsp. pharyngis C232,2013,RefSeq
+scos,Streptococcus constellatus subsp. pharyngis C818,2013,RefSeq
+soi,Streptococcus oligofermentans,2013,RefSeq
+sik,Streptococcus iniae SF1,2013,RefSeq
+siq,Streptococcus iniae ISET0901,2014,GenBank
+sio,Streptococcus iniae ISNO,2014,GenBank
+siz,Streptococcus iniae SFST01-82,2015,GenBank
+slu,Streptococcus lutetiensis,2013,RefSeq
+sig,Streptococcus sp. I-G2,2013,RefSeq
+sip,Streptococcus sp. I-P16,2013,RefSeq
+stv,Streptococcus sp. VT 162,2014,GenBank
+lpl,Lactobacillus plantarum WCFS1,2003,RefSeq
+lpj,Lactobacillus plantarum JDM1,2009,RefSeq
+lpt,Lactobacillus plantarum ZJ316,2013,RefSeq
+lps,Lactobacillus plantarum subsp. plantarum ST-III,2010,RefSeq
+lpr,Lactobacillus plantarum subsp. plantarum P-8,2013,RefSeq
+lpz,Lactobacillus plantarum 16,2013,RefSeq
+lpb,Lactobacillus plantarum B21,2015,GenBank
+ljo,Lactobacillus johnsonii NCC 533,2004,RefSeq
+ljf,Lactobacillus johnsonii FI9785,2009,RefSeq
+ljh,Lactobacillus johnsonii DPC 6026,2012,RefSeq
+ljn,Lactobacillus johnsonii N6.2,2013,RefSeq
+lac,Lactobacillus acidophilus NCFM,2005,RefSeq
+lai,Lactobacillus acidophilus 30SC,2011,RefSeq
+lad,Lactobacillus acidophilus La-14,2013,RefSeq
+laf,Lactobacillus acidophilus FSI4,2015,GenBank
+lsa,Lactobacillus sakei,2005,RefSeq
+lsl,Lactobacillus salivarius UCC118,2006,RefSeq
+lsi,Lactobacillus salivarius CECT 5713,2012,RefSeq
+lsj,Lactobacillus salivarius JCM1046,2014,GenBank
+ldb,Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842,2006,RefSeq
+lbu,Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365,2006,RefSeq
+lde,Lactobacillus delbrueckii subsp. bulgaricus ND02,2010,RefSeq
+ldl,Lactobacillus delbrueckii subsp. bulgaricus 2038,2012,RefSeq
+lbr,Lactobacillus brevis ATCC 367,2006,RefSeq
+lbk,Lactobacillus brevis KB290,2013,RefSeq
+lca,Lactobacillus casei ATCC 334,2006,RefSeq
+lcb,Lactobacillus casei BL23,2008,RefSeq
+lcz,Lactobacillus casei Zhang,2010,RefSeq
+lcs,Lactobacillus casei BD-II,2012,RefSeq
+lce,Lactobacillus casei LC2W,2012,RefSeq
+lcw,Lactobacillus casei W56,2012,RefSeq
+lcl,Lactobacillus casei LOCK919,2013,RefSeq
+lcx,Lactobacillus casei 12A,2015,GenBank
+lga,Lactobacillus gasseri ATCC 33323,2006,RefSeq
+lgq,Lactobacillus gasseri 130918,2015,GenBank
+lre,Lactobacillus reuteri DSM 20016,2007,RefSeq
+lrf,Lactobacillus reuteri JCM 1112,2008,RefSeq
+lru,Lactobacillus reuteri SD2112,2011,RefSeq
+lrt,Lactobacillus reuteri I5007,2013,RefSeq
+lrr,Lactobacillus reuteri TD1,2013,RefSeq
+lhe,Lactobacillus helveticus DPC 4571,2007,RefSeq
+lhl,Lactobacillus helveticus H10,2012,RefSeq
+lhr,Lactobacillus helveticus R0052,2012,RefSeq
+lhv,Lactobacillus helveticus CNRZ32,2013,RefSeq
+lhh,Lactobacillus helveticus H9,2014,GenBank
+lhd,Lactobacillus helveticus KLDS1.8701,2015,GenBank
+lfe,Lactobacillus fermentum IFO 3956,2008,RefSeq
+lfr,Lactobacillus fermentum CECT 5716,2012,RefSeq
+lff,Lactobacillus fermentum F-6,2013,RefSeq
+lrh,Lactobacillus rhamnosus GG,2009,RefSeq
+lrg,Lactobacillus rhamnosus GG,2012,RefSeq
+lrl,Lactobacillus rhamnosus Lc 705,2009,RefSeq
+lra,Lactobacillus rhamnosus ATCC 8530,2012,RefSeq
+lro,Lactobacillus rhamnosus LOCK900,2013,RefSeq
+lrc,Lactobacillus rhamnosus LOCK908,2013,RefSeq
+lcr,Lactobacillus crispatus,2010,RefSeq
+lam,Lactobacillus amylovorus GRL 1112,2010,RefSeq
+lay,Lactobacillus amylovorus GRL1118,2012,RefSeq
+lbh,Lactobacillus buchneri NRRL B-30929,2011,RefSeq
+lbn,Lactobacillus buchneri CD034,2012,RefSeq
+lke,Lactobacillus kefiranofaciens,2011,RefSeq
+lrm,Lactobacillus ruminis,2011,RefSeq
+lsn,Lactobacillus sanfranciscensis,2011,RefSeq
+lpi,Lactobacillus paracasei subsp. paracasei 8700:2,2013,RefSeq
+lpq,Lactobacillus paracasei N1115,2014,GenBank
+law,Lactobacillus sp. wkB8,2014,GenBank
+lho,Lactobacillus hokkaidonensis,2015,GenBank
+lmu,Lactobacillus mucosae,2015,GenBank
+lae,Lactobacillus acetotolerans,2015,GenBank
+lgn,Lactobacillus ginsenosidimutans,2015,GenBank
+lko,Lactobacillus koreensis,2015,GenBank
+ppe,Pediococcus pentosaceus ATCC 25745,2006,RefSeq
+ppen,Pediococcus pentosaceus SL4,2013,RefSeq
+pce,Pediococcus claussenii,2012,RefSeq
+efa,Enterococcus faecalis V583,2003,RefSeq
+efl,Enterococcus faecalis 62,2012,RefSeq
+efi,Enterococcus faecalis OG1RF,2012,RefSeq
+efd,Enterococcus faecalis D32,2012,RefSeq
+efs,Enterococcus faecalis Symbioflor 1,2013,RefSeq
+efn,Enterococcus faecalis DENG1,2014,GenBank
+efq,Enterococcus faecalis ATCC 29212,2014,GenBank
+efc,Enterococcus faecium Aus0004,2012,RefSeq
+efau,Enterococcus faecium Aus0085,2013,RefSeq
+efu,Enterococcus faecium DO,2012,RefSeq
+efm,Enterococcus faecium NRRL B-2354,2013,RefSeq
+eft,Enterococcus faecium T110,2014,GenBank
+ehr,Enterococcus hirae,2012,RefSeq
+ene,Enterococcus sp. 7L76,2013,RefSeq
+ecas,Enterococcus casseliflavus,2013,RefSeq
+emu,Enterococcus mundtii,2013,RefSeq
+mps,Melissococcus plutonius ATCC 35311,2011,RefSeq
+mpx,Melissococcus plutonius DAT561,2012,RefSeq
+thl,Tetragenococcus halophilus,2011,RefSeq
+ooe,Oenococcus oeni,2006,RefSeq
+lme,Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293,2006,RefSeq
+lmm,Leuconostoc mesenteroides subsp. mesenteroides J18,2012,RefSeq
+lmk,Leuconostoc mesenteroides KFRI-MG,2014,GenBank
+lci,Leuconostoc citreum,2008,RefSeq
+lki,Leuconostoc kimchii,2010,RefSeq
+lgs,Leuconostoc gasicomitatum,2010,RefSeq
+lec,Leuconostoc sp. C2,2011,RefSeq
+lcn,Leuconostoc carnosum,2012,RefSeq
+lge,Leuconostoc gelidum,2012,RefSeq
+wko,Weissella koreensis,2011,RefSeq
+wce,Weissella ceti WS08,2014,GenBank
+wct,Weissella ceti WS74,2014,GenBank
+wci,Weissella ceti WS105,2014,GenBank
+aur,Aerococcus urinae,2011,RefSeq
+crn,Carnobacterium sp. 17-4,2011,RefSeq
+cml,Carnobacterium maltaromaticum,2012,RefSeq
+caw,Carnobacterium sp. WN1359,2013,RefSeq
+cac,Clostridium acetobutylicum ATCC 824,2001,RefSeq
+cae,Clostridium acetobutylicum DSM 1731,2011,RefSeq
+cay,Clostridium acetobutylicum EA 2018,2012,RefSeq
+cpe,Clostridium perfringens 13,2002,RefSeq
+cpf,Clostridium perfringens ATCC 13124,2006,RefSeq
+cpr,Clostridium perfringens SM101,2006,GenBank
+ctc,Clostridium tetani E88,2003,RefSeq
+ctet,Clostridium tetani 12124569,2013,RefSeq
+cno,Clostridium novyi,2006,RefSeq
+cbo,Clostridium botulinum A ATCC 3502,2007,RefSeq
+cba,Clostridium botulinum A ATCC 19397,2007,RefSeq
+cbh,Clostridium botulinum A Hall,2007,RefSeq
+cby,Clostridium botulinum A2,2009,RefSeq
+cbl,Clostridium botulinum A3 Loch Maree,2008,RefSeq
+cbk,Clostridium botulinum B Eklund 17B,2008,RefSeq
+cbb,Clostridium botulinum B1 Okra,2008,RefSeq
+cbi,Clostridium botulinum Ba4,2009,RefSeq
+cbn,Clostridium botulinum BKT015925,2011,RefSeq
+cbt,Clostridium botulinum E3,2008,RefSeq
+cbf,Clostridium botulinum F Langeland,2007,RefSeq
+cbm,Clostridium botulinum F 230613,2012,RefSeq
+cbj,Clostridium botulinum H04402 065,2012,RefSeq
+cbe,Clostridium beijerinckii NCIMB 8052,2007,RefSeq
+cbz,Clostridium beijerinckii ATCC 35702,2014,GenBank
+ckl,Clostridium kluyveri DSM 555,2007,RefSeq
+ckr,Clostridium kluyveri NBRC 12016,2009,RefSeq
+clj,Clostridium ljungdahlii,2010,RefSeq
+ccb,Clostridium cellulovorans,2010,RefSeq
+cls,Clostridium sp. SY8519,2011,RefSeq
+clb,Clostridium sp. BNL1100,2012,RefSeq
+csr,Clostridium saccharoperbutylacetonicum,2013,RefSeq
+cpas,Clostridium pasteurianum BC1,2013,RefSeq
+cpat,Clostridium pasteurianum DSM 525 = ATCC 6013,2015,GenBank
+cpae,Clostridium pasteurianum DSM 525 = ATCC 6013,2015,GenBank
+csb,Clostridium saccharobutylicum,2013,RefSeq
+cah,Clostridium autoethanogenum,2013,RefSeq
+clt,Clostridium sp. M2/40,2014,GenBank
+cbv,Clostridium baratii,2015,GenBank
+csq,Clostridium scatologenes,2015,GenBank
+cld,Clostridium sporogenes,2015,GenBank
+cace,Clostridium aceticum,2015,GenBank
+cck,Clostridium carboxidivorans,2015,GenBank
+amt,Alkaliphilus metalliredigens,2007,RefSeq
+aoe,Alkaliphilus oremlandii,2007,RefSeq
+asf,Candidatus Arthromitus sp. SFB-mouse-Japan,2011,RefSeq
+asm,Candidatus Arthromitus sp. SFB-mouse-Yit,2012,RefSeq
+aso,Candidatus Arthromitus sp. SFB-mouse-NL,2014,GenBank
+asb,Candidatus Arthromitus sp. SFB-rat-Yit,2011,RefSeq
+cth,Ruminiclostridium thermocellum ATCC 27405,2007,RefSeq
+ctx,Ruminiclostridium thermocellum DSM 1313,2012,RefSeq
+cce,Clostridium cellulolyticum,2009,RefSeq
+ccl,Clostridium clariflavum,2012,RefSeq
+esr,Eubacterium siraeum V10Sc8a,2013,GenBank
+esu,Eubacterium siraeum 70/3,2013,GenBank
+css,Clostridium stercorarium subsp. stercorarium DSM 8532,2013,RefSeq
+csd,Clostridium stercorarium subsp. stercorarium DSM 8532,2013,RefSeq
+ccel,Clostridium cellulosi,2015,GenBank
+eha,Ethanoligenens harbinense,2011,RefSeq
+ral,Ruminococcus albus,2011,RefSeq
+rbr,Ruminococcus bromii,2013,RefSeq
+rch,Ruminococcus champanellensis,2013,RefSeq
+rum,Ruminococcus sp. SR1/5,2013,GenBank
+rus,Ruminococcus sp. 80/3,2014,GenBank
+fpr,Faecalibacterium prausnitzii L2-6,2013,GenBank
+fpa,Faecalibacterium prausnitzii SL3/3,2013,GenBank
+clo,Mageeibacillus indolicus,2010,RefSeq
+bpb,Butyrivibrio proteoclasticus,2010,RefSeq
+bfi,Butyrivibrio fibrisolvens,2013,GenBank
+cle,Cellulosilyticum lentocellum,2011,RefSeq
+rho,Roseburia hominis,2011,RefSeq
+rix,Roseburia intestinalis XB6B4,2013,GenBank
+rim,Roseburia intestinalis M50/1,2013,GenBank
+coo,Coprococcus sp. ART55/1,2013,GenBank
+cct,Coprococcus catus,2013,RefSeq
+rob,Ruminococcus obeum,2013,GenBank
+rto,Ruminococcus torques,2013,GenBank
+cpy,Lachnoclostridium phytofermentans,2007,RefSeq
+csh,Clostridium saccharolyticum WM1,2010,RefSeq
+cso,Clostridium cf. saccharolyticum K10,2013,RefSeq
+bprl,Anaerostipes hadrus,2013,RefSeq
+cad,Clostridium acidurici,2012,RefSeq
+cdf,Peptoclostridium difficile 630,2007,RefSeq
+pdc,Peptoclostridium difficile 630,2015,GenBank
+cdc,Peptoclostridium difficile CD196,2009,RefSeq
+cdl,Peptoclostridium difficile R20291,2009,RefSeq
+cdg,Peptoclostridium difficile BI1,2012,RefSeq
+pdf,Peptoclostridium difficile 630Derm,2015,GenBank
+cst,Clostridium sticklandii,2010,RefSeq
+faa,Filifactor alocis,2012,RefSeq
+sth,Symbiobacterium thermophilum,2004,RefSeq
+swo,Syntrophomonas wolfei,2006,RefSeq
+slp,Syntrophothermus lipocalidus,2010,RefSeq
+dsy,Desulfitobacterium hafniense Y51,2006,RefSeq
+dhd,Desulfitobacterium hafniense DCB-2,2009,RefSeq
+ddh,Desulfitobacterium dehalogenans,2012,RefSeq
+ddl,Desulfitobacterium dichloroeliminans,2012,RefSeq
+dmt,Desulfitobacterium metallireducens,2015,GenBank
+drm,Desulfotomaculum reducens,2007,RefSeq
+dae,Desulfotomaculum acetoxidans,2009,RefSeq
+dca,Desulfotomaculum carboxydivorans,2011,RefSeq
+dku,Desulfotomaculum kuznetsovii,2011,RefSeq
+dru,Desulfotomaculum ruminis,2011,RefSeq
+dgi,Desulfotomaculum gibsoniae,2013,RefSeq
+pth,Pelotomaculum thermopropionicum,2007,RefSeq
+dau,Candidatus Desulforudis audaxviator,2008,RefSeq
+tjr,Thermincola potens,2010,RefSeq
+sgy,Syntrophobotulus glycolicus,2011,RefSeq
+dor,Desulfosporosinus orientis,2012,RefSeq
+dai,Desulfosporosinus acidiphilus,2012,RefSeq
+dmi,Desulfosporosinus meridiei,2012,RefSeq
+ded,Dehalobacter sp. DCA,2012,RefSeq
+dec,Dehalobacter sp. CF,2012,RefSeq
+drs,Dehalobacter restrictus,2014,GenBank
+hmo,Heliobacterium modesticaldum,2008,RefSeq
+fma,Finegoldia magna,2008,RefSeq
+apr,Anaerococcus prevotii,2009,RefSeq
+pmic,Parvimonas micra,2015,GenBank
+ped,Peptoniphilus sp. 1-1,2015,GenBank
+eel,Eubacterium eligens,2009,RefSeq
+ere,Eubacterium rectale ATCC 33656,2009,RefSeq
+ert,Eubacterium rectale DSM 17629,2013,RefSeq
+era,Eubacterium rectale M104/1,2013,RefSeq
+elm,Eubacterium limosum,2010,RefSeq
+eac,Eubacterium acidaminophilum,2014,GenBank
+awo,Acetobacterium woodii,2012,RefSeq
+ova,Oscillibacter valericigenes,2011,RefSeq
+tmr,Thermaerobacter marianensis,2011,RefSeq
+say,Sulfobacillus acidophilus TPY,2011,RefSeq
+sap,Sulfobacillus acidophilus DSM 10332,2012,RefSeq
+bprm,Butyrate-producing bacterium SM4/1,2013,RefSeq
+bprs,Butyrate-producing bacterium SS3/4,2013,RefSeq
+tte,Thermoanaerobacter tengcongensis,2002,RefSeq
+tex,Thermoanaerobacter sp. X514,2008,RefSeq
+thx,Thermoanaerobacter sp. X513,2010,GenBank
+tpd,Thermoanaerobacter pseudethanolicus,2008,RefSeq
+tit,Thermoanaerobacter italicus,2010,RefSeq
+tmt,Thermoanaerobacter mathranii,2010,RefSeq
+tbo,Thermoanaerobacter brockii,2011,RefSeq
+twi,Thermoanaerobacter wiegelii,2011,RefSeq
+tki,Thermoanaerobacter kivui,2014,GenBank
+chy,Carboxydothermus hydrogenoformans,2005,RefSeq
+tep,Tepidanaerobacter acetatoxydans Re1,2011,RefSeq
+tae,Tepidanaerobacter acetatoxydans Re1,2013,RefSeq
+mta,Moorella thermoacetica,2005,RefSeq
+adg,Ammonifex degensii,2009,RefSeq
+tpz,Thermacetogenium phaeum,2012,RefSeq
+csc,Caldicellulosiruptor saccharolyticus,2007,RefSeq
+ate,Caldicellulosiruptor bescii,2009,RefSeq
+cob,Caldicellulosiruptor obsidiansis,2010,RefSeq
+chd,Caldicellulosiruptor hydrothermalis,2010,RefSeq
+cow,Caldicellulosiruptor owensensis,2010,RefSeq
+cki,Caldicellulosiruptor kristjanssonii,2010,RefSeq
+ckn,Caldicellulosiruptor kronotskyensis,2010,RefSeq
+clc,Caldicellulosiruptor lactoaceticus,2011,RefSeq
+toc,Thermosediminibacter oceani,2010,RefSeq
+ttm,Thermoanaerobacterium thermosaccharolyticum DSM 571,2010,RefSeq
+tto,Thermoanaerobacterium thermosaccharolyticum M0795,2013,RefSeq
+txy,Thermoanaerobacterium xylanolyticum,2011,RefSeq
+tsh,Thermoanaerobacterium saccharolyticum,2012,RefSeq
+cpo,Coprothermobacter proteolyticus,2008,RefSeq
+tnr,Thermodesulfobium narugense,2011,RefSeq
+mas,Mahella australiensis,2011,RefSeq
+nth,Natranaerobius thermophilus,2008,RefSeq
+hor,Halothermothrix orenii,2009,RefSeq
+has,Halanaerobium hydrogeniformans,2010,RefSeq
+hpk,Halanaerobium praevalens,2012,RefSeq
+aar,Acetohalobium arabaticum,2010,RefSeq
+hhl,Halobacteroides halobius,2013,RefSeq
+vpr,Veillonella parvula,2009,RefSeq
+ssg,Selenomonas sputigena,2011,RefSeq
+sri,Selenomonas ruminantium,2012,RefSeq
+med,Megasphaera elsdenii,2011,RefSeq
+mhg,Megamonas hypermegale,2013,RefSeq
+puf,Pelosinus sp. UFO1,2014,GenBank
+pft,Pelosinus fermentans,2015,GenBank
+afn,Acidaminococcus fermentans,2010,RefSeq
+ain,Acidaminococcus intestini,2011,RefSeq
+erh,Erysipelothrix rhusiopathiae Fujisawa,2011,RefSeq
+ers,Erysipelothrix rhusiopathiae SY1027,2013,RefSeq
+euc,Faecalitalea cylindroides,2013,RefSeq
+mge,Mycoplasma genitalium G37,1995,RefSeq
+mgu,Mycoplasma genitalium M2288,2012,RefSeq
+mgc,Mycoplasma genitalium M2321,2012,RefSeq
+mgq,Mycoplasma genitalium M6282,2012,RefSeq
+mgx,Mycoplasma genitalium M6320,2012,RefSeq
+mpn,Mycoplasma pneumoniae M129,1997,RefSeq
+mpm,Mycoplasma pneumoniae 309,2012,RefSeq
+mpj,Mycoplasma pneumoniae FH,2012,RefSeq
+mpb,Mycoplasma pneumoniae M129-B7,2013,RefSeq
+mpu,Mycoplasma pulmonis,2001,RefSeq
+mpe,Mycoplasma penetrans,2002,RefSeq
+mga,Mycoplasma gallisepticum R(low),2003,RefSeq
+mgh,Mycoplasma gallisepticum R(high),2012,RefSeq
+mgf,Mycoplasma gallisepticum F,2012,RefSeq
+mgn,Mycoplasma gallisepticum NC06_2006.080-5-2P,2012,RefSeq
+mgs,Mycoplasma gallisepticum NC95_13295-2-2P,2012,RefSeq
+mgt,Mycoplasma gallisepticum NY01_2001.047-5-1P,2012,RefSeq
+mgv,Mycoplasma gallisepticum VA94_7994-1-7P,2012,RefSeq
+mgw,Mycoplasma gallisepticum WI01_2001.043-13-2P,2012,RefSeq
+mgac,Mycoplasma gallisepticum CA06_2006.052-5-2P,2012,RefSeq
+mgan,Mycoplasma gallisepticum NC08_2008.031-4-3P,2012,RefSeq
+mgnc,Mycoplasma gallisepticum NC96_1596-4-2P,2012,RefSeq
+mgz,Mycoplasma gallisepticum S6,2013,RefSeq
+mmy,Mycoplasma mycoides subsp. mycoides SC PG1,2004,RefSeq
+mmym,Mycoplasma mycoides subsp. mycoides SC Gladysdale,2013,RefSeq
+mmyi,Mycoplasma mycoides subsp. mycoides izsam_mm5713,2015,GenBank
+mml,Mycoplasma mycoides subsp. capri LC 95010,2011,RefSeq
+mcp,Mycoplasma capricolum subsp. capricolum ATCC 27343,2005,RefSeq
+mcac,Mycoplasma capricolum subsp. capripneumoniae 9231-Abomsa,2015,GenBank
+mcap,Mycoplasma capricolum subsp. capripneumoniae F38,2015,GenBank
+mcar,Mycoplasma capricolum subsp. capripneumoniae ILRI181,2015,GenBank
+mcai,Mycoplasma capricolum subsp. capripneumoniae 87001,2015,GenBank
+mlc,Mycoplasma leachii PG50,2010,RefSeq
+mlh,Mycoplasma leachii 99/014/6,2012,RefSeq
+mmo,Mycoplasma mobile,2004,RefSeq
+mhy,Mycoplasma hyopneumoniae 232,2004,RefSeq
+mhj,Mycoplasma hyopneumoniae J,2005,RefSeq
+mhp,Mycoplasma hyopneumoniae 7448,2005,RefSeq
+mhn,Mycoplasma hyopneumoniae 168,2012,RefSeq
+mhyl,Mycoplasma hyopneumoniae 168-L,2013,RefSeq
+mhyo,Mycoplasma hyopneumoniae 7422,2013,RefSeq
+msy,Mycoplasma synoviae,2005,RefSeq
+maa,Mycoplasma agalactiae PG2,2007,RefSeq
+mal,Mycoplasma agalactiae 5632,2010,RefSeq
+mat,Mycoplasma arthritidis,2008,RefSeq
+mco,Mycoplasma conjunctivae,2009,RefSeq
+mho,Mycoplasma hominis ATCC 23114,2009,RefSeq
+mhom,Mycoplasma hominis ATCC 27545,2014,GenBank
+mcd,Mycoplasma crocodyli,2010,RefSeq
+mhr,Mycoplasma hyorhinis HUB-1,2010,RefSeq
+mhh,Mycoplasma hyorhinis GDL-1,2012,RefSeq
+mhm,Mycoplasma hyorhinis MCLD,2012,RefSeq
+mhs,Mycoplasma hyorhinis SK76,2012,RefSeq
+mhv,Mycoplasma hyorhinis DBS 1050,2013,RefSeq
+mfr,Mycoplasma fermentans JER,2010,RefSeq
+mfm,Mycoplasma fermentans M64,2011,RefSeq
+mfp,Mycoplasma fermentans PG18,2013,RefSeq
+mbv,Mycoplasma bovis PG45,2010,RefSeq
+mbh,Mycoplasma bovis Hubei-1,2011,RefSeq
+mbi,Mycoplasma bovis HB0801,2012,RefSeq
+mbq,Mycoplasma bovis CQ-W70,2014,GenBank
+mha,Mycoplasma haemofelis Langford 1,2011,RefSeq
+mhf,Mycoplasma haemofelis Ohio2,2012,RefSeq
+mss,Mycoplasma suis Illinois,2011,RefSeq
+msk,Mycoplasma suis KI3806,2011,RefSeq
+mpf,Mycoplasma putrefaciens KS1,2011,RefSeq
+mput,Mycoplasma putrefaciens Mput9231,2013,RefSeq
+mhe,Mycoplasma haemocanis,2012,RefSeq
+mwe,Mycoplasma wenyonii,2012,RefSeq
+mhl,Candidatus Mycoplasma haemolamae,2012,RefSeq
+mcy,Mycoplasma cynos,2013,RefSeq
+mhb,Candidatus Mycoplasma haemominutum,2013,RefSeq
+mpv,Mycoplasma parvum,2013,RefSeq
+mov,Mycoplasma ovis,2013,RefSeq
+mbc,Mycoplasma bovoculi,2014,GenBank
+mcr,Mycoplasma californicum ST-6,2014,GenBank
+mcm,Mycoplasma californicum HAZ160_1,2015,GenBank
+mgj,Candidatus Mycoplasma girerdii,2014,GenBank
+mfq,Mycoplasma flocculare,2015,GenBank
+mcan,Mycoplasma canadense,2015,GenBank
+myt,Mycoplasma yeatsii,2015,GenBank
+mds,Mycoplasma dispar,2015,GenBank
+mgb,Mycoplasma gallinaceum,2015,GenBank
+mcas,Mycoplasma canis,2015,GenBank
+uur,Ureaplasma parvum serovar 3 ATCC 700970,2000,RefSeq
+upa,Ureaplasma parvum serovar 3 ATCC 27815,2008,RefSeq
+upr,Ureaplasma parvum serovar 3 SV3F4,2015,GenBank
+uue,Ureaplasma urealyticum,2008,RefSeq
+hcr,Candidatus Hepatoplasma crinochetorum,2014,GenBank
+poy,Onion yellows phytoplasma OY-M,2003,RefSeq
+ayw,Aster yellows witches'-broom phytoplasma AYWB,2006,RefSeq
+pml,Candidatus Phytoplasma mali,2008,RefSeq
+pal,Candidatus Phytoplasma australiense,2008,RefSeq
+nzs,Phytoplasma (CPA) NZSb11,2013,RefSeq
+psol,Candidatus Phytoplasma solani,2013,GenBank
+acl,Acholeplasma laidlawii,2008,RefSeq
+abra,Acholeplasma brassicae,2014,RefSeq
+apal,Acholeplasma palmae,2014,RefSeq
+aoc,Acholeplasma oculi,2015,GenBank
+mfl,Mesoplasma florum L1,2004,RefSeq
+mfw,Mesoplasma florum W37,2013,RefSeq
+scr,Spiroplasma chrysopicola,2013,RefSeq
+ssyr,Spiroplasma syrphidicola,2013,RefSeq
+sdi,Spiroplasma diminutum,2013,RefSeq
+stai,Spiroplasma taiwanense,2013,RefSeq
+sapi,Spiroplasma apis,2013,RefSeq
+smir,Spiroplasma mirum ATCC 29335,2014,GenBank
+smia,Spiroplasma mirum ATCC 29335 SMCA,2014,GenBank
+scq,Spiroplasma culicicola,2014,GenBank
+ssab,Spiroplasma sabaudiense,2014,GenBank
+satr,Spiroplasma atrichopogonis,2015,GenBank
+seri,Spiroplasma eriocheiris,2015,GenBank
+mbj,Mollicutes bacterium,2014,GenBank
+mtu,Mycobacterium tuberculosis H37Rv,1998,RefSeq
+mtv,Mycobacterium tuberculosis H37Rv,2012,RefSeq
+mtc,Mycobacterium tuberculosis CDC1551,2001,RefSeq
+mra,Mycobacterium tuberculosis H37Ra,2007,RefSeq
+mtf,Mycobacterium tuberculosis F11,2007,RefSeq
+mtb,Mycobacterium tuberculosis KZN 1435,2009,RefSeq
+mtk,Mycobacterium tuberculosis KZN 4207,2012,RefSeq
+mtz,Mycobacterium tuberculosis KZN 605,2012,RefSeq
+mtg,Mycobacterium tuberculosis RGTB327,2012,RefSeq
+mti,Mycobacterium tuberculosis RGTB423,2012,GenBank
+mte,Mycobacterium tuberculosis CCDC5079,2012,RefSeq
+mtur,Mycobacterium tuberculosis CCDC5079,2013,RefSeq
+mtl,Mycobacterium tuberculosis CCDC5180,2012,RefSeq
+mto,Mycobacterium tuberculosis CTRI-2,2012,RefSeq
+mtd,Mycobacterium tuberculosis UT205,2012,RefSeq
+mtn,Mycobacterium tuberculosis Erdman = ATCC 35801,2013,RefSeq
+mtj,Mycobacterium tuberculosis Beijing/NITR203,2013,RefSeq
+mtub,Mycobacterium tuberculosis 7199-99,2013,RefSeq
+mtuc,Mycobacterium tuberculosis CAS/NITR204,2013,GenBank
+mtue,Mycobacterium tuberculosis EAI5/NITR206,2013,RefSeq
+mtx,Mycobacterium tuberculosis EAI5,2013,RefSeq
+mtuh,Mycobacterium tuberculosis Haarlem/NITR202,2013,GenBank
+mtul,Mycobacterium tuberculosis Haarlem,2013,RefSeq
+mtut,Mycobacterium tuberculosis BT1,2014,GenBank
+mtuu,Mycobacterium tuberculosis BT2,2014,GenBank
+mtq,Mycobacterium tuberculosis HKBS1,2014,GenBank
+mbo,Mycobacterium bovis AF2122/97,2003,RefSeq
+mbb,Mycobacterium bovis BCG Pasteur 1173P2,2007,RefSeq
+mbt,Mycobacterium bovis BCG Tokyo 172,2009,RefSeq
+mbm,Mycobacterium bovis BCG Mexico,2012,RefSeq
+mbk,Mycobacterium bovis BCG Korea 1168P,2013,RefSeq
+mbx,Mycobacterium bovis BCG ATCC 35743,2015,GenBank
+mbz,Mycobacterium bovis ATCC BAA-935,2014,GenBank
+maf,Mycobacterium africanum,2011,RefSeq
+mce,Mycobacterium canettii CIPT 140010059,2011,RefSeq
+mcq,Mycobacterium canettii CIPT 140060008,2013,RefSeq
+mcv,Mycobacterium canettii CIPT 140070008,2013,RefSeq
+mcx,Mycobacterium canettii CIPT 140070010,2013,RefSeq
+mcz,Mycobacterium canettii CIPT 140070017,2013,RefSeq
+mle,Mycobacterium leprae TN,2001,RefSeq
+mlb,Mycobacterium leprae Br4923,2009,RefSeq
+mpa,Mycobacterium avium subsp. paratuberculosis K-10,2004,RefSeq
+mao,Mycobacterium avium subsp. paratuberculosis MAP4,2013,RefSeq
+mavi,Mycobacterium avium subsp. paratuberculosis E1,2015,GenBank
+mavu,Mycobacterium avium subsp. paratuberculosis E93,2015,GenBank
+mav,Mycobacterium avium 104,2006,RefSeq
+mavr,Mycobacterium avium 2285 (R),2014,GenBank
+mavd,Mycobacterium avium subsp. avium DJO-44271,2014,GenBank
+mava,Mycobacterium avium subsp. avium 2285 (S),2015,GenBank
+mit,Mycobacterium intracellulare MOTT-02,2012,RefSeq
+mir,Mycobacterium intracellulare MOTT-64,2012,RefSeq
+mia,Mycobacterium intracellulare ATCC 13950,2012,RefSeq
+mie,Mycobacterium intracellulare 1956,2014,GenBank
+mid,Mycobacterium indicus pranii,2012,RefSeq
+myo,Mycobacterium yongonense,2013,RefSeq
+msm,Mycobacterium smegmatis MC2 155,2006,RefSeq
+msg,Mycobacterium smegmatis MC2 155,2012,RefSeq
+msb,Mycobacterium smegmatis MC2 155,2014,GenBank
+msa,Mycobacterium smegmatis JS623,2013,RefSeq
+msn,Mycobacterium smegmatis INHR1,2014,GenBank
+msh,Mycobacterium smegmatis INHR2,2014,GenBank
+mul,Mycobacterium ulcerans,2006,RefSeq
+mva,Mycobacterium vanbaalenii,2006,RefSeq
+mgi,Mycobacterium gilvum PYR-GCK,2007,RefSeq
+msp,Mycobacterium gilvum Spyr1,2010,RefSeq
+mab,Mycobacterium abscessus ATCC 19977,2008,RefSeq
+mabb,Mycobacterium abscessus subsp. bolletii 50594,2013,RefSeq
+mmv,Mycobacterium abscessus subsp. bolletii GO 06,2012,RefSeq
+may,Mycobacterium abscessus subsp. bolletii MA 1948,2014,GenBank
+mabo,Mycobacterium abscessus subsp. bolletii MC1518,2014,GenBank
+mabl,Mycobacterium abscessus subsp. bolletii CCUG 48898 = JCM 15300,2015,GenBank
+maz,Mycobacterium abscessus 103,2014,GenBank
+mak,Mycobacterium abscessus subsp. abcessus MM1513,2014,GenBank
+mys,Mycobacterium abscessus DJO-44274,2015,GenBank
+myc,Mycobacterium abscessus 4529,2015,GenBank
+mmc,Mycobacterium sp. MCS,2006,RefSeq
+mkm,Mycobacterium sp. KMS,2006,RefSeq
+mjl,Mycobacterium sp. JLS,2007,RefSeq
+mjd,Mycobacterium sp. JDM601,2011,RefSeq
+mmi,Mycobacterium marinum,2008,RefSeq
+mrh,Mycobacterium rhodesiae,2012,RefSeq
+mmm,Mycobacterium sp. MOTT36Y,2012,RefSeq
+mcb,Mycobacterium chubuense,2012,RefSeq
+mli,Mycobacterium liflandii,2013,RefSeq
+mkn,Mycobacterium kansasii ATCC 12478,2013,RefSeq
+mks,Mycobacterium kansasii 662,2015,GenBank
+mki,Mycobacterium kansasii 824,2015,GenBank
+mne,Mycobacterium neoaurum,2013,RefSeq
+myv,Mycobacterium sp. VKM Ac-1817D,2015,GenBank
+mye,Mycobacterium sp. EPa45,2015,GenBank
+mgo,Mycobacterium goodii,2015,GenBank
+asd,Amycolicicoccus subflavus,2011,RefSeq
+cgl,Corynebacterium glutamicum ATCC 13032 (Kyowa Hakko),2002,RefSeq
+cgb,Corynebacterium glutamicum ATCC 13032 (Bielefeld),2005,RefSeq
+cgu,Corynebacterium glutamicum K051,2013,RefSeq
+cgt,Corynebacterium glutamicum R,2007,RefSeq
+cgs,Corynebacterium glutamicum SCgG1,2013,RefSeq
+cgg,Corynebacterium glutamicum SCgG2,2013,RefSeq
+cgm,Corynebacterium glutamicum MB001,2013,RefSeq
+cgj,Corynebacterium glutamicum ATCC 21831,2014,GenBank
+cgq,Corynebacterium glutamicum AR1,2014,GenBank
+cgx,Corynebacterium glutamicum B253,2015,GenBank
+cef,Corynebacterium efficiens,2002,RefSeq
+cdi,Corynebacterium diphtheriae NCTC 13129,2003,RefSeq
+cdp,Corynebacterium diphtheriae 241,2012,RefSeq
+cdh,Corynebacterium diphtheriae INCA 402,2012,RefSeq
+cdt,Corynebacterium diphtheriae HC01,2012,RefSeq
+cde,Corynebacterium diphtheriae HC02,2012,RefSeq
+cdr,Corynebacterium diphtheriae HC03,2012,RefSeq
+cda,Corynebacterium diphtheriae HC04,2012,RefSeq
+cdz,Corynebacterium diphtheriae 31A,2012,RefSeq
+cdb,Corynebacterium diphtheriae BH8,2012,RefSeq
+cds,Corynebacterium diphtheriae C7,2012,RefSeq
+cdd,Corynebacterium diphtheriae CDCE 8392,2012,RefSeq
+cdw,Corynebacterium diphtheriae PW8,2012,RefSeq
+cdv,Corynebacterium diphtheriae VA01,2012,RefSeq
+cjk,Corynebacterium jeikeium,2005,RefSeq
+cur,Corynebacterium urealyticum DSM 7109,2008,RefSeq
+cua,Corynebacterium urealyticum DSM 7111,2013,RefSeq
+car,Corynebacterium aurimucosum,2009,RefSeq
+ckp,Corynebacterium kroppenstedtii,2009,RefSeq
+cpu,Corynebacterium pseudotuberculosis FRC41,2010,RefSeq
+cpl,Corynebacterium pseudotuberculosis 3/99-5,2012,RefSeq
+cpg,Corynebacterium pseudotuberculosis 316,2012,RefSeq
+cpp,Corynebacterium pseudotuberculosis P54B96,2012,RefSeq
+cpk,Corynebacterium pseudotuberculosis 1002,2012,RefSeq
+cpq,Corynebacterium pseudotuberculosis C231,2012,RefSeq
+cpx,Corynebacterium pseudotuberculosis I19,2012,RefSeq
+cpz,Corynebacterium pseudotuberculosis PAT10,2012,RefSeq
+cor,Corynebacterium pseudotuberculosis 267,2012,RefSeq
+cop,Corynebacterium pseudotuberculosis 31,2012,GenBank
+cod,Corynebacterium pseudotuberculosis 1/06-A,2012,RefSeq
+cos,Corynebacterium pseudotuberculosis 42/02-A,2012,RefSeq
+coi,Corynebacterium pseudotuberculosis CIP 52.97,2012,RefSeq
+coe,Corynebacterium pseudotuberculosis 258,2012,RefSeq
+cou,Corynebacterium pseudotuberculosis Cp162,2012,RefSeq
+cpse,Corynebacterium pseudotuberculosis 48252,2014,GenBank
+cpsu,Corynebacterium pseudotuberculosis CS_10,2014,GenBank
+cpsf,Corynebacterium pseudotuberculosis Ft_2193/67,2014,GenBank
+crd,Corynebacterium resistens,2011,RefSeq
+cul,Corynebacterium ulcerans BR-AD22,2011,RefSeq
+cuc,Corynebacterium ulcerans 809,2012,RefSeq
+cue,Corynebacterium ulcerans 0102,2012,RefSeq
+cun,Corynebacterium ulcerans 210932,2014,GenBank
+cus,Corynebacterium ulcerans FRC11,2014,GenBank
+cuq,Corynebacterium ulcerans 210931,2014,GenBank
+cuz,Corynebacterium ulcerans 05146,2014,GenBank
+cuj,Corynebacterium ulcerans 131002,2015,GenBank
+cva,Corynebacterium variabile,2011,RefSeq
+chn,Corynebacterium halotolerans,2013,RefSeq
+ccn,Corynebacterium callunae,2013,RefSeq
+cter,Corynebacterium terpenotabidum,2013,RefSeq
+cmd,Corynebacterium maris,2013,RefSeq
+caz,Corynebacterium argentoratense,2013,RefSeq
+cfn,Corynebacterium falsenii,2014,GenBank
+ccg,Corynebacterium casei,2014,GenBank
+cvt,Corynebacterium vitaeruminis,2014,GenBank
+cgy,Corynebacterium glyciniphilum,2014,GenBank
+cax,Corynebacterium atypicum,2014,GenBank
+cii,Corynebacterium imitans,2014,GenBank
+cuv,Corynebacterium ureicelerivorans,2014,GenBank
+coa,Corynebacterium sp. ATCC 6931,2014,GenBank
+cdo,Corynebacterium doosanense,2014,GenBank
+chm,Corynebacterium humireducens,2015,GenBank
+csx,Corynebacterium singulare,2015,GenBank
+cmq,Corynebacterium marinum,2015,GenBank
+cku,Corynebacterium kutscheri,2015,GenBank
+ccj,Corynebacterium camporealensis,2015,GenBank
+cmv,Corynebacterium mustelae,2015,GenBank
+cei,Corynebacterium epidermidicanis,2015,GenBank
+cted,Corynebacterium testudinoris,2015,GenBank
+cut,Corynebacterium uterequi,2015,GenBank
+nfa,Nocardia farcinica,2004,RefSeq
+ncy,Nocardia cyriacigeorgica,2012,RefSeq
+nbr,Nocardia brasiliensis,2012,RefSeq
+nno,Nocardia nova,2014,GenBank
+rha,Rhodococcus jostii,2006,RefSeq
+rer,Rhodococcus erythropolis PR4,2009,RefSeq
+rey,Rhodococcus erythropolis CCM2595,2013,RefSeq
+reb,Rhodococcus erythropolis BG43,2015,GenBank
+rop,Rhodococcus opacus B4,2009,RefSeq
+roa,Rhodococcus opacus PD630,2014,GenBank
+req,Rhodococcus equi,2010,RefSeq
+rpy,Rhodococcus pyridinivorans,2013,RefSeq
+rhb,Rhodococcus sp. B7740,2015,GenBank
+rav,Rhodococcus aetherivorans,2015,GenBank
+gbr,Gordonia bronchialis,2009,RefSeq
+gpo,Gordonia polyisoprenivorans,2012,RefSeq
+gor,Gordonia sp. KTR9,2012,RefSeq
+tpr,Tsukamurella paurometabola,2010,RefSeq
+srt,Segniliparus rotundus,2010,RefSeq
+sco,Streptomyces coelicolor,2002,RefSeq
+sma,Streptomyces avermitilis,2003,RefSeq
+sgr,Streptomyces griseus,2008,RefSeq
+scb,Streptomyces scabiei,2010,RefSeq
+ssx,Streptomyces sp. SirexAA-E,2011,RefSeq
+svl,Streptomyces violaceusniger,2011,RefSeq
+sct,Streptomyces cattleya NRRL 8057,2011,RefSeq
+scy,Streptomyces cattleya NRRL 8057 = DSM 46488,2012,RefSeq
+sfa,Streptomyces pratensis,2011,RefSeq
+sbh,Streptomyces bingchenggensis,2012,RefSeq
+shy,Streptomyces hygroscopicus subsp. jinggangensis 5008,2012,RefSeq
+sho,Streptomyces hygroscopicus subsp. jinggangensis TL01,2013,RefSeq
+sve,Streptomyces venezuelae,2012,RefSeq
+sdv,Streptomyces davawensis,2013,RefSeq
+salb,Streptomyces albus J1074,2013,RefSeq
+sals,Streptomyces albus DSM 41398,2015,GenBank
+strp,Streptomyces sp. PAMC26508,2013,RefSeq
+sfi,Streptomyces fulvissimus,2013,RefSeq
+sci,Streptomyces collinus,2013,RefSeq
+src,Streptomyces rapamycinicus,2013,RefSeq
+salu,Streptomyces albulus NK660,2014,GenBank
+sall,Streptomyces albulus ZPM,2015,GenBank
+slv,Streptomyces lividans,2014,GenBank
+sgu,Streptomyces glaucescens,2014,GenBank
+svt,Streptomyces vietnamensis,2015,GenBank
+stre,Streptomyces sp. 769,2015,GenBank
+scw,Streptomyces cyaneogriseus,2015,GenBank
+sld,Streptomyces lydicus,2015,GenBank
+sxi,Streptomyces xiamenensis,2015,GenBank
+strm,Streptomyces sp. Mg1,2015,GenBank
+strc,Streptomyces sp. CNQ-509,2015,GenBank
+ksk,Kitasatospora setae,2011,RefSeq
+twh,Tropheryma whipplei Twist,2003,RefSeq
+tws,Tropheryma whipplei TW08/27,2003,RefSeq
+lxx,Leifsonia xyli subsp. xyli CTCB07,2004,RefSeq
+lxy,Leifsonia xyli subsp. cynodontis DSM 46306,2013,RefSeq
+cmi,Clavibacter michiganensis subsp. michiganensis,2007,RefSeq
+cms,Clavibacter michiganensis subsp. sepedonicus,2008,RefSeq
+cmc,Clavibacter michiganensis subsp. nebraskensis,2013,RefSeq
+cmh,Clavibacter michiganensis subsp. insidiosus,2015,GenBank
+mts,Microbacterium testaceum,2011,RefSeq
+rla,Candidatus Rhodoluna lacicola,2014,GenBank
+rtx,Rathayibacter toxicus,2015,GenBank
+art,Arthrobacter sp. FB24,2006,GenBank
+aau,Arthrobacter aurescens,2006,RefSeq
+ach,Arthrobacter chlorophenolicus,2009,RefSeq
+aai,Arthrobacter arilaitensis,2010,RefSeq
+apn,Arthrobacter phenanthrenivorans,2011,RefSeq
+arr,Arthrobacter sp. Rue61a,2012,RefSeq
+arm,Arthrobacter sp. PAMC25486,2014,GenBank
+ari,Arthrobacter sp. IHBB 11108,2015,GenBank
+rsa,Renibacterium salmoninarum,2007,RefSeq
+krh,Kocuria rhizophila,2008,RefSeq
+mlu,Micrococcus luteus,2009,RefSeq
+rmu,Rothia mucilaginosa,2010,RefSeq
+rdn,Rothia dentocariosa,2010,RefSeq
+bcv,Beutenbergia cavernae,2009,RefSeq
+bfa,Brachybacterium faecium,2009,RefSeq
+jde,Jonesia denitrificans,2009,RefSeq
+kse,Kytococcus sedentarius,2009,RefSeq
+dni,Dermacoccus nishinomiyaensis,2014,GenBank
+xce,Xylanimonas cellulosilytica,2009,RefSeq
+iva,Isoptericola variabilis,2011,RefSeq
+ske,Sanguibacter keddieii,2010,RefSeq
+cfl,Cellulomonas flavigena,2010,RefSeq
+cfi,Cellulomonas fimi,2011,RefSeq
+cga,Cellulomonas gilvus,2011,RefSeq
+ica,Intrasporangium calvum,2011,RefSeq
+pac,Propionibacterium acnes KPA171202,2004,RefSeq
+pak,Propionibacterium acnes SK137,2010,RefSeq
+pav,Propionibacterium acnes TypeIA2 P.acn17,2012,RefSeq
+pax,Propionibacterium acnes TypeIA2 P.acn31,2012,RefSeq
+paz,Propionibacterium acnes TypeIA2 P.acn33,2012,RefSeq
+paw,Propionibacterium acnes 266,2012,RefSeq
+pad,Propionibacterium acnes ATCC 11828,2012,RefSeq
+pcn,Propionibacterium acnes 6609,2012,RefSeq
+pacc,Propionibacterium acnes C1,2012,RefSeq
+pach,Propionibacterium acnes HL096PA1,2013,RefSeq
+pacn,Propionibacterium acnes hdn-1,2014,GenBank
+pfr,Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1,2010,RefSeq
+pfre,Propionibacterium freudenreichii subsp. freudenreichii DSM 20271,2015,GenBank
+ppc,Propionibacterium propionicum,2012,RefSeq
+pbo,Propionibacterium acidipropionici,2012,RefSeq
+pra,Propionibacterium avidum,2013,RefSeq
+mph,Microlunatus phosphovorus,2011,RefSeq
+nca,Nocardioides sp. JS614,2006,RefSeq
+kfl,Kribbella flavida,2010,RefSeq
+psim,Pimelobacter simplex,2015,GenBank
+tfu,Thermobifida fusca,2005,RefSeq
+nda,Nocardiopsis dassonvillei,2010,RefSeq
+nal,Nocardiopsis alba,2012,RefSeq
+tcu,Thermomonospora curvata,2009,RefSeq
+sro,Streptosporangium roseum,2009,RefSeq
+fra,Frankia sp. CcI3,2006,RefSeq
+fre,Frankia sp. EAN1pec,2007,RefSeq
+fri,Frankia sp. EuI1c,2010,RefSeq
+fal,Frankia alni,2006,RefSeq
+fsy,Frankia symbiont,2011,RefSeq
+ace,Acidothermus cellulolyticus,2006,RefSeq
+nml,Nakamurella multipartita,2009,RefSeq
+gob,Geodermatophilus obscurus,2010,RefSeq
+bsd,Blastococcus saxobsidens,2012,RefSeq
+mmar,Modestobacter marinus,2012,RefSeq
+kra,Kineococcus radiotolerans,2007,RefSeq
+sen,Saccharopolyspora erythraea,2007,RefSeq
+svi,Saccharomonospora viridis,2009,RefSeq
+amd,Amycolatopsis mediterranei U32,2010,RefSeq
+amn,Amycolatopsis mediterranei S699,2012,RefSeq
+amm,Amycolatopsis mediterranei S699,2012,RefSeq
+amz,Amycolatopsis mediterranei RB,2013,RefSeq
+aoi,Amycolatopsis orientalis,2013,RefSeq
+aja,Amycolatopsis japonica,2014,GenBank
+amq,Amycolatopsis methanolica,2014,GenBank
+alu,Amycolatopsis lurida,2015,GenBank
+pdx,Pseudonocardia dioxanivorans,2011,RefSeq
+ami,Actinosynnema mirum,2009,RefSeq
+sesp,Saccharothrix espanaensis,2013,RefSeq
+kal,Kutzneria albida,2014,GenBank
+stp,Salinispora tropica,2007,RefSeq
+saq,Salinispora arenicola,2007,RefSeq
+mau,Micromonospora aurantiaca,2010,RefSeq
+mil,Micromonospora sp. L5,2011,RefSeq
+vma,Verrucosispora maris,2011,RefSeq
+ams,Actinoplanes missouriensis,2012,RefSeq
+ase,Actinoplanes sp. SE50/110,2012,RefSeq
+actn,Actinoplanes sp. N902-109,2013,RefSeq
+afs,Actinoplanes friuliensis,2013,RefSeq
+cai,Catenulispora acidiphila,2009,RefSeq
+sna,Stackebrandtia nassauensis,2010,RefSeq
+ahe,Arcanobacterium haemolyticum,2010,RefSeq
+mcu,Mobiluncus curtisii,2010,RefSeq
+tpy,Trueperella pyogenes TP6375,2014,GenBank
+tpyo,Trueperella pyogenes TP8,2015,GenBank
+asg,Actinobaculum schaalii,2014,GenBank
+blo,Bifidobacterium longum NCC2705,2002,RefSeq
+blj,Bifidobacterium longum DJO10A,2008,RefSeq
+bln,Bifidobacterium longum subsp. infantis ATCC 15697 (JGI),2008,RefSeq
+blon,Bifidobacterium longum subsp. infantis ATCC 15697 (Tokyo),2012,RefSeq
+blf,Bifidobacterium longum subsp. infantis 157F,2011,RefSeq
+bll,Bifidobacterium longum subsp. longum JDM301,2010,RefSeq
+blb,Bifidobacterium longum subsp. longum BBMN68,2010,RefSeq
+blm,Bifidobacterium longum subsp. longum JCM 1217,2011,RefSeq
+blk,Bifidobacterium longum subsp. longum KACC 91563,2012,RefSeq
+blg,Bifidobacterium longum subsp. longum F8,2013,RefSeq
+blz,Bifidobacterium longum subsp. longum GT15,2014,GenBank
+blx,Bifidobacterium longum BXY01,2014,GenBank
+bad,Bifidobacterium adolescentis ATCC 15703,2006,RefSeq
+badl,Bifidobacterium adolescentis 22L,2014,GenBank
+bado,Bifidobacterium adolescentis BBMN23,2015,GenBank
+bla,Bifidobacterium animalis subsp. lactis AD011,2009,RefSeq
+blc,Bifidobacterium animalis subsp. lactis Bl-04,2009,RefSeq
+blt,Bifidobacterium animalis subsp. lactis DSM 10140,2009,RefSeq
+bbb,Bifidobacterium animalis subsp. lactis BB-12,2012,RefSeq
+bbc,Bifidobacterium animalis subsp. lactis BLC1,2012,RefSeq
+bnm,Bifidobacterium animalis subsp. lactis CNCM I-2494,2012,RefSeq
+blv,Bifidobacterium animalis subsp. lactis V9,2012,RefSeq
+blw,Bifidobacterium animalis subsp. lactis B420,2012,RefSeq
+bls,Bifidobacterium animalis subsp. lactis Bi-07,2012,RefSeq
+bani,Bifidobacterium animalis subsp. lactis Bl12,2013,RefSeq
+banl,Bifidobacterium animalis subsp. lactis ATCC 27673,2013,RefSeq
+bni,Bifidobacterium animalis subsp. animalis ATCC 25527,2012,RefSeq
+banm,Bifidobacterium animalis RH,2014,GenBank
+bde,Bifidobacterium dentium,2010,RefSeq
+bbi,Bifidobacterium bifidum S17,2010,RefSeq
+bbp,Bifidobacterium bifidum PRL2010,2010,RefSeq
+bbf,Bifidobacterium bifidum BGN4,2012,RefSeq
+bbv,Bifidobacterium breve ACS-071-V-Sch8b,2012,RefSeq
+bbru,Bifidobacterium breve UCC2003,2013,RefSeq
+bbre,Bifidobacterium breve 12L,2014,GenBank
+bbrv,Bifidobacterium breve 689b,2014,GenBank
+bbrj,Bifidobacterium breve JCM 7017,2014,GenBank
+bbrc,Bifidobacterium breve JCM 7019,2014,GenBank
+bbrn,Bifidobacterium breve NCFB 2258,2014,GenBank
+bbrs,Bifidobacterium breve S27,2014,GenBank
+bast,Bifidobacterium asteroides,2012,RefSeq
+btp,Bifidobacterium thermophilum,2013,RefSeq
+bcor,Bifidobacterium coryneforme,2014,GenBank
+bka,Bifidobacterium kashiwanohense,2014,GenBank
+bpsp,Bifidobacterium pseudolongum,2015,GenBank
+bii,Bifidobacterium indicum,2015,GenBank
+bang,Bifidobacterium angulatum,2015,GenBank
+bcat,Bifidobacterium catenulatum,2015,GenBank
+bpsc,Bifidobacterium pseudocatenulatum,2015,GenBank
+bsca,Bifidobacterium scardovii,2015,GenBank
+gva,Gardnerella vaginalis 409-05,2010,RefSeq
+gvg,Gardnerella vaginalis ATCC 14019,2010,RefSeq
+gvh,Gardnerella vaginalis HMP9231,2012,RefSeq
+sij,Scardovia inopinata,2015,GenBank
+pdo,Parascardovia denticolens,2015,GenBank
+tbi,Thermobispora bispora,2010,RefSeq
+rxy,Rubrobacter xylanophilus,2006,RefSeq
+rrd,Rubrobacter radiotolerans,2014,GenBank
+cwo,Conexibacter woesei,2010,RefSeq
+afo,Acidimicrobium ferrooxidans,2009,RefSeq
+aym,Ilumatobacter coccineus,2013,RefSeq
+ccu,Cryptobacterium curtum,2009,RefSeq
+shi,Slackia heliotrinireducens,2009,RefSeq
+ele,Eggerthella lenta,2009,RefSeq
+eyy,Eggerthella sp. YY7918,2011,RefSeq
+gpa,Gordonibacter pamelaeae,2013,RefSeq
+aeq,Adlercreutzia equolifaciens,2013,RefSeq
+apv,Atopobium parvulum,2009,RefSeq
+ols,Olsenella uli,2010,RefSeq
+cgo,Coriobacterium glomerans,2011,RefSeq
+cbac,Coriobacteriaceae bacterium 68-1-3,2015,GenBank
+abai,Actinobacteria bacterium IMCC26256,2015,GenBank
+ctr,Chlamydia trachomatis D/UW-3/CX,1998,RefSeq
+ctd,Chlamydia trachomatis D-EC,2012,RefSeq
+ctf,Chlamydia trachomatis D-LC,2012,RefSeq
+ctrd,Chlamydia trachomatis D/SotonD1,2013,RefSeq
+ctro,Chlamydia trachomatis D/SotonD5,2013,RefSeq
+ctrt,Chlamydia trachomatis D/SotonD6,2013,RefSeq
+cta,Chlamydia trachomatis A/HAR-13,2005,RefSeq
+cty,Chlamydia trachomatis A2497,2012,RefSeq
+cra,Chlamydia trachomatis A2497,2012,RefSeq
+ctrq,Chlamydia trachomatis A/363,2013,RefSeq
+ctrx,Chlamydia trachomatis A/5291,2013,RefSeq
+ctrz,Chlamydia trachomatis A/7249,2013,RefSeq
+ctrp,Chlamydia trachomatis L1/1322/p2,2013,RefSeq
+ctlj,Chlamydia trachomatis L1/115,2013,RefSeq
+ctlx,Chlamydia trachomatis L1/224,2013,RefSeq
+ctll,Chlamydia trachomatis L1/440/LN,2013,RefSeq
+ctb,Chlamydia trachomatis L2/434/Bu,2008,RefSeq
+ctrr,Chlamydia trachomatis L2/25667R,2013,RefSeq
+ctlf,Chlamydia trachomatis L2/434/Bu(f),2013,RefSeq
+ctli,Chlamydia trachomatis L2/434/Bu(i),2013,RefSeq
+ctl,Chlamydia trachomatis L2b/UCH-1/proctitis,2008,RefSeq
+ctru,Chlamydia trachomatis L2b/UCH-2,2013,RefSeq
+ctrl,Chlamydia trachomatis L2b/LST,2013,RefSeq
+ctrv,Chlamydia trachomatis L2b/CV204,2013,RefSeq
+ctrm,Chlamydia trachomatis L2b/Ams1,2013,RefSeq
+ctla,Chlamydia trachomatis L2b/Ams2,2013,RefSeq
+ctlm,Chlamydia trachomatis L2b/Ams3,2013,RefSeq
+ctls,Chlamydia trachomatis L2b/Ams4,2013,RefSeq
+ctlz,Chlamydia trachomatis L2b/Ams5,2013,RefSeq
+ctlc,Chlamydia trachomatis L2b/Canada1,2013,RefSeq
+ctln,Chlamydia trachomatis L2b/Canada2,2013,RefSeq
+ctlb,Chlamydia trachomatis L2b/795,2013,RefSeq
+ctlq,Chlamydia trachomatis L2b/8200/07,2013,RefSeq
+cto,Chlamydia trachomatis L2c,2011,RefSeq
+ctrn,Chlamydia trachomatis L3/404/LN,2013,RefSeq
+ctj,Chlamydia trachomatis B/Jali20/OT,2009,RefSeq
+ctz,Chlamydia trachomatis B/TZ1A828/OT,2010,RefSeq
+ctg,Chlamydia trachomatis E/11023,2012,RefSeq
+ctk,Chlamydia trachomatis E/150,2012,RefSeq
+csw,Chlamydia trachomatis Sweden2,2012,RefSeq
+ces,Chlamydia trachomatis E/SW3,2012,RefSeq
+ctrb,Chlamydia trachomatis E/Bour,2013,RefSeq
+ctre,Chlamydia trachomatis E/SotonE4,2013,RefSeq
+ctrs,Chlamydia trachomatis E/SotonE8,2013,RefSeq
+ctec,Chlamydia trachomatis E/C599,2014,RefSeq
+cfs,Chlamydia trachomatis F/SW4,2012,RefSeq
+cfw,Chlamydia trachomatis F/SW5,2012,RefSeq
+ctfw,Chlamydia trachomatis F/SWFPminus,2014,RefSeq
+ctrf,Chlamydia trachomatis F/SotonF3,2013,RefSeq
+ctch,Chlamydia trachomatis F/11-96,2013,RefSeq
+ctn,Chlamydia trachomatis G/11074,2012,RefSeq
+ctq,Chlamydia trachomatis G/11222,2012,RefSeq
+ctv,Chlamydia trachomatis G/9301,2012,RefSeq
+ctw,Chlamydia trachomatis G/9768,2012,RefSeq
+ctrg,Chlamydia trachomatis G/SotonG1,2013,RefSeq
+ctri,Chlamydia trachomatis IU824,2013,RefSeq
+ctra,Chlamydia trachomatis IU888,2013,RefSeq
+ctrh,Chlamydia trachomatis Ia/SotonIa1,2013,RefSeq
+ctrj,Chlamydia trachomatis Ia/SotonIa3,2013,RefSeq
+ctrk,Chlamydia trachomatis K/SotonK1,2013,RefSeq
+ctjt,Chlamydia trachomatis J/6276tet1,2013,RefSeq
+ctcf,Chlamydia trachomatis RC-F/69,2013,RefSeq
+ctfs,Chlamydia trachomatis RC-F(s)/342,2013,RefSeq
+cthf,Chlamydia trachomatis RC-F(s)/852,2013,RefSeq
+ctcj,Chlamydia trachomatis RC-J/943,2013,RefSeq
+cthj,Chlamydia trachomatis RC-J/953,2013,RefSeq
+ctmj,Chlamydia trachomatis RC-J/966,2013,RefSeq
+cttj,Chlamydia trachomatis RC-J/971,2013,RefSeq
+ctjs,Chlamydia trachomatis RC-J(s)/122,2013,RefSeq
+ctrc,Chlamydia trachomatis RC-L2/55,2013,RefSeq
+ctrw,Chlamydia trachomatis RC-L2(s)/3,2013,RefSeq
+ctry,Chlamydia trachomatis RC-L2(s)/46,2013,RefSeq
+ctct,Chlamydia trachomatis C/TW-3,2013,RefSeq
+cmu,Chlamydia muridarum Nigg,2000,RefSeq
+cmur,Chlamydia muridarum Nigg CM972,2015,GenBank
+cmn,Chlamydia muridarum Nigg 2 MCR,2014,GenBank
+cmm,Chlamydia muridarum Nigg3 clone G0.1.1,2014,GenBank
+cmg,Chlamydia muridarum Nigg3 clone G28.38.1,2014,GenBank
+cmx,Chlamydia muridarum Nigg3,2014,GenBank
+cmz,Chlamydia muridarum Nigg3 CMUT3-5,2015,GenBank
+cpn,Chlamydia pneumoniae CWL029,1999,RefSeq
+cpa,Chlamydia pneumoniae AR39,2000,RefSeq
+cpj,Chlamydia pneumoniae J138,2000,RefSeq
+cpt,Chlamydia pneumoniae TW183,2003,RefSeq
+clp,Chlamydia pneumoniae LPCoLN,2012,RefSeq
+cpm,Chlamydia pecorum E58,2011,RefSeq
+cpec,Chlamydia pecorum P787,2013,RefSeq
+cpeo,Chlamydia pecorum PV3056/3,2013,RefSeq
+cper,Chlamydia pecorum W73,2013,RefSeq
+chp,Chlamydia psittaci 6BC,2011,RefSeq
+chb,Chlamydia psittaci 6BC,2012,RefSeq
+chs,Chlamydia psittaci 01DC11,2012,RefSeq
+chi,Chlamydia psittaci 02DC15,2012,RefSeq
+cht,Chlamydia psittaci 08DC60,2012,RefSeq
+chc,Chlamydia psittaci C19/98,2012,RefSeq
+chr,Chlamydia psittaci RD1,2012,RefSeq
+cpsc,Chlamydia psittaci CP3,2012,RefSeq
+cpsn,Chlamydia psittaci NJ1,2012,RefSeq
+cpsb,Chlamydia psittaci 84/55,2012,RefSeq
+cpsg,Chlamydia psittaci GR9,2012,RefSeq
+cpsm,Chlamydia psittaci M56,2012,RefSeq
+cpsi,Chlamydia psittaci MN,2012,RefSeq
+cpsv,Chlamydia psittaci VS225,2012,RefSeq
+cpsw,Chlamydia psittaci WC,2012,RefSeq
+cpst,Chlamydia psittaci WS/RT/E30,2012,RefSeq
+cpsd,Chlamydia psittaci 01DC12,2012,RefSeq
+cpsa,Chlamydia psittaci Mat116,2013,RefSeq
+cav,Chlamydia avium,2014,GenBank
+cca,Chlamydophila caviae,2003,RefSeq
+cab,Chlamydophila abortus S26/3,2005,RefSeq
+cabo,Chlamydophila abortus AB7,2015,GenBank
+cfe,Chlamydophila felis,2006,RefSeq
+pcu,Candidatus Protochlamydia amoebophila,2004,RefSeq
+puv,Parachlamydia acanthamoebae,2011,RefSeq
+wch,Waddlia chondrophila,2010,RefSeq
+sng,Simkania negevensis,2011,RefSeq
+ote,Opitutus terrae,2008,RefSeq
+obt,Opitutaceae bacterium TAV5,2015,GenBank
+caa,Coraliomargarita akajimensis,2010,RefSeq
+amu,Akkermansia muciniphila,2008,RefSeq
+min,Methylacidiphilum infernorum,2008,RefSeq
+vba,Verrucomicrobia bacterium,2015,GenBank
+bbu,Borrelia burgdorferi B31,1997,RefSeq
+bbz,Borrelia burgdorferi ZS7,2008,RefSeq
+bbn,Borrelia burgdorferi N40,2012,RefSeq
+bbj,Borrelia burgdorferi JD1,2012,RefSeq
+bbur,Borrelia burgdorferi CA382,2013,RefSeq
+bga,Borrelia garinii PBi,2004,RefSeq
+bgb,Borrelia garinii BgVir,2012,RefSeq
+bgn,Borrelia garinii NMJW1,2012,RefSeq
+bgs,Borrelia garinii SZ,2014,GenBank
+baf,Borrelia afzelii (FLI),2006,RefSeq
+bafz,Borrelia afzelii (Maryland),2012,RefSeq
+bafh,Borrelia afzelii HLJ01,2012,RefSeq
+baft,Borrelia afzelii Tom3107,2014,GenBank
+bafe,Borrelia afzelii K78,2015,GenBank
+bbs,Borrelia bissettii,2011,RefSeq
+bvt,Borrelia valaisiana,2014,GenBank
+bchi,Borrelia chilensis,2015,GenBank
+btu,Borrelia turicatae,2008,RefSeq
+bhr,Borrelia hermsii HS1,2008,RefSeq
+bhi,Borrelia hermsii CC1,2015,GenBank
+bdu,Borrelia duttonii,2008,RefSeq
+bre,Borrelia recurrentis,2008,RefSeq
+bcw,Borrelia crocidurae,2012,RefSeq
+bmo,Borrelia miyamotoi LB-2001,2013,GenBank
+bmiy,Borrelia miyamotoi CT14D4,2015,GenBank
+bpak,Borrelia parkeri,2015,GenBank
+tpa,Treponema pallidum subsp. pallidum Nichols,1998,RefSeq
+tpw,Treponema pallidum subsp. pallidum Nichols,2013,RefSeq
+tpp,Treponema pallidum subsp. pallidum SS14,2008,RefSeq
+tpu,Treponema pallidum subsp. pallidum DAL-1,2012,RefSeq
+tph,Treponema pallidum subsp. pallidum Chicago,2012,RefSeq
+tpo,Treponema pallidum subsp. pallidum Mexico A,2012,RefSeq
+tpas,Treponema pallidum subsp. pallidum Sea 81-4,2014,GenBank
+tpc,Treponema pallidum subsp. pertenue CDC2,2012,RefSeq
+tpg,Treponema pallidum subsp. pertenue Gauthier,2012,RefSeq
+tpm,Treponema pallidum subsp. pertenue SamoaD,2012,RefSeq
+tpb,Treponema pallidum Fribourg-Blanc,2013,RefSeq
+tde,Treponema denticola,2004,RefSeq
+tsu,Treponema succinifaciens,2011,RefSeq
+tbe,Treponema brennaborense,2011,RefSeq
+taz,Treponema azotonutricium,2011,RefSeq
+tpi,Treponema primitia,2011,RefSeq
+tpl,Treponema paraluiscuniculi,2011,RefSeq
+tped,Treponema pedis,2013,RefSeq
+scd,Treponema caldaria,2011,RefSeq
+tpk,Treponema putidum,2014,GenBank
+trm,Treponema sp. OMZ 838,2014,GenBank
+ssm,Spirochaeta smaragdinae,2010,RefSeq
+sta,Spirochaeta thermophila DSM 6192,2010,RefSeq
+stq,Spirochaeta thermophila DSM 6578,2012,RefSeq
+sfc,Spirochaeta africana,2012,RefSeq
+sbu,Sphaerochaeta globosa,2011,RefSeq
+scc,Sphaerochaeta coccoides,2011,RefSeq
+sgp,Sphaerochaeta pleomorpha,2012,RefSeq
+slr,Salinispira pacifica,2014,RefSeq
+lil,Leptospira interrogans serovar Lai 56601,2002,RefSeq
+lie,Leptospira interrogans serovar Lai IPAV,2012,RefSeq
+lic,Leptospira interrogans serovar Copenhageni,2004,RefSeq
+lis,Leptospira interrogans serovar Linhai,2015,GenBank
+lbj,Leptospira borgpetersenii JB197,2006,RefSeq
+lbl,Leptospira borgpetersenii L550,2006,RefSeq
+lbi,Leptospira biflexa serovar Patoc Patoc 1 (Paris),2008,RefSeq
+lbf,Leptospira biflexa serovar Patoc Patoc 1 (Ames),2008,RefSeq
+lst,Leptospira santarosai,2015,GenBank
+tpx,Turneriella parva,2012,RefSeq
+bhy,Brachyspira hyodysenteriae,2009,RefSeq
+brm,Brachyspira murdochii,2010,RefSeq
+bpo,Brachyspira pilosicoli 95/1000,2010,RefSeq
+bpj,Brachyspira pilosicoli B2904,2012,RefSeq
+bpip,Brachyspira pilosicoli P43/6/78,2012,RefSeq
+bpw,Brachyspira pilosicoli WesB,2013,RefSeq
+bip,Brachyspira intermedia,2012,RefSeq
+aba,Candidatus Koribacter versatilis,2006,RefSeq
+aca,Acidobacterium capsulatum,2009,RefSeq
+acm,Granulicella tundricola,2011,RefSeq
+gma,Granulicella mallensis,2012,RefSeq
+tsa,Terriglobus saanensis,2011,RefSeq
+trs,Terriglobus roseus,2012,RefSeq
+sus,Candidatus Solibacter usitatus,2006,RefSeq
+ctm,Chloracidobacterium thermophilum,2011,RefSeq
+fsu,Fibrobacter succinogenes,2009,RefSeq
+fsc,Fibrobacter succinogenes,2012,RefSeq
+emi,Elusimicrobium minutum,2008,RefSeq
+epo,Endomicrobium proavitum,2015,GenBank
+rsd,Uncultured Termite group 1 bacterium phylotype Rs-D17,2008,RefSeq
+,fnu,Fusobacterium nucleatum subsp. nucleatum ATCC 25586,2002
+fnc,Fusobacterium nucleatum subsp. vincentii 3_1_36A2,2013,RefSeq
+fnt,Fusobacterium nucleatum subsp. vincentii 3_1_27,2015,GenBank
+fus,Fusobacterium nucleatum subsp. animalis 4_8,2013,RefSeq
+fne,Fusobacterium nucleatum subsp. animalis 7_1,2015,GenBank
+ipo,Ilyobacter polytropus,2010,RefSeq
+lba,Leptotrichia buccalis,2009,RefSeq
+str,Sebaldella termitidis,2009,RefSeq
+smf,Streptobacillus moniliformis,2009,RefSeq
+sns,Sneathia sp. Sn35,2015,GenBank
+gau,Gemmatimonas aurantiaca,2009,RefSeq
+gba,Gemmatimonadetes bacterium KBS708,2014,GenBank
+tai,Thermanaerovibrio acidaminovorans,2009,RefSeq
+aco,Aminobacterium colombiense,2010,RefSeq
+tli,Thermovirga lienii,2011,RefSeq
+amo,Anaerobaculum mobile,2012,RefSeq
+sbr,Fretibacterium fastidiosum,2013,GenBank
+rba,Rhodopirellula baltica,2003,RefSeq
+psl,Pirellula staleyi,2010,RefSeq
+plm,Planctopirus limnophilus,2010,RefSeq
+pbs,Rubinisphaera brasiliensis,2011,RefSeq
+ipa,Isosphaera pallida,2011,RefSeq
+saci,Singulisphaera acidiphila,2012,RefSeq
+phm,Phycisphaera mikurensis,2012,RefSeq
+syn,Synechocystis sp. PCC 6803,1996,RefSeq
+syz,Synechocystis sp. PCC 6803,2013,RefSeq
+syy,Synechocystis sp. PCC 6803 GT-S,2012,RefSeq
+syt,Synechocystis sp. PCC 6803 GT-I,2012,RefSeq
+sys,Synechocystis sp. PCC 6803 PCC-N,2012,RefSeq
+syq,Synechocystis sp. PCC 6803 PCC-P,2012,RefSeq
+syj,Synechocystis sp. PCC 6714,2014,GenBank
+syw,Synechococcus sp. WH8102,2003,RefSeq
+syc,Synechococcus elongatus PCC6301,2004,RefSeq
+syf,Synechococcus elongatus PCC7942,2005,RefSeq
+syd,Synechococcus sp. CC9605,2005,RefSeq
+sye,Synechococcus sp. CC9902,2005,RefSeq
+syg,Synechococcus sp. CC9311,2006,RefSeq
+syr,Synechococcus sp. RCC307,2007,RefSeq
+syx,Synechococcus sp. WH7803,2007,RefSeq
+syp,Synechococcus sp. PCC7002,2008,RefSeq
+cya,Synechococcus sp. JA-3-3Ab,2006,RefSeq
+cyb,Synechococcus sp. JA-2-3B'a(2-13),2006,RefSeq
+syne,Synechococcus sp. PCC 6312,2012,RefSeq
+synp,Synechococcus sp. PCC 7502,2012,RefSeq
+synk,Synechococcus sp. KORDI-100,2014,GenBank
+synr,Synechococcus sp. KORDI-49,2014,GenBank
+synd,Synechococcus sp. KORDI-52,2014,GenBank
+syu,Synechococcus sp. UTEX 2973,2015,GenBank
+syh,Synechococcus sp. WH 8109,2015,GenBank
+tel,Thermosynechococcus elongatus,2002,RefSeq
+thn,Thermosynechococcus sp. NK55,2014,RefSeq
+mar,Microcystis aeruginosa,2008,RefSeq
+cyt,Cyanothece sp. ATCC 51142,2008,RefSeq
+cyp,Cyanothece sp. PCC 8801,2008,RefSeq
+cyc,Cyanothece sp. PCC 7424,2008,RefSeq
+cyn,Cyanothece sp. PCC 7425,2009,RefSeq
+cyh,Cyanothece sp. PCC 8802,2009,RefSeq
+cyj,Cyanothece sp. PCC 7822,2010,RefSeq
+amr,Acaryochloris marina,2007,RefSeq
+cgc,Cyanobium gracile,2012,RefSeq
+can,Cyanobacterium aponinum,2012,RefSeq
+csn,Cyanobacterium stanieri,2012,RefSeq
+dsl,Dactylococcopsis salina,2012,RefSeq
+hao,Halothece sp. PCC 7418,2012,RefSeq
+glp,Gloeocapsa sp. PCC 7428,2013,RefSeq
+cmp,Chamaesiphon minutus,2013,RefSeq
+cyu,Cyanobacterium UCYN-A,2010,RefSeq
+ter,Trichodesmium erythraeum,2006,RefSeq
+lep,Leptolyngbya sp. PCC 7376,2012,RefSeq
+gei,Geitlerinema sp. PCC 7407,2012,RefSeq
+oac,Oscillatoria acuminata,2012,RefSeq
+oni,Oscillatoria nigro-viridis,2012,RefSeq
+pseu,Pseudanabaena sp. PCC 7367,2012,RefSeq
+cep,Crinalium epipsammum,2012,RefSeq
+mic,Microcoleus sp. PCC 7113,2012,RefSeq
+arp,Arthrospira platensis,2013,RefSeq
+gvi,Gloeobacter violaceus,2003,RefSeq
+glj,Gloeobacter kilaueensis,2013,RefSeq
+ana,Nostoc sp. PCC 7120,2001,RefSeq
+npu,Nostoc punctiforme,2008,RefSeq
+nos,Nostoc sp. PCC 7107,2012,RefSeq
+nop,Nostoc sp. PCC 7524,2012,RefSeq
+ava,Anabaena variabilis,2005,RefSeq
+anb,Anabaena sp. 90,2012,RefSeq
+acy,Anabaena cylindrica,2013,RefSeq
+naz,Anabaena azollae 0708,2010,RefSeq
+csg,Cylindrospermum stagnale,2013,RefSeq
+calo,Calothrix sp. PCC 7507,2012,RefSeq
+calt,Calothrix sp. PCC 6303,2012,RefSeq
+calh,Calothrix sp. 336/3,2015,GenBank
+riv,Rivularia sp. PCC 7116,2012,RefSeq
+pma,Prochlorococcus marinus SS120,2003,RefSeq
+pmm,Prochlorococcus marinus MED4,2003,RefSeq
+pmt,Prochlorococcus marinus MIT 9313,2003,RefSeq
+pmn,Prochlorococcus marinus NATL2A,2005,RefSeq
+pmi,Prochlorococcus marinus MIT9312,2005,RefSeq
+pmb,Prochlorococcus marinus AS9601,2007,RefSeq
+pmc,Prochlorococcus marinus MIT 9515,2007,RefSeq
+pmf,Prochlorococcus marinus MIT 9303,2007,RefSeq
+pmg,Prochlorococcus marinus MIT 9301,2007,RefSeq
+pmh,Prochlorococcus marinus MIT 9215,2007,RefSeq
+pmj,Prochlorococcus marinus MIT 9211,2007,RefSeq
+pme,Prochlorococcus marinus NATL1A,2007,RefSeq
+prc,Prochlorococcus sp. MIT 0604,2014,GenBank
+prm,Prochlorococcus sp. MIT 0801,2014,GenBank
+cthe,Chroococcidiopsis thermalis,2012,RefSeq
+plp,Pleurocapsa sp. PCC 7327,2012,RefSeq
+scs,Stanieria cyanosphaera,2013,RefSeq
+ceo,Cyanobacterium endosymbiont of Epithemia turgida,2015,GenBank
+bth,Bacteroides thetaiotaomicron,2003,RefSeq
+bfr,Bacteroides fragilis YCH46,2004,RefSeq
+bfs,Bacteroides fragilis NCTC9343,2005,RefSeq
+bfg,Bacteroides fragilis 638R,2012,RefSeq
+bfb,Bacteroides fragilis BOB25,2015,GenBank
+bvu,Bacteroides vulgatus,2007,RefSeq
+bhl,Bacteroides helcogenes,2011,RefSeq
+bsa,Bacteroides salanitronis,2011,RefSeq
+bxy,Bacteroides xylanisolvens,2013,RefSeq
+bdo,Bacteroides dorei HS1_L_1_B_010,2014,GenBank
+bdh,Bacteroides dorei HS1_L_3_B_079,2014,GenBank
+bacc,Bacteroides sp. CF50,2013,RefSeq
+pgi,Porphyromonas gingivalis W83,2003,RefSeq
+pgn,Porphyromonas gingivalis ATCC 33277,2008,RefSeq
+pgt,Porphyromonas gingivalis TDC60,2011,RefSeq
+pah,Porphyromonas asaccharolytica,2011,RefSeq
+pdi,Parabacteroides distasonis,2007,RefSeq
+ppn,Paludibacter propionicigenes,2010,RefSeq
+osp,Odoribacter splanchnicus,2011,RefSeq
+tfo,Tannerella forsythia,2012,RefSeq
+bvs,Barnesiella viscericola,2014,GenBank
+pbt,Porphyromonadaceae bacterium,2015,GenBank
+aps,Candidatus Azobacteroides pseudotrichonymphae (Coptotermes formosanus),2008,RefSeq
+pru,Prevotella ruminicola,2010,RefSeq
+pmz,Prevotella melaninogenica,2010,RefSeq
+pdn,Prevotella denticola,2011,RefSeq
+pit,Prevotella intermedia,2012,RefSeq
+pdt,Prevotella dentalis,2013,RefSeq
+pro,Prevotella sp. oral taxon 299,2013,RefSeq
+afd,Alistipes finegoldii,2012,RefSeq
+ash,Alistipes shahii,2013,RefSeq
+rbc,Mucinivorans hirudinis,2014,GenBank
+doi,Draconibacterium orientale,2014,GenBank
+sru,Salinibacter ruber DSM 13855,2005,RefSeq
+srm,Salinibacter ruber M8,2010,RefSeq
+rmr,Rhodothermus marinus DSM 4252,2009,RefSeq
+rmg,Rhodothermus marinus SG0.5JP17-172,2011,RefSeq
+cpi,Chitinophaga pinensis,2009,RefSeq
+nko,Niastella koreensis,2012,RefSeq
+nso,Niabella soli,2015,GenBank
+phe,Pedobacter heparinus,2009,RefSeq
+psn,Pseudopedobacter saltans,2011,RefSeq
+shg,Sphingobacterium sp. 21,2011,RefSeq
+sht,Sphingobacterium sp. ML3W,2014,GenBank
+scn,Solitalea canadensis,2012,RefSeq
+hhy,Haliscomenobacter hydrossis,2011,RefSeq
+sgn,Saprospira grandis,2012,RefSeq
+cmr,Cyclobacterium marinum,2011,RefSeq
+camu,Cyclobacterium amurskyense,2015,GenBank
+bbd,Belliella baltica,2012,RefSeq
+evi,Echinicola vietnamensis,2012,RefSeq
+chu,Cytophaga hutchinsonii,2006,RefSeq
+dfe,Dyadobacter fermentans,2009,RefSeq
+sli,Spirosoma linguale,2010,RefSeq
+srd,Spirosoma radiotolerans,2015,GenBank
+lby,Leadbetterella byssophila,2010,RefSeq
+rsi,Runella slithyformis,2011,RefSeq
+fli,Flexibacter litoralis,2012,RefSeq
+eol,Emticicia oligotrophica,2012,RefSeq
+fae,Fibrella aestuarina,2013,RefSeq
+hsw,Hymenobacter swuensis,2014,GenBank
+hym,Hymenobacter sp. APR13,2014,GenBank
+hyd,Hymenobacter sp. DG25B,2014,GenBank
+pko,Pontibacter korlensis,2015,GenBank
+ruf,Rufibacter sp. DG31D,2015,GenBank
+mtt,Marivirga tractuosa,2010,RefSeq
+aas,Candidatus Amoebophilus asiaticus,2008,RefSeq
+che,Cardinium endosymbiont cEper1 (Encarsia pergandiella),2012,RefSeq
+gfo,Gramella forsetii,2006,RefSeq
+fjo,Flavobacterium johnsoniae,2007,RefSeq
+fps,Flavobacterium psychrophilum JIP02/86,2007,RefSeq
+fpc,Flavobacterium psychrophilum CSF259-93,2014,GenBank
+fpy,Flavobacterium psychrophilum FPG101,2014,GenBank
+fpo,Flavobacterium psychrophilum FPG3,2014,GenBank
+fpq,Flavobacterium psychrophilum 950106-1/1,2014,GenBank
+fpv,Flavobacterium psychrophilum V3-5,2015,GenBank
+fpw,Flavobacterium psychrophilum V4-24,2015,GenBank
+fpk,Flavobacterium psychrophilum v4-33,2015,GenBank
+fbr,Flavobacterium branchiophilum,2011,RefSeq
+fco,Flavobacterium columnare,2012,RefSeq
+fin,Flavobacterium indicum,2012,RefSeq
+coc,Capnocytophaga ochracea,2009,RefSeq
+ccm,Capnocytophaga canimorsus,2011,RefSeq
+rbi,Robiginitalea biformata,2009,RefSeq
+zpr,Zunongwangia profunda,2010,RefSeq
+cat,Croceibacter atlanticus,2010,RefSeq
+ran,Riemerella anatipestifer ATCC 11845 = DSM 15868,2010,RefSeq
+rai,Riemerella anatipestifer ATCC 11845 = DSM 15868,2012,RefSeq
+rar,Riemerella anatipestifer RA-GD,2012,RefSeq
+rag,Riemerella anatipestifer RA-CH-1,2012,RefSeq
+rae,Riemerella anatipestifer RA-CH-2,2013,RefSeq
+rat,Riemerella anatipestifer CH3,2014,GenBank
+fbc,Maribacter sp. HTCC2170,2010,RefSeq
+cao,Cellulophaga algicola,2011,RefSeq
+cly,Cellulophaga lytica DSM 7489,2011,RefSeq
+clh,Cellulophaga lytica HI1,2014,GenBank
+cbal,Cellulophaga baltica NN016038,2015,GenBank
+cbat,Cellulophaga baltica 18,2015,GenBank
+wvi,Weeksella virosa,2011,RefSeq
+kdi,Dokdonia sp. 4H-3-7-5,2011,RefSeq
+dok,Dokdonia sp. MED134,2014,GenBank
+lan,Lacinutrix sp. 5H-3-7-4,2011,RefSeq
+zga,Zobellia galactanivorans,2011,RefSeq
+mrs,Muricauda ruestringensis,2011,RefSeq
+mlt,Muricauda lutaonensis,2015,GenBank
+asl,Aequorivita sublithincola,2012,RefSeq
+orh,Ornithobacterium rhinotracheale DSM 15997,2012,RefSeq
+ori,Ornithobacterium rhinotracheale ORT-UMN 88,2014,GenBank
+ptq,Psychroflexus torquis,2012,RefSeq
+ndo,Nonlabens dokdonensis,2013,RefSeq
+pom,Polaribacter sp. MED152,2013,RefSeq
+eao,Elizabethkingia anophelis,2014,GenBank
+elb,Elizabethkingia sp. BM10,2015,GenBank
+emn,Elizabethkingia meningoseptica,2015,GenBank
+myr,Myroides sp. A21,2015,GenBank
+mpw,Myroides profundi,2015,GenBank
+chz,Chryseobacterium sp. StRB126,2015,GenBank
+cgn,Chryseobacterium gallinarum,2015,GenBank
+win,Winogradskyella sp. PG-2,2015,GenBank
+sze,Siansivirga zeaxanthinifaciens,2015,GenBank
+fba,Flavobacteriaceae bacterium,2009,RefSeq
+smg,Candidatus Sulcia muelleri GWSS,2007,RefSeq
+sms,Candidatus Sulcia muelleri SMDSEM,2009,RefSeq
+smh,Candidatus Sulcia muelleri DMIN,2010,RefSeq
+sum,Candidatus Sulcia muelleri CARI,2010,RefSeq
+smv,Candidatus Sulcia muelleri Sulcia-ALF,2013,RefSeq
+smub,Candidatus Sulcia muelleri BGSS,2014,GenBank
+smum,Candidatus Sulcia muelleri ML,2015,GenBank
+smue,Candidatus Sulcia muelleri TETUND,2015,GenBank
+smup,Candidatus Sulcia muelleri PSPU,2015,GenBank
+bbl,Blattabacterium Bge (Blattella germanica),2009,RefSeq
+bpi,Blattabacterium BPLAN (Periplaneta americana),2009,RefSeq
+bmm,Blattabacterium MADAR (Mastotermes darwiniensis),2011,RefSeq
+bcp,Blattabacterium Cpu (Cryptocercus punctulatus),2012,RefSeq
+bbg,Blattabacterium BGIGA (Blaberus giganteus),2012,RefSeq
+bbq,Blattabacterium sp. (Blatta orientalis),2013,RefSeq
+blp,Blattabacterium sp. (Panesthia angustipennis spadica),2013,RefSeq
+blu,Blattabacterium sp. (Nauphoeta cinerea),2013,RefSeq
+fte,Fluviicola taffensis,2011,RefSeq
+oho,Owenweeksia hongkongensis,2012,RefSeq
+udi,Candidatus Uzinura diaspidicola,2013,RefSeq
+elv,Endosymbiont of Llaveia axin axin,2014,GenBank
+cte,Chlorobium tepidum,2002,RefSeq
+cpc,Chlorobaculum parvum,2008,RefSeq
+cch,Chlorobium chlorochromatii,2005,RefSeq
+cph,Chlorobium phaeobacteroides DSM 266,2006,RefSeq
+cpb,Chlorobium phaeobacteroides BS1,2008,RefSeq
+cli,Chlorobium limicola,2008,RefSeq
+pvi,Chlorobium phaeovibrioides,2007,RefSeq
+plt,Pelodictyon luteolum,2005,RefSeq
+pph,Pelodictyon phaeoclathratiforme,2008,RefSeq
+paa,Prosthecochloris aestuarii,2008,RefSeq
+cts,Chloroherpeton thalassium,2008,RefSeq
+ial,Ignavibacterium album,2012,RefSeq
+mro,Melioribacter roseus,2012,RefSeq
+det,Dehalococcoides mccartyi 195,2005,RefSeq
+deh,Dehalococcoides mccartyi CBDB1,2005,RefSeq
+deb,Dehalococcoides mccartyi BAV1,2007,RefSeq
+dev,Dehalococcoides mccartyi VS,2009,RefSeq
+deg,Dehalococcoides mccartyi GT,2010,RefSeq
+dmc,Dehalococcoides mccartyi BTF08,2013,RefSeq
+dmd,Dehalococcoides mccartyi DCMB5,2013,RefSeq
+dmg,Dehalococcoides mccartyi GY50,2013,RefSeq
+dmx,Dehalococcoides mccartyi CG1,2015,GenBank
+dmy,Dehalococcoides mccartyi CG4,2015,GenBank
+dmz,Dehalococcoides mccartyi CG5,2015,GenBank
+duc,Dehalococcoides sp. UCH007,2015,GenBank
+dly,Dehalogenimonas lykanthroporepellens,2010,RefSeq
+dew,Dehalogenimonas sp. WBC-2,2015,GenBank
+rrs,Roseiflexus sp. RS-1,2007,RefSeq
+rca,Roseiflexus castenholzii,2007,RefSeq
+cau,Chloroflexus aurantiacus,2007,RefSeq
+cag,Chloroflexus aggregans,2009,RefSeq
+chl,Chloroflexus sp. Y-400-fl,2009,RefSeq
+hau,Herpetosiphon aurantiacus,2007,RefSeq
+tro,Thermomicrobium roseum,2009,RefSeq
+sti,Sphaerobacter thermophilus,2009,RefSeq
+atm,Anaerolinea thermophila,2011,RefSeq
+cap,Caldilinea aerophila,2012,RefSeq
+dra,Deinococcus radiodurans,1999,RefSeq
+dge,Deinococcus geothermalis,2006,RefSeq
+ddr,Deinococcus deserti,2009,RefSeq
+dmr,Deinococcus maricopensis,2011,RefSeq
+dpt,Deinococcus proteolyticus,2011,RefSeq
+dgo,Deinococcus gobiensis,2012,RefSeq
+dpd,Deinococcus peraridilitoris,2012,RefSeq
+dsw,Deinococcus swuensis,2015,GenBank
+tra,Truepera radiovictrix,2010,RefSeq
+tth,Thermus thermophilus HB27,2004,RefSeq
+ttj,Thermus thermophilus HB8,2004,RefSeq
+tts,Thermus thermophilus SG0.5JP17-16,2012,RefSeq
+ttl,Thermus thermophilus JL-18,2012,RefSeq
+tsc,Thermus scotoductus,2011,RefSeq
+thc,Thermus sp. CCB_US3_UF1,2012,RefSeq
+tos,Thermus oshimai,2012,RefSeq
+mrb,Meiothermus ruber DSM 1279,2010,RefSeq
+mre,Meiothermus ruber DSM 1279,2013,RefSeq
+msv,Meiothermus silvanus,2010,RefSeq
+opr,Oceanithermus profundus,2010,RefSeq
+mhd,Marinithermus hydrothermalis,2011,RefSeq
+aae,Aquifex aeolicus,1998,RefSeq
+hya,Hydrogenobaculum sp. Y04AAS1,2008,RefSeq
+hho,Hydrogenobaculum sp. HO,2013,RefSeq
+hys,Hydrogenobaculum sp. SN,2013,RefSeq
+hth,Hydrogenobacter thermophilus,2010,RefSeq
+hte,Hydrogenobacter thermophilus,2012,RefSeq
+tal,Thermocrinis albus,2010,RefSeq
+trd,Thermocrinis ruber,2014,GenBank
+sul,Sulfurihydrogenibium sp. YO3AOP1,2008,RefSeq
+saf,Sulfurihydrogenibium azorense,2009,RefSeq
+pmx,Persephonella marina,2009,RefSeq
+tam,Thermovibrio ammonificans,2011,RefSeq
+dte,Desulfurobacterium thermolithotrophum,2011,RefSeq
+tma,Thermotoga maritima MSB8,1999,RefSeq
+tmm,Thermotoga maritima MSB8,2013,RefSeq
+tmi,Thermotoga maritima MSB8,2014,RefSeq
+tmw,Thermotoga maritima MSB8,2015,GenBank
+tmq,Thermotoga maritima Tma100,2015,GenBank
+tmx,Thermotoga maritima Tma200,2015,GenBank
+tpt,Thermotoga petrophila,2007,GenBank
+trq,Thermotoga sp. RQ2,2008,RefSeq
+tna,Thermotoga neapolitana,2009,RefSeq
+tnp,Thermotoga naphthophila,2009,RefSeq
+thq,Thermotoga sp. 2812B,2014,GenBank
+thz,Thermotoga sp. Cell2,2014,GenBank
+thr,Thermotoga sp. RQ7,2015,GenBank
+tle,Thermotoga lettingae,2007,RefSeq
+tta,Thermotoga thermarum,2011,RefSeq
+tme,Thermosipho melanesiensis,2007,RefSeq
+taf,Thermosipho africanus,2008,RefSeq
+fno,Fervidobacterium nodosum,2007,RefSeq
+fpe,Fervidobacterium pennivorans,2012,RefSeq
+pmo,Petrotoga mobilis,2007,RefSeq
+mpz,Marinitoga piezophila,2012,RefSeq
+dtn,Defluviitoga tunisiensis,2015,GenBank
+kol,Kosmotoga olearia,2009,RefSeq
+kpf,Kosmotoga pacifica,2015,GenBank
+mpg,Mesotoga prima,2012,RefSeq
+ccz,Chthonomonas calidirosea,2013,RefSeq
+fgi,Fimbriimonas ginsengisoli,2014,GenBank
+cex,Caldisericum exile,2012,RefSeq
+din,Desulfurispirillum indicum,2011,RefSeq
+ddf,Deferribacter desulfuricans,2010,RefSeq
+dap,Denitrovibrio acetiphilus,2010,RefSeq
+cni,Calditerrivibrio nitroreducens,2010,RefSeq
+fsi,Flexistipes sinusarabici,2011,RefSeq
+dth,Dictyoglomus thermophilum,2008,RefSeq
+dtu,Dictyoglomus turgidum,2008,RefSeq
+tye,Thermodesulfovibrio yellowstonii,2008,RefSeq
+nde,Candidatus Nitrospira defluvii,2010,RefSeq
+lfc,Leptospirillum ferrooxidans,2012,RefSeq
+lfi,Leptospirillum ferriphilum ML-04,2012,RefSeq
+lfp,Leptospirillum ferriphilum YSK,2014,GenBank
+leg,Leptospirillum sp. Group II,2015,GenBank
+tid,Thermodesulfatator indicus,2011,RefSeq
+top,Thermodesulfobacterium geofontis,2011,RefSeq
+tcm,Thermodesulfobacterium commune,2014,GenBank
+saal,Candidatus Saccharimonas aalborgensis,2013,RefSeq
+sbe,Candidatus Saccharibacteria bacterium,2013,RefSeq
+sox,Candidatus Saccharibacteria oral,2014,GenBank
+ttr,Thermobaculum terrenum,2009,RefSeq
+mox,Candidatus Methylomirabilis oxyfera,2012,RefSeq
+srb,Candidate division SR1 bacterium RAAC1_SR1_1,2013,RefSeq
+wwe,Candidate division WWE3 bacterium RAAC2_WWE3_1,2013,RefSeq
+bgw,Bacterium GW2011_GWA1_50_15,2015,GenBank
+bbgw,Berkelbacteria bacterium GW2011_GWE1_39_12,2015,GenBank
+mja,Methanocaldococcus jannaschii,1996,RefSeq
+mfe,Methanocaldococcus fervens,2009,RefSeq
+mvu,Methanocaldococcus vulcanius,2009,RefSeq
+mfs,Methanocaldococcus sp. FS406-22,2010,RefSeq
+mif,Methanocaldococcus infernus,2010,RefSeq
+mjh,Methanocaldococcus sp. JH146,2014,GenBank
+mig,Methanotorris igneus,2011,RefSeq
+mmp,Methanococcus maripaludis S2,2004,RefSeq
+mmq,Methanococcus maripaludis C5,2007,RefSeq
+mmx,Methanococcus maripaludis C6,2007,RefSeq
+mmz,Methanococcus maripaludis C7,2007,RefSeq
+mmd,Methanococcus maripaludis X1,2011,RefSeq
+mmak,Methanococcus maripaludis KA1,2015,GenBank
+mmao,Methanococcus maripaludis OS7,2015,GenBank
+mae,Methanococcus aeolicus,2007,RefSeq
+mvn,Methanococcus vannielii,2007,RefSeq
+mvo,Methanococcus voltae,2010,RefSeq
+mok,Methanothermococcus okinawensis,2011,RefSeq
+mac,Methanosarcina acetivorans,2002,RefSeq
+mba,Methanosarcina barkeri Fusaro,2005,RefSeq
+mby,Methanosarcina barkeri MS,2015,GenBank
+mbw,Methanosarcina barkeri Wiesmoor,2015,GenBank
+mbar,Methanosarcina barkeri 227,2015,GenBank
+mma,Methanosarcina mazei Go1,2002,RefSeq
+mmaz,Methanosarcina mazei Tuc01,2013,RefSeq
+mvc,Methanosarcina vacuolata,2015,GenBank
+mek,Methanosarcina sp. Kolksee,2015,GenBank
+mls,Methanosarcina lacustris,2015,GenBank
+metm,Methanosarcina sp. MTP4,2015,GenBank
+mef,Methanosarcina sp. WH1,2015,GenBank
+meq,Methanosarcina sp. WWM596,2015,GenBank
+msj,Methanosarcina siciliae C2J,2015,GenBank
+msz,Methanosarcina siciliae HI350,2015,GenBank
+msw,Methanosarcina siciliae T4/M,2015,GenBank
+mthe,Methanosarcina thermophila CHTI-55,2015,GenBank
+mthr,Methanosarcina thermophila TM-1,2015,GenBank
+mhor,Methanosarcina horonobensis,2015,GenBank
+mbu,Methanococcoides burtonii,2006,RefSeq
+mmet,Methanococcoides methylutens,2015,GenBank
+mmh,Methanohalophilus mahii,2010,RefSeq
+mev,Methanohalobium evestigatum,2010,RefSeq
+mzh,Methanosalsum zhilinae,2011,RefSeq
+mpy,Methanolobus psychrophilus,2012,RefSeq
+mhz,Methanomethylovorans hollandica,2013,RefSeq
+mtp,Methanosaeta thermophila,2006,RefSeq
+mcj,Methanosaeta concilii,2011,RefSeq
+mhi,Methanosaeta harundinacea,2012,RefSeq
+mhu,Methanospirillum hungatei,2006,RefSeq
+mla,Methanocorpusculum labreanum,2007,RefSeq
+mem,Methanoculleus marisnigri,2007,RefSeq
+mbg,Methanoculleus bourgensis,2012,RefSeq
+mpi,Methanolacinia petrolearia,2010,RefSeq
+mbn,Methanoregula boonei,2007,RefSeq
+mfo,Methanoregula formicica,2012,RefSeq
+mpl,Candidatus Methanosphaerula palustris,2009,RefSeq
+mpd,Methanocella paludicola,2010,RefSeq
+mez,Methanocella conradii,2012,RefSeq
+rci,Methanocella arvoryzae,2007,RefSeq
+mth,Methanothermobacter thermautotrophicus,1997,RefSeq
+mmg,Methanothermobacter marburgensis,2010,RefSeq
+mst,Methanosphaera stadtmanae,2006,RefSeq
+msi,Methanobrevibacter smithii,2007,RefSeq
+mru,Methanobrevibacter ruminantium,2010,RefSeq
+meb,Methanobrevibacter sp. AbM4,2013,RefSeq
+mel,Methanobacterium lacus,2011,RefSeq
+mew,Methanobacterium sp. SWAN-1,2011,RefSeq
+meth,Methanobacterium sp. MB1,2013,RefSeq
+mfc,Methanobacterium formicicum BRM9,2014,GenBank
+mfi,Methanobacterium formicicum DSM1535,2015,GenBank
+mfv,Methanothermus fervidus,2010,RefSeq
+mka,Methanopyrus kandleri,2002,RefSeq
+afu,Archaeoglobus fulgidus DSM 4304,1997,RefSeq
+afg,Archaeoglobus fulgidus DSM 8774,2014,GenBank
+apo,Archaeoglobus profundus,2010,RefSeq
+ave,Archaeoglobus veneficus,2011,RefSeq
+ast,Archaeoglobus sulfaticallidus,2013,RefSeq
+fpl,Ferroglobus placidus,2010,RefSeq
+gac,Geoglobus acetivorans,2015,GenBank
+gah,Geoglobus ahangari,2015,GenBank
+hal,Halobacterium sp. NRC-1,2000,RefSeq
+hsl,Halobacterium salinarum,2008,RefSeq
+hdl,Halobacterium sp. DL1,2015,GenBank
+hma,Haloarcula marismortui,2004,RefSeq
+hhi,Haloarcula hispanica ATCC 33960,2011,RefSeq
+hhn,Haloarcula hispanica N601,2013,RefSeq
+hab,Haloarcula sp. CBA1115,2015,GenBank
+nph,Natronomonas pharaonis,2005,RefSeq
+nmo,Natronomonas moolapensis,2013,RefSeq
+hut,Halorhabdus utahensis,2009,RefSeq
+hti,Halorhabdus tiamatea,2013,RefSeq
+hmu,Halomicrobium mukohataei,2009,RefSeq
+hje,Halalkalicoccus jeotgali,2010,RefSeq
+hsu,Halanaeroarchaeum sulfurireducens,2015,GenBank
+hwa,Haloquadratum walsbyi DSM 16790,2006,RefSeq
+hwc,Haloquadratum walsbyi C23,2012,RefSeq
+hla,Halorubrum lacusprofundi,2009,RefSeq
+hvo,Haloferax volcanii,2010,RefSeq
+hme,Haloferax mediterranei,2012,RefSeq
+hbo,Halogeometricum borinquense,2010,RefSeq
+htu,Haloterrigena turkmenica,2010,RefSeq
+nmg,Natrialba magadii,2010,RefSeq
+hxa,Halopiger xanaduensis,2011,RefSeq
+nat,Natrinema sp. J7-2,2012,RefSeq
+npe,Natrinema pellirubrum,2013,RefSeq
+nge,Natronobacterium gregoryi,2012,RefSeq
+hru,Halovivax ruber,2013,RefSeq
+nou,Natronococcus occultus,2013,RefSeq
+sali,Salinarchaeum sp. Harcht-Bsk1,2013,RefSeq
+hlr,Halostagnicola larsenii,2014,GenBank
+tac,Thermoplasma acidophilum,2000,RefSeq
+tvo,Thermoplasma volcanium,2000,RefSeq
+pto,Picrophilus torridus,2004,RefSeq
+fac,Ferroplasma acidarmanus,2013,RefSeq
+tar,Thermoplasmatales archaeon BRNA1,2013,RefSeq
+max,Candidatus Methanomethylophilus alvus,2013,RefSeq
+mer,Methanomassiliicoccus sp. Mx1-Issoire,2013,RefSeq
+mear,Candidatus Methanoplasma termitum,2015,GenBank
+pho,Pyrococcus horikoshii,1998,RefSeq
+pab,Pyrococcus abyssi,1999,RefSeq
+pfu,Pyrococcus furiosus DSM 3638,2002,RefSeq
+pfi,Pyrococcus furiosus COM1,2012,RefSeq
+pyn,Pyrococcus sp. NA2,2011,RefSeq
+pya,Pyrococcus yayanosii,2011,RefSeq
+pys,Pyrococcus sp. ST04,2012,RefSeq
+tko,Thermococcus kodakarensis,2005,RefSeq
+ton,Thermococcus onnurineus,2008,RefSeq
+tga,Thermococcus gammatolerans,2009,RefSeq
+tsi,Thermococcus sibiricus,2009,RefSeq
+tba,Thermococcus barophilus,2010,RefSeq
+the,Thermococcus sp. 4557,2011,RefSeq
+tha,Thermococcus sp. AM4,2011,RefSeq
+thm,Thermococcus sp. CL1,2012,RefSeq
+tlt,Thermococcus litoralis,2013,RefSeq
+ths,Thermococcus sp. ES1,2014,GenBank
+tnu,Thermococcus nautili,2014,GenBank
+teu,Thermococcus eurythermalis,2014,GenBank
+ppac,Palaeococcus pacificus,2014,GenBank
+abi,Aciduliprofundum boonei,2010,RefSeq
+acf,Aciduliprofundum sp. MAR08-339,2012,RefSeq
+ape,Aeropyrum pernix,1999,RefSeq
+acj,Aeropyrum camini,2013,RefSeq
+smr,Staphylothermus marinus,2007,RefSeq
+shc,Staphylothermus hellenicus,2010,RefSeq
+iho,Ignicoccus hospitalis,2007,RefSeq
+dka,Desulfurococcus kamchatkensis,2009,RefSeq
+dmu,Desulfurococcus mucosus,2011,RefSeq
+dfd,Desulfurococcus fermentans,2012,RefSeq
+tag,Thermosphaera aggregans,2010,RefSeq
+iag,Ignisphaera aggregans,2010,RefSeq
+thg,Thermogladius cellulolyticus,2012,RefSeq
+hbu,Hyperthermus butylicus,2007,RefSeq
+pfm,Pyrolobus fumarii,2011,RefSeq
+sso,Sulfolobus solfataricus P2,2001,RefSeq
+sol,Sulfolobus solfataricus 98/2,2012,RefSeq
+ssoa,Sulfolobus solfataricus SULA,2015,GenBank
+ssol,Sulfolobus solfataricus SULB,2015,GenBank
+ssof,Sulfolobus solfataricus SULC,2015,GenBank
+sto,Sulfolobus tokodaii,2001,RefSeq
+sai,Sulfolobus acidocaldarius DSM 639,2005,RefSeq
+sacn,Sulfolobus acidocaldarius N8,2013,RefSeq
+sacr,Sulfolobus acidocaldarius Ron12/I,2013,RefSeq
+sacs,Sulfolobus acidocaldarius SUSAZ,2013,RefSeq
+sis,Sulfolobus islandicus L.S.2.15,2009,RefSeq
+sia,Sulfolobus islandicus M.14.25,2009,RefSeq
+sim,Sulfolobus islandicus M.16.27,2009,RefSeq
+sid,Sulfolobus islandicus M.16.4,2009,RefSeq
+siy,Sulfolobus islandicus Y.G.57.14,2009,RefSeq
+sin,Sulfolobus islandicus Y.N.15.51,2009,RefSeq
+sii,Sulfolobus islandicus L.D.8.5,2010,RefSeq
+sih,Sulfolobus islandicus HVE10/4,2012,RefSeq
+sir,Sulfolobus islandicus REY15A,2012,RefSeq
+sic,Sulfolobus islandicus LAL14/1,2013,RefSeq
+mse,Metallosphaera sedula,2007,RefSeq
+mcn,Metallosphaera cuprina,2011,RefSeq
+aho,Acidianus hospitalis,2011,RefSeq
+pai,Pyrobaculum aerophilum,2002,RefSeq
+pis,Pyrobaculum islandicum,2006,RefSeq
+pcl,Pyrobaculum calidifontis,2007,RefSeq
+pas,Pyrobaculum arsenaticum,2007,RefSeq
+pyr,Pyrobaculum sp. 1860,2012,RefSeq
+pog,Pyrobaculum oguniense,2012,RefSeq
+tne,Pyrobaculum neutrophilum,2008,RefSeq
+cma,Caldivirga maquilingensis,2007,RefSeq
+tuz,Thermoproteus uzoniensis,2011,RefSeq
+ttn,Thermoproteus tenax,2011,RefSeq
+vdi,Vulcanisaeta distributa,2010,RefSeq
+vmo,Vulcanisaeta moutnovskia,2011,RefSeq
+tpe,Thermofilum pendens,2006,RefSeq
+thb,Thermofilum sp. 1910b,2013,RefSeq
+tcb,Thermofilum carboxyditrophus,2015,GenBank
+thf,Thermofilum sp. 1807-2,2015,GenBank
+asc,Acidilobus saccharovorans,2010,RefSeq
+clg,Caldisphaera lagunensis,2012,RefSeq
+ffo,Fervidicoccus fontis,2012,RefSeq
+nmr,Nitrosopumilus maritimus,2007,RefSeq
+nir,Candidatus Nitrosopumilus sp. AR2,2012,RefSeq
+nid,Candidatus Nitrosopumilus sp. D3C,2015,GenBank
+nin,Candidatus Nitrosopumilus sp. NF5,2015,GenBank
+nkr,Candidatus Nitrosopumilus koreensis,2012,RefSeq
+csy,Cenarchaeum symbiosum,2011,RefSeq
+nga,Candidatus Nitrososphaera gargensis,2012,RefSeq
+nvn,Nitrososphaera viennensis,2014,GenBank
+nev,Candidatus Nitrososphaera evergladensis,2014,GenBank
+csu,Candidatus Caldiarchaeum subterraneum,2013,RefSeq
+nbv,Candidatus Nitrosopelagicus brevis,2015,GenBank
+tah,Thaumarchaeota archaeon,2015,GenBank
+neq,Nanoarchaeum equitans,2003,RefSeq
+kcr,Candidatus Korarchaeum cryptofilum,2008,RefSeq
+hah,Halophilic archaeon,2011,RefSeq
+agw,Archaeon GW2011_AR10,2015,GenBank
+arg,Archaeon GW2011_AR20,2015,GenBank

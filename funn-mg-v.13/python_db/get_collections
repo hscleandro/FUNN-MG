@@ -1,0 +1,29 @@
+
+
+import pandas as pd
+import os
+from progressbar.progressbar import *
+
+from pymongo import MongoClient
+
+address = os.getcwd()
+collums = ["V1", "V2"]
+config_address = address.replace('src', 'setup.conf')
+
+config = pd.read_csv(config_address, sep="=", names=collums)
+
+port = config.iloc[1]["V2"]
+port = port.replace('"', '')
+port = port.replace(' ', '')
+port = int(port)
+host = config.iloc[0]["V2"]
+host = host.replace('"', '')
+host = host.replace(' ', '')
+
+dbname = "metagenomics"
+
+client = MongoClient(host, port)
+db = client[dbname]
+
+all_collection = db.collection_names()
+
