@@ -97,7 +97,7 @@ ATQAAQRAIAMAGLAPKEIDLIILATSTPDDLFGNA
 
 ## Running the tests
 
-* **1- sequence analysis**
+### **1- sequence analysis**
 
 1.) In the terminal, go to the src folder:
 ```
@@ -111,7 +111,7 @@ cd ~FUNN-MG/funn-mg-v*/src
 Rscript funn-mg.R -s EMMA -p LAKES -f '/emma_lakes.kaas' -t '/emma_lakes_kaiju.out' --prot '/emma_lakes_proteomics.fasta'
 ```
 
-* **2- View the results**
+### **2- View the results**
 
 1.) In the terminal, go to the FUNN-MG folder:
 
@@ -128,7 +128,7 @@ R -e "shiny::runApp('view')"
 3.) Using your browser for access the address given at the end of the run.
 
 
-* **3- Plot network**
+### **3- Plot network**
 
 1.) In the terminal, go to the src folder:
 
@@ -154,25 +154,11 @@ Rscript funn-mg.R -s EMMA -p LAKES --display --type class
 Rscript funn-mg.R -s EMMA -p LAKES --display --type subclass
 ``` 
 
+### Help
+
 *Warning*:  For information about the FUNN-MG options run: 
 ```
 Rscript funn-mg.R --help
-```
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## Deployment
@@ -181,16 +167,19 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [R](https://www.r-project.org/) - Main computational language used
+* [shiny](https://maven.apache.org/) - The web framework used Dependency Management
+* [python](https://www.python.org/) - Support computational language used
+* [mongodb](https://www.mongodb.com/) - Database for storage the data processed
+* [KEGG](https://www.genome.jp/kegg/pathway.html) - Data base for relationship identification among the omics components
+
 
 ## Contributing
 
 
 ## Versioning
-FUNN-MG version 1.13
-Last edited: 20/06/2018
+
+FUNN-MG version 1.13. Last edited: 20/06/2018
 
 ## Authors
 
