@@ -57,6 +57,7 @@ Funn-mg supports three types of files from different analyzes: KAAS output, Kaij
 *Warning*: Only KAAS output data is required for tool execution, the other analyzes are optional.
 
 * **KAAS output, example:**
+
 ```
 contig00001_17393_24748_+
 contig00001_24760_26394_+	K06160
@@ -66,6 +67,7 @@ contig00001_28759_29775_+	K00648
 contig00011_4826_5912_-
 ```
 * **Kaiju output, example:**
+
 ```
 C	contig00001_17393_24748_+	34078	Bacteria; Cyanobacteria; NA; Nostocales; Scytonemataceae; Scytonema; Scytonema hofmannii; 
 C	contig00001_24760_26394_+	1163	Bacteria; Cyanobacteria; NA; Nostocales; Nostocaceae; Anabaena; NA; 
@@ -77,6 +79,7 @@ U	contig00011_4826_5912_-	0
 *Warning*: The results of the kaiju tool should contain all taxonomic classifications. For more datails access the [kaiju project](https://github.com/bioinformatics-centre/kaiju/blob/master/README.md).
 
 * **Hit protein fasta (.faa), example:**
+
 ```
 >contig00001_17393_24748_+
 AQLDLLRHQLSPQEVAGRTRAFIIGGENLVAQTIDFWQEFAMQYEGSIAKTSTQISHKSS
@@ -94,7 +97,67 @@ ATQAAQRAIAMAGLAPKEIDLIILATSTPDDLFGNA
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+* **1- sequence analysis**
+
+1.) In the terminal, go to the src folder:
+```
+cd ~FUNN-MG/funn-mg-v*/src
+```
+2.) Download the test file in this [link](https://www.dropbox.com/sh/u31hthujjrnb7m8/AADlfwjfR7dEmacqQOX2qGM0a?dl=0).
+
+
+3.) Running this command:
+```
+Rscript funn-mg.R -s EMMA -p LAKES -f '/emma_lakes.kaas' -t '/emma_lakes_kaiju.out' --prot '/emma_lakes_proteomics.fasta'
+```
+
+* **2- View the results**
+
+1.) In the terminal, go to the FUNN-MG folder:
+
+```
+cd ~FUNN-MG
+```
+
+2.) Running this command:
+
+```
+R -e "shiny::runApp('view')"
+```
+
+3.) Using your browser for access the address given at the end of the run.
+
+
+* **3- Plot network**
+
+1.) In the terminal, go to the src folder:
+
+```
+cd ~FUNN-MG/funn-mg-v*/src
+```
+
+2.) Running this command:
+
+```
+ Rscript funn-mg.R -s EMMA -p LAKES --display --prot
+``` 
+
+3.) Running this command:
+
+```
+Rscript funn-mg.R -s EMMA -p LAKES --display --type class
+``` 
+
+4.) Running this command:
+
+```
+Rscript funn-mg.R -s EMMA -p LAKES --display --type subclass
+``` 
+
+*Warning*:  For information about the FUNN-MG options run: 
+```
+Rscript funn-mg.R --help
+```
 
 ### Break down into end to end tests
 
