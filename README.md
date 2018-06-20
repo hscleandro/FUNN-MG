@@ -161,10 +161,6 @@ Rscript funn-mg.R -s EMMA -p LAKES --display --type subclass
 Rscript funn-mg.R --help
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [R](https://www.r-project.org/) - Main computational language used
@@ -183,9 +179,9 @@ FUNN-MG version 1.13. Last edited: 20/06/2018
 
 ## Authors
 
-* **Leandro Corrêa** - *Developer, , researchdesigner* - [web page](https://hscleandro.wixsite.com/professional)
+* **Leandro Corrêa** - *Developer, , researcher, designer* - [personal web page](https://hscleandro.wixsite.com/professional)
 
-* **Ronnie Alves** - *supervisor, research* - [web page](https://sites.google.com/site/alvesrco/)
+* **Ronnie Alves** - *supervisor, researcher* - [personal web page](https://sites.google.com/site/alvesrco/)
 
 ## License
 
