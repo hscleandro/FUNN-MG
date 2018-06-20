@@ -1,7 +1,9 @@
 # FUNN-MG pipeline version 1.13
 
-Installation and usage documentation of FUNN-MG pipeline version 1.12
+Installation and usage documentation of FUNN-MG pipeline version 1.13
+
 Last edited: 20/06/2018
+
 Author: Leandro Corrêa
 
 ## Getting Started
@@ -10,11 +12,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Linux, (32 bit or 64 bit) or MAC OS X Mavericks (64 bit recommended)
 
-```
-Give examples
-```
+* R version >= 3.2.1.
+
+* Java JRE/JDK version 6 or higher (Oracle or OpenJDK).
+
+* libcurll. For linux users: sudo apt-get install libcurl4-gnutls-dev.
+
+* libxml. For linux users: sudo apt-get install libxml2-dev.
+	
+* libssl-dev. For linux users: sudo apt-get install libssl-dev.
+
+* libsasl2-dev. For linux users: sudo apt-get install  libsasl2-dev.
+
+* pymongo. For linux users: sudo python -m pip install pymongo
+
+* pandas. For linux users: sudo python -m pip install pandas
+
+* mongodb >= 3.2
+
+All R packages dependencies can be found in folder packages, but they are automatically installed with the FUNN-MG.
 
 ### Installing
 
