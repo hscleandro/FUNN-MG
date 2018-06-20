@@ -54,7 +54,7 @@ tar -vzxf funn-mg-v.*.tar.gz
 
 Funn-mg supports three types of files from different analyzes: KAAS output, Kaiju output, proteomic analysis (amino acids fasta sequence). The ids of each analysis must be the same for each sample.
 
-*Warning*: Only KAAS output data is required for tool execution.
+*Warning*: Only KAAS output data is required for tool execution, the other analyzes are optional.
 
 * **KAAS output, example:**
 ```
