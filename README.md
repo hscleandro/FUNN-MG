@@ -56,7 +56,7 @@ Funn-mg supports three types of files from different analyzes: KAAS output, Kaij
 
 *Warning*: Only KAAS output data is required for tool execution, the other analyzes are optional.
 
-* **KAAS output, example:**
+#### **KAAS output, example:**
 
 ```
 contig00001_17393_24748_+
@@ -66,7 +66,7 @@ contig00001_28077_28589_+
 contig00001_28759_29775_+	K00648
 contig00011_4826_5912_-
 ```
-* **Kaiju output, example:**
+#### **Kaiju output, example:**
 
 ```
 C	contig00001_17393_24748_+	34078	Bacteria; Cyanobacteria; NA; Nostocales; Scytonemataceae; Scytonema; Scytonema hofmannii; 
@@ -78,7 +78,7 @@ U	contig00011_4826_5912_-	0
 ```
 *Warning*: The results of the kaiju tool should contain all taxonomic classifications. For more datails access the [kaiju project](https://github.com/bioinformatics-centre/kaiju/blob/master/README.md).
 
-* **Hit protein fasta (.faa), example:**
+#### **Hit protein fasta (.faa), example:**
 
 ```
 >contig00001_17393_24748_+
@@ -97,7 +97,7 @@ ATQAAQRAIAMAGLAPKEIDLIILATSTPDDLFGNA
 
 ## Running the tests
 
-### **1- sequence analysis**
+### **Sequence analysis**
 
 1.) In the terminal, go to the src folder:
 ```
@@ -111,7 +111,7 @@ cd ~FUNN-MG/funn-mg-v*/src
 Rscript funn-mg.R -s EMMA -p LAKES -f '/emma_lakes.kaas' -t '/emma_lakes_kaiju.out' --prot '/emma_lakes_proteomics.fasta'
 ```
 
-### **2- View the results**
+### **View the results**
 
 1.) In the terminal, go to the FUNN-MG folder:
 
@@ -128,7 +128,7 @@ R -e "shiny::runApp('view')"
 3.) Using your browser for access the address given at the end of the run.
 
 
-### **3- Plot network**
+### **Plot network**
 
 1.) In the terminal, go to the src folder:
 
