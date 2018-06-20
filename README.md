@@ -1,10 +1,6 @@
 # FUNN-MG pipeline version 1.13
 
-Installation and usage documentation of FUNN-MG pipeline version 1.13
-
-Last edited: 20/06/2018
-
-Author: Leandro Corrêa
+FUNN-MG is a tool for functional and visual analysis of bi-partite networks (genes and metabolic pathways) calculated from metagenomics data.
 
 ## Getting Started
 
@@ -30,27 +26,29 @@ These instructions will get you a copy of the project up and running on your loc
 
 * pandas. For linux users: sudo python -m pip install pandas
 
-* mongodb >= 3.2
+* mongodb >= 3.2. [Guide for Linux users](https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-16-04)
 
-All R packages dependencies can be found in folder packages, but they are automatically installed with the FUNN-MG.
+* Internet connection.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1.) Install the dependences as defined under the section above
 
-Say what the step will be
+2.) Download or clone the FUNN-MG pipeline
 
+3.) if you downloaded, uncompress and untar the archive file:
 ```
-Give the example
+tar -vzxf funn-mg-v.*.tar.gz
 ```
+4.) Go to "view" and "funn-mg-v.13" folders and look for the "setup.conf" files (they are two files one in each folder). 
 
-And repeat
+4.1) Enter in the in each setup.conf file and address the "host" and "port" of your mongodb. 
 
-```
-until finished
-```
+4.1.1) In the field "output" choose a folder that will receive the temporary files of execution that **should not be erased**.
 
-End with an example of getting some data out of the system or using it for a little demo
+5.) Pending R packages will be installed on first run.
+
+*Warning*: The first execution may be more time-consuming.
 
 ## Running the tests
 
@@ -84,24 +82,23 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+FUNN-MG version 1.13
+Last edited: 20/06/2018
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Leandro Corrêa** - *Developer, , researchdesigner* - [web page](https://hscleandro.wixsite.com/professional)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Ronnie Alves** - *supervisor, research* - [web page](https://sites.google.com/site/alvesrco/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU general public licence - see the [LICENSE](funn-mg-v.13/LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Instituto Tecnológico Vale Belém/PA [ITV/DS](http://www.vale.com/brasil/PT/initiatives/innovation/itv/Paginas/default.aspx)
+* The visualization was inspired by the work of [Dean Atali](https://deanattali.com/).
+
