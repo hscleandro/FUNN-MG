@@ -13,7 +13,7 @@ library(jsonlite)
 library(mongolite)
 library(devtools)
 
-source(paste0(getwd(),"/packages.R"))
+source(paste0(getwd(),"/support/packages.R"))
 
 CONFIG_PATH <- paste0(getwd(),"/setup.conf")
 config_file <- read.table(file = CONFIG_PATH, sep = "=", header = FALSE)

@@ -10,7 +10,7 @@ library(mongolite)
 
 source(paste0(getwd(),"/support/packages.R"))
 
-CONFIG_PATH <- paste0(getwd(),"/support/setup.conf")
+CONFIG_PATH <- paste0(getwd(),"/setup.conf")
 config_file <- read.table(file = CONFIG_PATH, sep = "=", header = FALSE)
 host <- gsub(" ","\\1",as.character(config_file$V2[1]))
 port <- gsub(" ","\\1",as.character(config_file$V2[2]))
