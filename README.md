@@ -97,6 +97,8 @@ ATQAAQRAIAMAGLAPKEIDLIILATSTPDDLFGNA
 
 ## Running the tests
 
+*Warning*:  Before you run the tool, make sure mongodb is active.
+
 ### **Sequence analysis**
 
 1.) In the terminal, go to the src folder:
