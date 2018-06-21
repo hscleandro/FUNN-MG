@@ -158,7 +158,7 @@ Rscript funn-mg.R -s EMMA -p LAKES --display --type subclass
 
 ### Help
 
-*Warning*:  For information about the FUNN-MG options run: 
+For information about the FUNN-MG options run: 
 ```
 Rscript funn-mg.R --help
 ```
