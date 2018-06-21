@@ -631,7 +631,10 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    FUNN-MG is a tool for functional and visual analysis of bi-partite networks (genes and metabolic pathways) calculated       from metagenomics data. This release contains the integration of results from KAAS, Kaiju, and data derived from             proteomic analysis.
+    FUNN-MG is a tool for functional and visual analysis of bi-partite networks 
+    (genes and metabolic pathways) calculated from metagenomics data. 
+    This release contains the integration of results from KAAS, Kaiju, 
+    and data derived from proteomic analysis.
     Copyright (C) 2018 Leandro Correa
 
     FUNN-MG is free software: you can redistribute it and/or modify
