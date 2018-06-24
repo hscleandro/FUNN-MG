@@ -186,7 +186,7 @@ FUNN-MG version 1.13. Last edited: 20/06/2018
 
 ## Authors
 
-* **Leandro Corrêa** - *developer, , researcher, software architect* - [personal web page](https://hscleandro.wixsite.com/professional)
+* **Leandro Corrêa** - *developer, researcher, software architect* - [personal web page](https://hscleandro.wixsite.com/professional)
 
 * **Ronnie Alves** - *supervisor, researcher* - [personal web page](https://sites.google.com/site/alvesrco/)
 
