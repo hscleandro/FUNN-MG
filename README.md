@@ -165,7 +165,7 @@ Rscript funn-mg.R --help
 
 ### Video test
 
-You can check this example running in this **[video](Phttps://youtu.be/m6aMrSSCvO0)**.
+You can check this example running in this [video](Phttps://youtu.be/m6aMrSSCvO0).
 
 ## Built With
 
