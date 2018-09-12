@@ -1,6 +1,6 @@
 # FUNN-MG pipeline version 1.13
 
-FUNN-MG is a tool for functional and visual analysis of bi-partite networks (genes and metabolic pathways) calculated from metagenomics data. This release contains the integration of results from [KAAS](https://www.genome.jp/kaas-bin/kaas_main?prog=GHOSTX&way=s), [Kaiju](http://kaiju.binf.ku.dk/), and data derived from proteomic analysis.
+FUNN-MG is a tool for functional and visual analysis of bi-partite networks (genes and metabolic pathways) calculated from metagenomics data. This release contains the integration of results from [KAAS](https://www.genome.jp/kaas-bin/kaas_main?prog=GHOSTX&way=s), [Kaiju](http://kaiju.binf.ku.dk/), and data derived from the proteomic analysis.
 
 ## Getting Started
 
@@ -97,7 +97,7 @@ ATQAAQRAIAMAGLAPKEIDLIILATSTPDDLFGNA
 
 ## Running the tests
 
-*Warning*:  Before you run the tool, make sure mongodb is active.
+*Warning*:  Before you run the tool, make sure if mongodb is active.
 
 ### **Sequence analysis**
 
