@@ -181,7 +181,7 @@ tar -vzxf funn-mg-docker.tar.gz
 
 *Warning*:  Before you run the the docker version, make sure if you Docker is installed and active. It is recommended that the docker tool has sudo permission, if not execute: sudo sh funn_script.sh
 
-*You can find [here] (https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt) information about the docker (just for linux users) installation. *
+*You can find [here](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt) information about the docker (just for linux users) installation. *
 
 ## Built With
 
