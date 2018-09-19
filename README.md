@@ -169,6 +169,20 @@ You can check this example running in this [video](https://youtu.be/m6aMrSSCvO0)
 
 ## For Docker Users
 
+1.) Uncompress and untar the funn-mg-docker file:
+```
+tar -vzxf funn-mg-docker.tar.gz
+```
+2.) Inside the folder called "funn-mg-docker" search the file funn.conf.
+
+3.) Complete the options that are indicated in the file funn.conf.
+
+4.) On the terminal go to the folder funn-mg-docker and execute the command: sh funn_script.sh
+
+*Warning*:  Before you run the the docker version, make sure if you Docker is installed and active. It is recommended that the docker tool has sudo permission, if not execute: sudo sh funn_script.sh
+
+*You can find information about the docker (just for linux users) at: https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt*
+
 ## Built With
 
 * [R](https://www.r-project.org/) - Main computational language used
