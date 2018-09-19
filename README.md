@@ -167,6 +167,7 @@ Rscript funn-mg.R --help
 
 You can check this example running in this [video](https://youtu.be/m6aMrSSCvO0).
 
+## For Docker Users
 
 ## Built With
 
@@ -175,9 +176,6 @@ You can check this example running in this [video](https://youtu.be/m6aMrSSCvO0)
 * [python](https://www.python.org/) - Support computational language used
 * [mongodb](https://www.mongodb.com/) - Database for storage the data processed
 * [KEGG](https://www.genome.jp/kegg/pathway.html) - Data base for relationship identification among the omics components
-
-
-## Contributing
 
 
 ## Versioning
